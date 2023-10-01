@@ -1,0 +1,3797 @@
+First Name,Email ID,CGPA,Speaking Skills,ML Knowledge,Placement Status
+Sahil ,sahil@xyz.com,7.8,3,3,Not Placed
+Amrita ,amrita@xyz.com,9.1,3,3,Not Placed
+Mamta,mamta@xyz.com,6.9,2,2,Not Placed
+Bhagyashri,bhagyashri@xyz.com,8.4,4,4,Placed
+Divyanshu,divyanshu@xyz.com,6.7,5,5,Placed
+Aditya,aditya@xyz.com,9.2,2,2,Not Placed
+Akshay,akshay@xyz.com,7.3,2,2,Not Placed
+Vaishnavi,vaishnavi@xyz.com,7.9,2,2,Not Placed
+Pranita ,pranita@xyz.com,9.9,5,5,Placed
+Pratik,pratik@xyz.com,7.6,2,2,Not Placed
+Daaniya,daaniya@xyz.com,9.3,5,5,Placed
+Sunny,sunny@xyz.com,6.4,4,4,Placed
+Kaveri,kaveri@xyz.com,8.4,4,4,Placed
+Abhang,abhang@xyz.com,6.6,5,5,Placed
+Aaliya Ruba ,aaliyaruba@xyz.com,7.8,2,2,Not Placed
+Juhi,juhi@xyz.com,8.7,4,4,Placed
+Yash,yash@xyz.com,7.2,4,4,Placed
+Shalini,shalini@xyz.com,7.1,4,4,Placed
+SHIVAM ,shivam@xyz.com,8.0,4,4,Placed
+Nikhil,nikhil@xyz.com,8.5,5,5,Placed
+Mehul,mehul@xyz.com,8.5,2,2,Not Placed
+Anmol,anmol@xyz.com,9.1,4,4,Placed
+Akash,akash@xyz.com,9.7,3,3,Not Placed
+Pavi,pavi@xyz.com,8.7,2,2,Not Placed
+Anushka,anushka@xyz.com,6.5,5,5,Placed
+RAJKAMAL,rajkamal@xyz.com,8.8,4,4,Placed
+Ujwala,ujwala@xyz.com,9.3,3,3,Not Placed
+Darshana,darshana@xyz.com,7.6,4,4,Placed
+Debolina,debolina@xyz.com,6.5,3,3,Not Placed
+Himanshu,himanshu@xyz.com,8.7,2,2,Not Placed
+Rahul,rahul@xyz.com,9.1,3,3,Not Placed
+Darshil,darshil@xyz.com,9.2,4,4,Placed
+sheik,sheik@xyz.com,7.3,5,5,Placed
+Razeen,razeen@xyz.com,7.6,5,5,Placed
+Aastha,aastha@xyz.com,7.1,2,2,Not Placed
+Himanshu,himanshu@xyz.com,8.3,5,5,Placed
+Sridhar ,sridhar@xyz.com,9.2,4,4,Placed
+Abishek,abishek@xyz.com,9.9,2,2,Not Placed
+Sayali,sayali@xyz.com,9.3,2,2,Not Placed
+Himami,himami@xyz.com,7.1,4,4,Placed
+DIVYALAKSHMI,divyalakshmi@xyz.com,7.5,4,4,Placed
+Harshita,harshita@xyz.com,7.3,2,2,Not Placed
+Srimanthula,srimanthula@xyz.com,7.4,2,2,Not Placed
+Aditya,aditya@xyz.com,8.3,3,3,Not Placed
+SANSKRUTI ,sanskruti@xyz.com,7.4,5,5,Placed
+Naqiyah,naqiyah@xyz.com,6.7,3,3,Not Placed
+Shubhranshu,shubhranshu@xyz.com,7.3,2,2,Not Placed
+K,k@xyz.com,9.7,4,4,Placed
+Shubham,shubham@xyz.com,7.9,2,2,Not Placed
+Aditya Prasad,adityaprasad@xyz.com,7.2,3,3,Not Placed
+PRIYANSU,priyansu@xyz.com,7.1,2,2,Not Placed
+Anshuman ,anshuman@xyz.com,8.7,4,4,Placed
+CHIRAG,chirag@xyz.com,8.7,2,2,Not Placed
+Khushbu,khushbu@xyz.com,8.2,5,5,Placed
+Yoginee,yoginee@xyz.com,6.8,4,4,Placed
+Rahul,rahul@xyz.com,7.1,2,2,Not Placed
+Vaidehi ,vaidehi@xyz.com,8.5,5,5,Placed
+Sweta,sweta@xyz.com,9.1,4,4,Placed
+Sharvari,sharvari@xyz.com,9.5,4,4,Placed
+Shilpa,shilpa@xyz.com,6.7,5,5,Placed
+Rackshana,rackshana@xyz.com,6.7,2,2,Not Placed
+Tushar,tushar@xyz.com,8.2,4,4,Placed
+Dhara,dhara@xyz.com,6.5,3,3,Not Placed
+Rajkumar,rajkumar@xyz.com,8.7,5,5,Placed
+Saniya,saniya@xyz.com,9.1,5,5,Placed
+Shubham,shubham@xyz.com,8.9,5,5,Placed
+Nikhil,nikhil@xyz.com,7.4,2,2,Not Placed
+Darshan ,darshan@xyz.com,7.3,5,5,Placed
+Prakhar,prakhar@xyz.com,8.6,4,4,Placed
+Aman ,aman@xyz.com,9.2,2,2,Not Placed
+Daniela,daniela@xyz.com,7.8,2,2,Not Placed
+Tejaswini,tejaswini@xyz.com,7.9,5,5,Placed
+Payal,payal@xyz.com,9.9,3,3,Not Placed
+Ronit,ronit@xyz.com,8.1,2,2,Not Placed
+Priyanka,priyanka@xyz.com,9.5,3,3,Not Placed
+TUSHAR,tushar@xyz.com,9.8,2,2,Not Placed
+Mrunali,mrunali@xyz.com,9.6,3,3,Not Placed
+Vijay,vijay@xyz.com,9.6,3,3,Not Placed
+Rushikesh,rushikesh@xyz.com,6.2,5,5,Placed
+Akash,akash@xyz.com,9.1,5,5,Placed
+Pradnya,pradnya@xyz.com,7.2,5,5,Placed
+Ramesh,ramesh@xyz.com,9.5,2,2,Not Placed
+Pravin,pravin@xyz.com,6.8,3,3,Not Placed
+Ashwini,ashwini@xyz.com,8.4,5,5,Placed
+Bhausaheb,bhausaheb@xyz.com,9.9,2,2,Not Placed
+satish,satish@xyz.com,6.6,2,2,Not Placed
+Shrinivas,shrinivas@xyz.com,6.7,3,3,Not Placed
+Praveen Kumar,praveenkumar@xyz.com,7.6,4,4,Placed
+Nitin,nitin@xyz.com,8.3,3,3,Not Placed
+Dattatray,dattatray@xyz.com,6.3,5,5,Placed
+Abhijeet,abhijeet@xyz.com,8.9,4,4,Placed
+Harpreet,harpreet@xyz.com,9.5,5,5,Placed
+Lokesh Kumar,lokeshkumar@xyz.com,8.5,2,2,Not Placed
+Mahek,mahek@xyz.com,8.5,2,2,Not Placed
+Ramita ,ramita@xyz.com,8.8,4,4,Placed
+Saloni,saloni@xyz.com,7.9,2,2,Not Placed
+Aniket,aniket@xyz.com,7.5,2,2,Not Placed
+Leena,leena@xyz.com,8.3,4,4,Placed
+Maria Christina ,mariachristina@xyz.com,6.4,5,5,Placed
+Varsha,varsha@xyz.com,7.5,2,2,Not Placed
+Archana,archana@xyz.com,7.7,2,2,Not Placed
+AJAYKUMAR,ajaykumar@xyz.com,9.9,2,2,Not Placed
+Anju,anju@xyz.com,7.6,5,5,Placed
+semil,semil@xyz.com,7.9,2,2,Not Placed
+Gaurav,gaurav@xyz.com,7.7,4,4,Placed
+Namrata,namrata@xyz.com,7.4,3,3,Not Placed
+Madhuri,madhuri@xyz.com,9.2,4,4,Placed
+Omkar,omkar@xyz.com,7.6,4,4,Placed
+Priyanka,priyanka@xyz.com,8.7,2,2,Not Placed
+Tejaswini ,tejaswini@xyz.com,9.5,5,5,Placed
+MOUSUMI,mousumi@xyz.com,6.9,4,4,Placed
+Mansi,mansi@xyz.com,9.2,4,4,Placed
+Sanjeev,sanjeev@xyz.com,6.9,3,3,Not Placed
+Pritam ,pritam@xyz.com,7.2,4,4,Placed
+Kiran,kiran@xyz.com,7.5,4,4,Placed
+Rajat,rajat@xyz.com,6.5,5,5,Placed
+suraj,suraj@xyz.com,7.5,2,2,Not Placed
+Capt Sachin,captsachin@xyz.com,6.9,5,5,Placed
+Dnyandeo,dnyandeo@xyz.com,7.6,3,3,Not Placed
+Swayam,swayam@xyz.com,6.5,3,3,Not Placed
+Durga Prasad,durgaprasad@xyz.com,7.3,5,5,Placed
+Debashish,debashish@xyz.com,6.7,3,3,Not Placed
+Nansi,nansi@xyz.com,8.7,3,3,Not Placed
+Subhashree,subhashree@xyz.com,6.7,3,3,Not Placed
+Pratik ,pratik@xyz.com,9.0,3,3,Not Placed
+Sanjukta,sanjukta@xyz.com,7.2,5,5,Placed
+Prateek,prateek@xyz.com,8.5,5,5,Placed
+SOUBHAGYA,soubhagya@xyz.com,6.5,5,5,Placed
+Sritam ,sritam@xyz.com,6.6,3,3,Not Placed
+Sagar,sagar@xyz.com,9.5,4,4,Placed
+Aniket ,aniket@xyz.com,8.1,4,4,Placed
+Sanskruti,sanskruti@xyz.com,9.7,2,2,Not Placed
+Om,om@xyz.com,9.3,5,5,Placed
+Ashish ,ashish@xyz.com,9.1,3,3,Not Placed
+Dhammajyoti,dhammajyoti@xyz.com,7.6,5,5,Placed
+Adarsh,adarsh@xyz.com,7.8,4,4,Placed
+Lekansh,lekansh@xyz.com,7.9,3,3,Not Placed
+Anusha,anusha@xyz.com,8.5,4,4,Placed
+Asis,asis@xyz.com,8.7,2,2,Not Placed
+M.H.SABOO,m.h.saboo@xyz.com,8.3,5,5,Placed
+Aswini,aswini@xyz.com,9.4,5,5,Placed
+Karan,karan@xyz.com,8.6,2,2,Not Placed
+Souvik,souvik@xyz.com,8.5,3,3,Not Placed
+Sanjay,sanjay@xyz.com,9.1,5,5,Placed
+Rushikesh,rushikesh@xyz.com,7.7,3,3,Not Placed
+Bhumika ,bhumika@xyz.com,7.5,4,4,Placed
+VINAYKUMAR,vinaykumar@xyz.com,7.2,3,3,Not Placed
+Aum,aum@xyz.com,7.6,5,5,Placed
+Nandini,nandini@xyz.com,7.3,5,5,Placed
+CHINMAYA KUMAR,chinmayakumar@xyz.com,7.3,3,3,Not Placed
+JAINAM,jainam@xyz.com,9.4,4,4,Placed
+Priyansh,priyansh@xyz.com,6.6,2,2,Not Placed
+Subhasmita,subhasmita@xyz.com,6.6,5,5,Placed
+MAHENDRA,mahendra@xyz.com,8.5,5,5,Placed
+Gajanan ,gajanan@xyz.com,7.7,2,2,Not Placed
+Shalin,shalin@xyz.com,8.1,5,5,Placed
+Aryan Pratyush,aryanpratyush@xyz.com,7.9,4,4,Placed
+Panchal ,panchal@xyz.com,7.1,2,2,Not Placed
+Jaykumar,jaykumar@xyz.com,8.3,3,3,Not Placed
+Sasank,sasank@xyz.com,7.7,5,5,Placed
+Mrunal,mrunal@xyz.com,8.0,4,4,Placed
+Raj,raj@xyz.com,6.5,2,2,Not Placed
+Nishtha,nishtha@xyz.com,9.4,5,5,Placed
+Nita,nita@xyz.com,6.8,5,5,Placed
+Pragati,pragati@xyz.com,6.7,2,2,Not Placed
+Ankush,ankush@xyz.com,7.9,4,4,Placed
+Dileep,dileep@xyz.com,9.3,3,3,Not Placed
+Nitesh,nitesh@xyz.com,6.9,5,5,Placed
+Swetaparna ,swetaparna@xyz.com,8.9,3,3,Not Placed
+Bs ,bs@xyz.com,8.3,2,2,Not Placed
+Sudhanshu,sudhanshu@xyz.com,7.2,2,2,Not Placed
+Ar. Priyanka,ar.priyanka@xyz.com,8.1,3,3,Not Placed
+Omkar,omkar@xyz.com,9.5,5,5,Placed
+Karishma,karishma@xyz.com,9.6,2,2,Not Placed
+Chetan,chetan@xyz.com,7.5,3,3,Not Placed
+Chinmaya,chinmaya@xyz.com,7.9,5,5,Placed
+Dr.Mahendra Prasad,dr.mahendraprasad@xyz.com,9.3,3,3,Not Placed
+Anjali,anjali@xyz.com,9.6,4,4,Placed
+Paras,paras@xyz.com,9.1,2,2,Not Placed
+Saloni,saloni@xyz.com,7.3,5,5,Placed
+Jyotsna,jyotsna@xyz.com,7.5,4,4,Placed
+Khushmita,khushmita@xyz.com,7.6,3,3,Not Placed
+Charandad,charandad@xyz.com,8.0,5,5,Placed
+Ajit,ajit@xyz.com,7.2,3,3,Not Placed
+Mahesh,mahesh@xyz.com,9.1,2,2,Not Placed
+Prajakta ,prajakta@xyz.com,6.7,4,4,Placed
+Subhalaxmi,subhalaxmi@xyz.com,7.1,5,5,Placed
+Sagar kumar ,sagarkumar@xyz.com,7.1,3,3,Not Placed
+Toshal,toshal@xyz.com,9.5,2,2,Not Placed
+Namrata,namrata@xyz.com,9.2,5,5,Placed
+Deepika,deepika@xyz.com,7.9,2,2,Not Placed
+Tushar,tushar@xyz.com,7.3,2,2,Not Placed
+shubham,shubham@xyz.com,7.3,2,2,Not Placed
+kalyani,kalyani@xyz.com,7.8,5,5,Placed
+Tejas,tejas@xyz.com,9.1,5,5,Placed
+Gaurav Vitthal,gauravvitthal@xyz.com,6.9,4,4,Placed
+Yash,yash@xyz.com,8.4,2,2,Not Placed
+Nikunj,nikunj@xyz.com,6.7,2,2,Not Placed
+Madhulika,madhulika@xyz.com,9.2,2,2,Not Placed
+Neha,neha@xyz.com,7.3,2,2,Not Placed
+Reshma ,reshma@xyz.com,7.9,2,2,Not Placed
+Aniket,aniket@xyz.com,9.9,4,4,Placed
+Shubhankar,shubhankar@xyz.com,7.6,2,2,Not Placed
+Shantanu,shantanu@xyz.com,9.3,2,2,Not Placed
+Murali,murali@xyz.com,6.4,3,3,Not Placed
+Neha,neha@xyz.com,8.4,2,2,Not Placed
+Roy,roy@xyz.com,6.6,3,3,Not Placed
+Anshuman,anshuman@xyz.com,7.8,2,2,Not Placed
+Butchi,butchi@xyz.com,8.7,5,5,Placed
+Samyak,samyak@xyz.com,7.2,4,4,Placed
+Minal,minal@xyz.com,7.1,4,4,Placed
+Irshad Ahmed Tufel Ahmed ,irshadahmedtufelahmed@xyz.com,8.0,3,3,Not Placed
+Nimai,nimai@xyz.com,8.5,2,2,Not Placed
+Gaurang,gaurang@xyz.com,8.5,4,4,Placed
+Kishor,kishor@xyz.com,9.1,5,5,Placed
+Sakshi,sakshi@xyz.com,9.7,2,2,Not Placed
+Ashishkumar,ashishkumar@xyz.com,8.7,2,2,Not Placed
+Abhishek,abhishek@xyz.com,6.5,2,2,Not Placed
+Swapnil,swapnil@xyz.com,8.8,5,5,Placed
+Shivam,shivam@xyz.com,9.3,3,3,Not Placed
+Abhisek,abhisek@xyz.com,7.6,4,4,Placed
+Aniket,aniket@xyz.com,6.5,5,5,Placed
+Aniket,aniket@xyz.com,8.7,4,4,Placed
+Reshma ,reshma@xyz.com,9.1,4,4,Placed
+Aniket,aniket@xyz.com,9.2,4,4,Placed
+Shubhankar,shubhankar@xyz.com,7.3,5,5,Placed
+Shantanu,shantanu@xyz.com,7.6,4,4,Placed
+Murali,murali@xyz.com,7.1,4,4,Placed
+Neha,neha@xyz.com,8.3,5,5,Placed
+Roy,roy@xyz.com,9.2,4,4,Placed
+Anshuman,anshuman@xyz.com,9.9,4,4,Placed
+Murtaza Shabbir,murtazashabbir@xyz.com,9.3,3,3,Not Placed
+Sultan,sultan@xyz.com,7.1,2,2,Not Placed
+siddhi,siddhi@xyz.com,7.5,5,5,Placed
+Pravin,pravin@xyz.com,7.3,2,2,Not Placed
+SHATRUGHAN,shatrughan@xyz.com,7.4,2,2,Not Placed
+RASTRASANT TUKDOJI MAHARAJ,rastrasanttukdojimaharaj@xyz.com,8.3,5,5,Placed
+Beryl,beryl@xyz.com,7.4,3,3,Not Placed
+AJAYKUMAR,ajaykumar@xyz.com,6.7,4,4,Placed
+Sakshi ,sakshi@xyz.com,7.3,3,3,Not Placed
+Vedprakash,vedprakash@xyz.com,9.7,3,3,Not Placed
+Alafiya,alafiya@xyz.com,7.9,5,5,Placed
+Aditya ,aditya@xyz.com,7.2,2,2,Not Placed
+Abhishek,abhishek@xyz.com,7.1,5,5,Placed
+sakshi,sakshi@xyz.com,8.7,4,4,Placed
+Ruchita,ruchita@xyz.com,8.7,2,2,Not Placed
+Pinky,pinky@xyz.com,8.2,2,2,Not Placed
+Rehan,rehan@xyz.com,6.8,3,3,Not Placed
+Aarti,aarti@xyz.com,7.1,4,4,Placed
+Pawansing,pawansing@xyz.com,8.5,3,3,Not Placed
+Suhas,suhas@xyz.com,9.1,2,2,Not Placed
+Susan ,susan@xyz.com,9.5,5,5,Placed
+Sushant,sushant@xyz.com,6.7,4,4,Placed
+Shivani,shivani@xyz.com,6.7,3,3,Not Placed
+Sanghavi,sanghavi@xyz.com,8.2,2,2,Not Placed
+Parth ,parth@xyz.com,6.5,5,5,Placed
+Swapnil,swapnil@xyz.com,8.7,4,4,Placed
+Gururaj,gururaj@xyz.com,9.1,2,2,Not Placed
+Anway shailesh,anwayshailesh@xyz.com,8.9,3,3,Not Placed
+Bhikan,bhikan@xyz.com,7.4,5,5,Placed
+Dipali,dipali@xyz.com,7.3,5,5,Placed
+Hrutik,hrutik@xyz.com,8.6,4,4,Placed
+Shruti,shruti@xyz.com,9.2,4,4,Placed
+Koustubh ,koustubh@xyz.com,7.8,2,2,Not Placed
+Bhavik,bhavik@xyz.com,7.9,2,2,Not Placed
+Vikrant,vikrant@xyz.com,9.9,4,4,Placed
+Kanika,kanika@xyz.com,8.1,5,5,Placed
+Mayank,mayank@xyz.com,9.5,3,3,Not Placed
+Sharvari,sharvari@xyz.com,9.8,5,5,Placed
+Rahul,rahul@xyz.com,9.6,5,5,Placed
+Kamla,kamla@xyz.com,9.6,2,2,Not Placed
+Dipannita,dipannita@xyz.com,6.2,5,5,Placed
+Paresh,paresh@xyz.com,9.1,3,3,Not Placed
+Ritu,ritu@xyz.com,7.2,5,5,Placed
+SHUBHANKAR,shubhankar@xyz.com,9.5,5,5,Placed
+Saurabh,saurabh@xyz.com,6.8,4,4,Placed
+Mayuresh,mayuresh@xyz.com,8.4,2,2,Not Placed
+Dhrumil,dhrumil@xyz.com,9.9,5,5,Placed
+Sharvari,sharvari@xyz.com,6.6,2,2,Not Placed
+Faheem,faheem@xyz.com,6.7,2,2,Not Placed
+Bhoomika,bhoomika@xyz.com,7.6,3,3,Not Placed
+RAJ,raj@xyz.com,8.3,3,3,Not Placed
+Vibhav ,vibhav@xyz.com,6.3,4,4,Placed
+Nachiket,nachiket@xyz.com,8.9,3,3,Not Placed
+Vedant ,vedant@xyz.com,9.5,2,2,Not Placed
+Samiksha,samiksha@xyz.com,8.5,5,5,Placed
+Tushar,tushar@xyz.com,8.5,5,5,Placed
+Arya,arya@xyz.com,8.8,2,2,Not Placed
+Vallabh Ashish,vallabhashish@xyz.com,7.9,3,3,Not Placed
+VenkataNarayana,venkatanarayana@xyz.com,7.5,2,2,Not Placed
+Pooja ,pooja@xyz.com,8.3,2,2,Not Placed
+Tushar,tushar@xyz.com,6.4,2,2,Not Placed
+Rupa,rupa@xyz.com,7.5,5,5,Placed
+PUSHP,pushp@xyz.com,7.7,4,4,Placed
+Prajakta ,prajakta@xyz.com,9.9,4,4,Placed
+Akash,akash@xyz.com,7.6,5,5,Placed
+Devesh,devesh@xyz.com,7.9,3,3,Not Placed
+Sarthak,sarthak@xyz.com,7.7,4,4,Placed
+Akshay,akshay@xyz.com,7.4,4,4,Placed
+Amol,amol@xyz.com,9.2,4,4,Placed
+Satyam,satyam@xyz.com,7.6,2,2,Not Placed
+Abhishek,abhishek@xyz.com,8.7,2,2,Not Placed
+Samir,samir@xyz.com,9.5,5,5,Placed
+Vikrant,vikrant@xyz.com,6.9,2,2,Not Placed
+Kundan,kundan@xyz.com,9.2,4,4,Placed
+Elita,elita@xyz.com,6.9,5,5,Placed
+Ajay,ajay@xyz.com,7.2,4,4,Placed
+Aditya,aditya@xyz.com,7.5,4,4,Placed
+Kunal,kunal@xyz.com,6.5,4,4,Placed
+Chandani ,chandani@xyz.com,7.5,3,3,Not Placed
+Amruta ,amruta@xyz.com,6.9,3,3,Not Placed
+Jay,jay@xyz.com,7.6,2,2,Not Placed
+Leon,leon@xyz.com,6.5,5,5,Placed
+Matthew,matthew@xyz.com,7.3,3,3,Not Placed
+Nancy,nancy@xyz.com,6.7,2,2,Not Placed
+Earl,earl@xyz.com,8.7,2,2,Not Placed
+Elbert,elbert@xyz.com,6.7,3,3,Not Placed
+Helen,helen@xyz.com,9.0,4,4,Placed
+Harvey,harvey@xyz.com,7.2,3,3,Not Placed
+Liza,liza@xyz.com,8.5,4,4,Placed
+Charles,charles@xyz.com,6.5,2,2,Not Placed
+Angela,angela@xyz.com,6.6,2,2,Not Placed
+Lesa,lesa@xyz.com,9.5,5,5,Placed
+Beverly,beverly@xyz.com,8.1,5,5,Placed
+Francis,francis@xyz.com,9.7,4,4,Placed
+Joyce,joyce@xyz.com,9.3,4,4,Placed
+Daniel,daniel@xyz.com,9.1,2,2,Not Placed
+Eileen,eileen@xyz.com,7.6,4,4,Placed
+Jose,jose@xyz.com,7.8,2,2,Not Placed
+Billy,billy@xyz.com,7.9,4,4,Placed
+Robert,robert@xyz.com,8.5,3,3,Not Placed
+Nathan,nathan@xyz.com,8.7,5,5,Placed
+Susan,susan@xyz.com,8.3,4,4,Placed
+Elizabeth,elizabeth@xyz.com,9.4,5,5,Placed
+Leonard,leonard@xyz.com,8.6,3,3,Not Placed
+Ava,ava@xyz.com,8.5,2,2,Not Placed
+Anne,anne@xyz.com,9.1,2,2,Not Placed
+Austin,austin@xyz.com,7.7,2,2,Not Placed
+Irene,irene@xyz.com,7.5,5,5,Placed
+Kamala,kamala@xyz.com,7.2,5,5,Placed
+Gina,gina@xyz.com,7.6,3,3,Not Placed
+Pamela,pamela@xyz.com,7.3,4,4,Placed
+Colin,colin@xyz.com,7.3,2,2,Not Placed
+George,george@xyz.com,9.4,2,2,Not Placed
+Cynthia,cynthia@xyz.com,6.6,5,5,Placed
+Theodore,theodore@xyz.com,6.6,2,2,Not Placed
+Martha,martha@xyz.com,8.5,2,2,Not Placed
+Joan,joan@xyz.com,7.7,3,3,Not Placed
+Chauncey,chauncey@xyz.com,8.1,4,4,Placed
+Lester,lester@xyz.com,7.9,2,2,Not Placed
+Andrea,andrea@xyz.com,7.1,2,2,Not Placed
+Evelyn,evelyn@xyz.com,8.3,5,5,Placed
+Craig,craig@xyz.com,7.7,3,3,Not Placed
+Anthony,anthony@xyz.com,8.0,3,3,Not Placed
+Grant,grant@xyz.com,6.5,5,5,Placed
+Donna,donna@xyz.com,9.4,3,3,Not Placed
+Peggy,peggy@xyz.com,6.8,4,4,Placed
+Christopher,christopher@xyz.com,6.7,4,4,Placed
+Ron,ron@xyz.com,7.9,3,3,Not Placed
+Freeman,freeman@xyz.com,9.3,3,3,Not Placed
+Jack,jack@xyz.com,6.9,2,2,Not Placed
+Richard,richard@xyz.com,8.9,5,5,Placed
+Bobby,bobby@xyz.com,8.3,3,3,Not Placed
+Edmund,edmund@xyz.com,7.2,4,4,Placed
+Jennie,jennie@xyz.com,8.1,4,4,Placed
+Edward,edward@xyz.com,9.5,3,3,Not Placed
+Peter,peter@xyz.com,9.6,2,2,Not Placed
+Felipe,felipe@xyz.com,7.5,3,3,Not Placed
+Michael,michael@xyz.com,7.9,4,4,Placed
+John,john@xyz.com,9.3,2,2,Not Placed
+Chelsey,chelsey@xyz.com,9.6,5,5,Placed
+Vincent,vincent@xyz.com,9.1,5,5,Placed
+Joe,joe@xyz.com,7.3,4,4,Placed
+Byron,byron@xyz.com,7.5,5,5,Placed
+Meredith,meredith@xyz.com,7.6,3,3,Not Placed
+Javier,javier@xyz.com,8.0,2,2,Not Placed
+Martin,martin@xyz.com,7.2,2,2,Not Placed
+Curtis,curtis@xyz.com,9.1,5,5,Placed
+Fred,fred@xyz.com,6.7,5,5,Placed
+Ella,ella@xyz.com,7.1,5,5,Placed
+Marcus,marcus@xyz.com,7.1,4,4,Placed
+Jaqueline,jaqueline@xyz.com,9.5,5,5,Placed
+Lloyd,lloyd@xyz.com,9.2,5,5,Placed
+Lesley,lesley@xyz.com,7.9,3,3,Not Placed
+Lawrence,lawrence@xyz.com,7.3,3,3,Not Placed
+Laurence,laurence@xyz.com,7.3,4,4,Placed
+Anna,anna@xyz.com,7.8,5,5,Placed
+Anita,anita@xyz.com,9.1,3,3,Not Placed
+Cherrie,cherrie@xyz.com,6.9,2,2,Not Placed
+Belinda,belinda@xyz.com,8.4,2,2,Not Placed
+Rebecca,rebecca@xyz.com,6.7,3,3,Not Placed
+Mario,mario@xyz.com,9.2,2,2,Not Placed
+Ezekiel,ezekiel@xyz.com,7.3,2,2,Not Placed
+Frank,frank@xyz.com,7.9,5,5,Placed
+Theresa,theresa@xyz.com,9.9,2,2,Not Placed
+Megan,megan@xyz.com,7.6,5,5,Placed
+Betty,betty@xyz.com,9.3,2,2,Not Placed
+Adam,adam@xyz.com,6.4,2,2,Not Placed
+Refugio,refugio@xyz.com,8.4,3,3,Not Placed
+Rosa,rosa@xyz.com,6.6,3,3,Not Placed
+Angel,angel@xyz.com,7.8,4,4,Placed
+Desmond,desmond@xyz.com,8.7,3,3,Not Placed
+Lauren,lauren@xyz.com,7.2,4,4,Placed
+Howard,howard@xyz.com,7.1,2,2,Not Placed
+Lucas,lucas@xyz.com,8.0,5,5,Placed
+Mary,mary@xyz.com,8.5,5,5,Placed
+Linda,linda@xyz.com,8.5,5,5,Placed
+Elmer,elmer@xyz.com,9.1,5,5,Placed
+Samuel,samuel@xyz.com,9.7,2,2,Not Placed
+Diane,diane@xyz.com,8.7,4,4,Placed
+Ignacio,ignacio@xyz.com,6.5,3,3,Not Placed
+Janna,janna@xyz.com,8.8,4,4,Placed
+Harry,harry@xyz.com,9.3,5,5,Placed
+Erica,erica@xyz.com,7.6,4,4,Placed
+Justin,justin@xyz.com,6.5,4,4,Placed
+Zachary,zachary@xyz.com,8.7,2,2,Not Placed
+Thomas,thomas@xyz.com,9.1,2,2,Not Placed
+Barbara,barbara@xyz.com,9.2,5,5,Placed
+Christie,christie@xyz.com,7.3,2,2,Not Placed
+Valerie,valerie@xyz.com,7.6,3,3,Not Placed
+Julie,julie@xyz.com,7.1,4,4,Placed
+James,james@xyz.com,8.3,2,2,Not Placed
+Blaine,blaine@xyz.com,9.2,3,3,Not Placed
+Gary,gary@xyz.com,9.9,4,4,Placed
+Teresa,teresa@xyz.com,9.3,2,2,Not Placed
+Phillip,phillip@xyz.com,7.1,4,4,Placed
+Kevin,kevin@xyz.com,7.5,4,4,Placed
+Latonya,latonya@xyz.com,7.3,3,3,Not Placed
+Joseph,joseph@xyz.com,7.4,3,3,Not Placed
+Alma,alma@xyz.com,8.3,5,5,Placed
+Myrna,myrna@xyz.com,7.4,4,4,Placed
+Maria,maria@xyz.com,6.7,5,5,Placed
+Ola,ola@xyz.com,7.3,2,2,Not Placed
+Joann,joann@xyz.com,9.7,5,5,Placed
+Carol,carol@xyz.com,7.9,3,3,Not Placed
+Ahmad,ahmad@xyz.com,7.2,5,5,Placed
+Georgiana,georgiana@xyz.com,7.1,5,5,Placed
+Mark,mark@xyz.com,8.7,2,2,Not Placed
+Adrianne,adrianne@xyz.com,8.7,5,5,Placed
+Eric,eric@xyz.com,8.2,5,5,Placed
+Lydia,lydia@xyz.com,6.8,3,3,Not Placed
+Ronald,ronald@xyz.com,7.1,2,2,Not Placed
+Jo,jo@xyz.com,8.5,3,3,Not Placed
+Aaron,aaron@xyz.com,9.1,3,3,Not Placed
+Paul,paul@xyz.com,9.5,2,2,Not Placed
+Alexander,alexander@xyz.com,6.7,2,2,Not Placed
+Ramona,ramona@xyz.com,6.7,2,2,Not Placed
+Stephen,stephen@xyz.com,8.2,2,2,Not Placed
+Tiffany,tiffany@xyz.com,6.5,3,3,Not Placed
+Donald,donald@xyz.com,8.7,5,5,Placed
+Emma,emma@xyz.com,9.1,3,3,Not Placed
+Karen,karen@xyz.com,8.9,3,3,Not Placed
+Clarence,clarence@xyz.com,7.4,4,4,Placed
+Margaret,margaret@xyz.com,7.3,2,2,Not Placed
+Lee,lee@xyz.com,8.6,4,4,Placed
+Timothy,timothy@xyz.com,9.2,5,5,Placed
+Arlene,arlene@xyz.com,7.8,3,3,Not Placed
+Carlos,carlos@xyz.com,7.9,4,4,Placed
+Marilyn,marilyn@xyz.com,9.9,5,5,Placed
+Hector,hector@xyz.com,8.1,3,3,Not Placed
+Floyd,floyd@xyz.com,9.5,4,4,Placed
+Ann,ann@xyz.com,9.8,2,2,Not Placed
+Jennifer,jennifer@xyz.com,9.6,3,3,Not Placed
+Virginia,virginia@xyz.com,9.6,2,2,Not Placed
+Tracey,tracey@xyz.com,6.2,4,4,Placed
+William,william@xyz.com,9.1,2,2,Not Placed
+Sarah,sarah@xyz.com,7.2,2,2,Not Placed
+Aida,aida@xyz.com,9.5,2,2,Not Placed
+Douglas,douglas@xyz.com,6.8,3,3,Not Placed
+Lisa,lisa@xyz.com,8.4,5,5,Placed
+Marcie,marcie@xyz.com,9.9,4,4,Placed
+Mack,mack@xyz.com,6.6,5,5,Placed
+Willie,willie@xyz.com,6.7,4,4,Placed
+Jeremiah,jeremiah@xyz.com,7.6,3,3,Not Placed
+Gene,gene@xyz.com,8.3,4,4,Placed
+Heather,heather@xyz.com,6.3,3,3,Not Placed
+David,david@xyz.com,8.9,5,5,Placed
+Brian,brian@xyz.com,9.5,4,4,Placed
+Chris,chris@xyz.com,8.5,3,3,Not Placed
+Ruth,ruth@xyz.com,8.5,5,5,Placed
+Roxanna,roxanna@xyz.com,8.8,2,2,Not Placed
+Gregory,gregory@xyz.com,7.9,3,3,Not Placed
+Patrick,patrick@xyz.com,7.5,4,4,Placed
+Raymond,raymond@xyz.com,8.3,4,4,Placed
+Tom,tom@xyz.com,6.4,5,5,Placed
+Stephanie,stephanie@xyz.com,7.5,4,4,Placed
+Charmaine,charmaine@xyz.com,7.7,3,3,Not Placed
+Augustine,augustine@xyz.com,9.9,5,5,Placed
+Mac,mac@xyz.com,7.6,2,2,Not Placed
+Flossie,flossie@xyz.com,7.9,5,5,Placed
+Jean,jean@xyz.com,7.7,4,4,Placed
+Lori,lori@xyz.com,7.4,3,3,Not Placed
+Jesus,jesus@xyz.com,9.2,5,5,Placed
+Rebekah,rebekah@xyz.com,7.6,5,5,Placed
+Jessica,jessica@xyz.com,8.7,3,3,Not Placed
+Pamula,pamula@xyz.com,9.5,2,2,Not Placed
+Dorothy,dorothy@xyz.com,6.9,3,3,Not Placed
+Trevor,trevor@xyz.com,9.2,4,4,Placed
+Mickey,mickey@xyz.com,6.9,2,2,Not Placed
+Berniece,berniece@xyz.com,7.2,2,2,Not Placed
+Scott,scott@xyz.com,7.5,4,4,Placed
+Arturo,arturo@xyz.com,6.5,4,4,Placed
+Ashley,ashley@xyz.com,7.5,5,5,Placed
+Jacob,jacob@xyz.com,6.9,3,3,Not Placed
+Sherry,sherry@xyz.com,7.6,5,5,Placed
+Frances,frances@xyz.com,6.5,4,4,Placed
+Gerald,gerald@xyz.com,7.3,2,2,Not Placed
+Christy,christy@xyz.com,6.7,5,5,Placed
+Kelly,kelly@xyz.com,8.7,3,3,Not Placed
+Katherine,katherine@xyz.com,6.7,4,4,Placed
+Jeanne,jeanne@xyz.com,9.0,5,5,Placed
+Keri,keri@xyz.com,7.2,3,3,Not Placed
+Katrina,katrina@xyz.com,8.5,2,2,Not Placed
+Debra,debra@xyz.com,6.5,4,4,Placed
+Kathleen,kathleen@xyz.com,6.6,2,2,Not Placed
+Terry,terry@xyz.com,9.5,2,2,Not Placed
+Jason,jason@xyz.com,8.1,5,5,Placed
+Hobert,hobert@xyz.com,9.7,2,2,Not Placed
+Cody,cody@xyz.com,9.3,2,2,Not Placed
+Edna,edna@xyz.com,9.1,2,2,Not Placed
+Joshua,joshua@xyz.com,7.6,2,2,Not Placed
+Amber,amber@xyz.com,7.8,5,5,Placed
+Cheryl,cheryl@xyz.com,7.9,4,4,Placed
+Kathy,kathy@xyz.com,8.5,2,2,Not Placed
+Marina,marina@xyz.com,8.7,5,5,Placed
+Eugene,eugene@xyz.com,8.3,4,4,Placed
+Sharon,sharon@xyz.com,9.4,4,4,Placed
+Micheal,micheal@xyz.com,8.6,2,2,Not Placed
+Clay,clay@xyz.com,8.5,4,4,Placed
+Wayne,wayne@xyz.com,9.1,2,2,Not Placed
+Kathryn,kathryn@xyz.com,7.7,5,5,Placed
+Della,della@xyz.com,7.5,3,3,Not Placed
+Christian,christian@xyz.com,7.2,3,3,Not Placed
+Doris,doris@xyz.com,7.6,2,2,Not Placed
+Luis,luis@xyz.com,7.3,3,3,Not Placed
+Lana,lana@xyz.com,7.3,4,4,Placed
+Josh,josh@xyz.com,9.4,2,2,Not Placed
+Kent,kent@xyz.com,6.6,5,5,Placed
+Leo,leo@xyz.com,6.6,2,2,Not Placed
+Melissa,melissa@xyz.com,8.5,2,2,Not Placed
+Earline,earline@xyz.com,7.7,4,4,Placed
+Cordelia,cordelia@xyz.com,8.1,2,2,Not Placed
+Francisco,francisco@xyz.com,7.9,3,3,Not Placed
+Garry,garry@xyz.com,7.1,5,5,Placed
+Neal,neal@xyz.com,8.3,5,5,Placed
+Brett,brett@xyz.com,7.7,4,4,Placed
+Jesse,jesse@xyz.com,8.0,2,2,Not Placed
+Marc,marc@xyz.com,6.5,5,5,Placed
+Jeffery,jeffery@xyz.com,9.4,5,5,Placed
+Carolyn,carolyn@xyz.com,6.8,5,5,Placed
+Paulette,paulette@xyz.com,6.7,4,4,Placed
+Elvin,elvin@xyz.com,7.9,3,3,Not Placed
+Shirley,shirley@xyz.com,9.3,4,4,Placed
+Thelma,thelma@xyz.com,6.9,2,2,Not Placed
+Jackie,jackie@xyz.com,8.9,4,4,Placed
+Pedro,pedro@xyz.com,8.3,4,4,Placed
+Paula,paula@xyz.com,7.2,2,2,Not Placed
+Sergio,sergio@xyz.com,8.1,5,5,Placed
+Glenn,glenn@xyz.com,9.5,4,4,Placed
+Lillie,lillie@xyz.com,9.6,5,5,Placed
+Sandra,sandra@xyz.com,7.5,2,2,Not Placed
+Chasity,chasity@xyz.com,7.9,5,5,Placed
+Alicia,alicia@xyz.com,9.3,2,2,Not Placed
+Mamie,mamie@xyz.com,9.6,4,4,Placed
+Steven,steven@xyz.com,9.1,3,3,Not Placed
+Bridget,bridget@xyz.com,7.3,2,2,Not Placed
+Dominique,dominique@xyz.com,7.5,4,4,Placed
+Gloria,gloria@xyz.com,7.6,2,2,Not Placed
+Lyle,lyle@xyz.com,8.0,3,3,Not Placed
+Ina,ina@xyz.com,7.2,2,2,Not Placed
+Keith,keith@xyz.com,9.1,2,2,Not Placed
+Sean,sean@xyz.com,6.7,2,2,Not Placed
+Deborah,deborah@xyz.com,7.1,3,3,Not Placed
+Joanna,joanna@xyz.com,7.1,4,4,Placed
+Janette,janette@xyz.com,9.5,2,2,Not Placed
+Doreen,doreen@xyz.com,9.2,3,3,Not Placed
+Patricia,patricia@xyz.com,7.9,5,5,Placed
+Lillian,lillian@xyz.com,7.3,2,2,Not Placed
+Randolph,randolph@xyz.com,7.3,4,4,Placed
+Drew,drew@xyz.com,7.8,5,5,Placed
+Leslie,leslie@xyz.com,9.1,3,3,Not Placed
+Antonio,antonio@xyz.com,6.9,2,2,Not Placed
+Alice,alice@xyz.com,8.4,5,5,Placed
+Judith,judith@xyz.com,6.7,2,2,Not Placed
+Carla,carla@xyz.com,9.2,2,2,Not Placed
+Manuel,manuel@xyz.com,7.3,2,2,Not Placed
+Marianne,marianne@xyz.com,7.9,3,3,Not Placed
+Judy,judy@xyz.com,9.9,3,3,Not Placed
+Kenya,kenya@xyz.com,7.6,5,5,Placed
+Lourdes,lourdes@xyz.com,9.3,5,5,Placed
+Emil,emil@xyz.com,6.4,5,5,Placed
+Sheila,sheila@xyz.com,8.4,2,2,Not Placed
+Delores,delores@xyz.com,6.6,4,4,Placed
+Laura,laura@xyz.com,7.8,3,3,Not Placed
+Alise,alise@xyz.com,8.7,4,4,Placed
+Daryl,daryl@xyz.com,7.2,3,3,Not Placed
+Melanie,melanie@xyz.com,7.1,3,3,Not Placed
+Terrell,terrell@xyz.com,8.0,3,3,Not Placed
+Kristy,kristy@xyz.com,8.5,2,2,Not Placed
+Mitchell,mitchell@xyz.com,8.5,2,2,Not Placed
+Roy,roy@xyz.com,9.1,3,3,Not Placed
+Tommy,tommy@xyz.com,9.7,4,4,Placed
+Warren,warren@xyz.com,8.7,4,4,Placed
+Alan,alan@xyz.com,6.5,2,2,Not Placed
+Juanita,juanita@xyz.com,8.8,2,2,Not Placed
+Darryl,darryl@xyz.com,9.3,5,5,Placed
+Clara,clara@xyz.com,7.6,2,2,Not Placed
+Stacey,stacey@xyz.com,6.5,3,3,Not Placed
+Tony,tony@xyz.com,8.7,2,2,Not Placed
+Andrew,andrew@xyz.com,9.1,2,2,Not Placed
+Elena,elena@xyz.com,9.2,4,4,Placed
+Ricardo,ricardo@xyz.com,7.3,2,2,Not Placed
+Faye,faye@xyz.com,7.6,3,3,Not Placed
+Cora,cora@xyz.com,7.1,2,2,Not Placed
+Leigh,leigh@xyz.com,8.3,4,4,Placed
+Marjorie,marjorie@xyz.com,9.2,2,2,Not Placed
+Robyn,robyn@xyz.com,9.9,5,5,Placed
+Gabrielle,gabrielle@xyz.com,9.3,5,5,Placed
+Clark,clark@xyz.com,7.1,5,5,Placed
+Vanessa,vanessa@xyz.com,7.5,2,2,Not Placed
+Frederic,frederic@xyz.com,7.3,2,2,Not Placed
+Kayla,kayla@xyz.com,7.4,3,3,Not Placed
+Latoya,latoya@xyz.com,8.3,2,2,Not Placed
+Walter,walter@xyz.com,7.4,2,2,Not Placed
+Dominic,dominic@xyz.com,6.7,2,2,Not Placed
+Dana,dana@xyz.com,7.3,4,4,Placed
+Kyle,kyle@xyz.com,9.7,3,3,Not Placed
+Janis,janis@xyz.com,7.9,2,2,Not Placed
+Juli,juli@xyz.com,7.2,5,5,Placed
+Greg,greg@xyz.com,7.1,5,5,Placed
+Steve,steve@xyz.com,8.7,3,3,Not Placed
+Victoria,victoria@xyz.com,8.7,4,4,Placed
+Carl,carl@xyz.com,8.2,4,4,Placed
+Romaine,romaine@xyz.com,6.8,4,4,Placed
+Otis,otis@xyz.com,7.1,4,4,Placed
+Benjamin,benjamin@xyz.com,8.5,2,2,Not Placed
+Leora,leora@xyz.com,9.1,4,4,Placed
+Arthur,arthur@xyz.com,9.5,2,2,Not Placed
+Johnnie,johnnie@xyz.com,6.7,3,3,Not Placed
+Ingrid,ingrid@xyz.com,6.7,2,2,Not Placed
+Eloise,eloise@xyz.com,8.2,4,4,Placed
+Lorna,lorna@xyz.com,6.5,4,4,Placed
+Camille,camille@xyz.com,8.7,5,5,Placed
+Kimberly,kimberly@xyz.com,9.1,4,4,Placed
+Breanna,breanna@xyz.com,8.9,5,5,Placed
+Lucy,lucy@xyz.com,7.4,4,4,Placed
+Jonathan,jonathan@xyz.com,7.3,4,4,Placed
+Traci,traci@xyz.com,8.6,3,3,Not Placed
+Dale,dale@xyz.com,9.2,5,5,Placed
+Stella,stella@xyz.com,7.8,4,4,Placed
+Velma,velma@xyz.com,7.9,2,2,Not Placed
+Rocco,rocco@xyz.com,9.9,4,4,Placed
+Julia,julia@xyz.com,8.1,3,3,Not Placed
+Darrell,darrell@xyz.com,9.5,3,3,Not Placed
+Edie,edie@xyz.com,9.8,5,5,Placed
+Kimberley,kimberley@xyz.com,9.6,5,5,Placed
+Catherine,catherine@xyz.com,9.6,5,5,Placed
+Melvin,melvin@xyz.com,6.2,3,3,Not Placed
+Branden,branden@xyz.com,9.1,5,5,Placed
+Amy,amy@xyz.com,7.2,4,4,Placed
+Ralph,ralph@xyz.com,9.5,3,3,Not Placed
+Loida,loida@xyz.com,6.8,2,2,Not Placed
+Elia,elia@xyz.com,8.4,3,3,Not Placed
+Miguel,miguel@xyz.com,9.9,2,2,Not Placed
+Grace,grace@xyz.com,6.6,3,3,Not Placed
+Kenneth,kenneth@xyz.com,6.7,4,4,Placed
+Rex,rex@xyz.com,7.6,5,5,Placed
+Wilda,wilda@xyz.com,8.3,5,5,Placed
+Ellen,ellen@xyz.com,6.3,4,4,Placed
+Camilla,camilla@xyz.com,8.9,2,2,Not Placed
+Lonny,lonny@xyz.com,9.5,4,4,Placed
+Mike,mike@xyz.com,8.5,4,4,Placed
+Sybil,sybil@xyz.com,8.5,5,5,Placed
+Lois,lois@xyz.com,8.8,5,5,Placed
+Rose,rose@xyz.com,7.9,5,5,Placed
+Gracie,gracie@xyz.com,7.5,4,4,Placed
+Xenia,xenia@xyz.com,8.3,2,2,Not Placed
+Jill,jill@xyz.com,6.4,5,5,Placed
+Eddie,eddie@xyz.com,7.5,5,5,Placed
+Leah,leah@xyz.com,7.7,5,5,Placed
+Ray,ray@xyz.com,9.9,4,4,Placed
+Claire,claire@xyz.com,7.6,4,4,Placed
+Blanche,blanche@xyz.com,7.9,4,4,Placed
+Marie,marie@xyz.com,7.7,4,4,Placed
+Young,young@xyz.com,7.4,3,3,Not Placed
+Cindy,cindy@xyz.com,9.2,2,2,Not Placed
+Brooke,brooke@xyz.com,7.6,4,4,Placed
+Bryan,bryan@xyz.com,8.7,4,4,Placed
+Louise,louise@xyz.com,9.5,2,2,Not Placed
+Desiree,desiree@xyz.com,6.9,4,4,Placed
+Rita,rita@xyz.com,9.2,4,4,Placed
+Tanya,tanya@xyz.com,6.9,5,5,Placed
+Norma,norma@xyz.com,7.2,2,2,Not Placed
+Christine,christine@xyz.com,7.5,2,2,Not Placed
+Ervin,ervin@xyz.com,6.5,3,3,Not Placed
+Bernice,bernice@xyz.com,7.5,5,5,Placed
+Laurie,laurie@xyz.com,6.9,5,5,Placed
+Victor,victor@xyz.com,7.6,5,5,Placed
+Joline,joline@xyz.com,6.5,2,2,Not Placed
+Rudy,rudy@xyz.com,7.3,5,5,Placed
+Charity,charity@xyz.com,6.7,4,4,Placed
+Kaley,kaley@xyz.com,8.7,3,3,Not Placed
+Erika,erika@xyz.com,6.7,2,2,Not Placed
+Bernardo,bernardo@xyz.com,9.0,2,2,Not Placed
+Norman,norman@xyz.com,7.2,2,2,Not Placed
+Michele,michele@xyz.com,8.5,5,5,Placed
+Letitia,letitia@xyz.com,6.5,4,4,Placed
+Raul,raul@xyz.com,6.6,5,5,Placed
+Nell,nell@xyz.com,9.5,4,4,Placed
+Brent,brent@xyz.com,8.1,3,3,Not Placed
+Esther,esther@xyz.com,9.7,3,3,Not Placed
+Penelope,penelope@xyz.com,9.3,2,2,Not Placed
+Zulema,zulema@xyz.com,9.1,5,5,Placed
+Carmelo,carmelo@xyz.com,7.6,5,5,Placed
+Matt,matt@xyz.com,7.8,5,5,Placed
+Frederick,frederick@xyz.com,7.9,5,5,Placed
+Mohammed,mohammed@xyz.com,8.5,5,5,Placed
+Don,don@xyz.com,8.7,3,3,Not Placed
+Carmen,carmen@xyz.com,8.3,2,2,Not Placed
+April,april@xyz.com,9.4,2,2,Not Placed
+Everett,everett@xyz.com,8.6,2,2,Not Placed
+Elsa,elsa@xyz.com,8.5,2,2,Not Placed
+Lorena,lorena@xyz.com,9.1,4,4,Placed
+Priscilla,priscilla@xyz.com,7.7,3,3,Not Placed
+Lindsay,lindsay@xyz.com,7.5,5,5,Placed
+Sheri,sheri@xyz.com,7.2,4,4,Placed
+Shannon,shannon@xyz.com,7.6,3,3,Not Placed
+Hiram,hiram@xyz.com,7.3,2,2,Not Placed
+Debbie,debbie@xyz.com,7.3,2,2,Not Placed
+Annie,annie@xyz.com,9.4,3,3,Not Placed
+Madge,madge@xyz.com,6.6,4,4,Placed
+Al,al@xyz.com,6.6,4,4,Placed
+Bruce,bruce@xyz.com,8.5,4,4,Placed
+Terri,terri@xyz.com,7.7,4,4,Placed
+Dawn,dawn@xyz.com,8.1,2,2,Not Placed
+Albert,albert@xyz.com,7.9,5,5,Placed
+Jorge,jorge@xyz.com,7.1,2,2,Not Placed
+Opal,opal@xyz.com,8.3,4,4,Placed
+Maggie,maggie@xyz.com,7.7,3,3,Not Placed
+Jeffrey,jeffrey@xyz.com,8.0,3,3,Not Placed
+Ericka,ericka@xyz.com,6.5,5,5,Placed
+Juliet,juliet@xyz.com,9.4,5,5,Placed
+Florence,florence@xyz.com,6.8,3,3,Not Placed
+Calvin,calvin@xyz.com,6.7,2,2,Not Placed
+Nicole,nicole@xyz.com,7.9,5,5,Placed
+Yetta,yetta@xyz.com,9.3,5,5,Placed
+Ricky,ricky@xyz.com,6.9,4,4,Placed
+Tammy,tammy@xyz.com,8.9,3,3,Not Placed
+Tonya,tonya@xyz.com,8.3,2,2,Not Placed
+Maxwell,maxwell@xyz.com,7.2,3,3,Not Placed
+Joel,joel@xyz.com,8.1,4,4,Placed
+Lance,lance@xyz.com,9.5,2,2,Not Placed
+Marla,marla@xyz.com,9.6,5,5,Placed
+Mildred,mildred@xyz.com,7.5,4,4,Placed
+Mauro,mauro@xyz.com,7.9,5,5,Placed
+Russell,russell@xyz.com,9.3,4,4,Placed
+Tania,tania@xyz.com,9.6,2,2,Not Placed
+Juan,juan@xyz.com,9.1,2,2,Not Placed
+Sylvia,sylvia@xyz.com,7.3,3,3,Not Placed
+Lena,lena@xyz.com,7.5,3,3,Not Placed
+Louis,louis@xyz.com,7.6,2,2,Not Placed
+Allen,allen@xyz.com,8.0,4,4,Placed
+Nicholas,nicholas@xyz.com,7.2,5,5,Placed
+Terrence,terrence@xyz.com,9.1,2,2,Not Placed
+Emily,emily@xyz.com,6.7,2,2,Not Placed
+Nancey,nancey@xyz.com,7.1,2,2,Not Placed
+Roger,roger@xyz.com,7.1,5,5,Placed
+Ryan,ryan@xyz.com,9.5,2,2,Not Placed
+Dolores,dolores@xyz.com,9.2,5,5,Placed
+Wendy,wendy@xyz.com,7.9,4,4,Placed
+Maurice,maurice@xyz.com,7.3,4,4,Placed
+Teddy,teddy@xyz.com,7.3,5,5,Placed
+Georgia,georgia@xyz.com,7.8,2,2,Not Placed
+Derek,derek@xyz.com,9.1,4,4,Placed
+Chad,chad@xyz.com,6.9,4,4,Placed
+Brandi,brandi@xyz.com,8.4,4,4,Placed
+Phyllis,phyllis@xyz.com,6.7,4,4,Placed
+Jewell,jewell@xyz.com,9.2,5,5,Placed
+Cesar,cesar@xyz.com,7.3,2,2,Not Placed
+Philip,philip@xyz.com,7.9,1,1,Not Placed
+Max,max@xyz.com,9.9,3,3,Not Placed
+Marcia,marcia@xyz.com,7.6,2,2,Not Placed
+Natasha,natasha@xyz.com,9.3,5,5,Placed
+Marion,marion@xyz.com,6.4,1,1,Not Placed
+Ruben,ruben@xyz.com,8.4,3,3,Not Placed
+Harley,harley@xyz.com,6.6,1,1,Not Placed
+Louella,louella@xyz.com,7.8,3,3,Not Placed
+Hillary,hillary@xyz.com,8.7,2,2,Not Placed
+Jerry,jerry@xyz.com,7.2,3,3,Not Placed
+Stuart,stuart@xyz.com,7.1,1,1,Not Placed
+Wilton,wilton@xyz.com,8.0,5,5,Placed
+Ben,ben@xyz.com,8.5,5,5,Placed
+Franklin,franklin@xyz.com,8.5,2,2,Not Placed
+Mabel,mabel@xyz.com,9.1,5,5,Placed
+Johnny,johnny@xyz.com,9.7,1,1,Not Placed
+Jeff,jeff@xyz.com,8.7,2,2,Not Placed
+Stanley,stanley@xyz.com,6.5,2,2,Not Placed
+Janet,janet@xyz.com,8.8,1,1,Not Placed
+Jacqueline,jacqueline@xyz.com,9.3,1,1,Not Placed
+Marcy,marcy@xyz.com,7.6,2,2,Not Placed
+Christina,christina@xyz.com,6.5,2,2,Not Placed
+Michelle,michelle@xyz.com,8.7,3,3,Not Placed
+Melinda,melinda@xyz.com,9.1,5,5,Placed
+Myron,myron@xyz.com,9.2,3,3,Not Placed
+Marta,marta@xyz.com,7.3,2,2,Not Placed
+Rhoda,rhoda@xyz.com,7.6,1,1,Not Placed
+Bonnie,bonnie@xyz.com,7.1,2,2,Not Placed
+Romona,romona@xyz.com,8.3,3,3,Not Placed
+Hilda,hilda@xyz.com,9.2,2,2,Not Placed
+Gladys,gladys@xyz.com,9.9,1,1,Not Placed
+Nora,nora@xyz.com,9.3,2,2,Not Placed
+Mi,mi@xyz.com,7.1,5,5,Placed
+Brandon,brandon@xyz.com,7.5,1,1,Not Placed
+Pauline,pauline@xyz.com,7.3,2,2,Not Placed
+Arletta,arletta@xyz.com,7.4,5,5,Placed
+Malcolm,malcolm@xyz.com,8.3,1,1,Not Placed
+Henry,henry@xyz.com,7.4,1,1,Not Placed
+Caroline,caroline@xyz.com,6.7,5,5,Placed
+Jeanene,jeanene@xyz.com,7.3,2,2,Not Placed
+Denny,denny@xyz.com,9.7,1,1,Not Placed
+Larry,larry@xyz.com,7.9,3,3,Not Placed
+Cliff,cliff@xyz.com,7.2,5,5,Placed
+Lynn,lynn@xyz.com,7.1,5,5,Placed
+Johnna,johnna@xyz.com,8.7,5,5,Placed
+Wallace,wallace@xyz.com,8.7,2,2,Not Placed
+Danielle,danielle@xyz.com,8.2,5,5,Placed
+Danny,danny@xyz.com,6.8,1,1,Not Placed
+Coral,coral@xyz.com,7.1,2,2,Not Placed
+Glennie,glennie@xyz.com,8.5,2,2,Not Placed
+Lorenzo,lorenzo@xyz.com,9.1,5,5,Placed
+Corey,corey@xyz.com,9.5,3,3,Not Placed
+Lorine,lorine@xyz.com,6.7,2,2,Not Placed
+Misty,misty@xyz.com,6.7,3,3,Not Placed
+Marguerite,marguerite@xyz.com,8.2,2,2,Not Placed
+Leticia,leticia@xyz.com,6.5,3,3,Not Placed
+Glen,glen@xyz.com,8.7,3,3,Not Placed
+Noe,noe@xyz.com,9.1,5,5,Placed
+Rosie,rosie@xyz.com,8.9,5,5,Placed
+Duane,duane@xyz.com,7.4,5,5,Placed
+Dominick,dominick@xyz.com,7.3,2,2,Not Placed
+Tomas,tomas@xyz.com,8.6,3,3,Not Placed
+Jerome,jerome@xyz.com,9.2,5,5,Placed
+Leona,leona@xyz.com,7.8,2,2,Not Placed
+Edith,edith@xyz.com,7.9,2,2,Not Placed
+Jeremy,jeremy@xyz.com,9.9,3,3,Not Placed
+Freddy,freddy@xyz.com,8.1,1,1,Not Placed
+Rosemarie,rosemarie@xyz.com,9.5,3,3,Not Placed
+Armando,armando@xyz.com,9.8,5,5,Placed
+Derrick,derrick@xyz.com,9.6,1,1,Not Placed
+Claudia,claudia@xyz.com,9.6,5,5,Placed
+Shelley,shelley@xyz.com,6.2,2,2,Not Placed
+Rogelio,rogelio@xyz.com,9.1,2,2,Not Placed
+Ginger,ginger@xyz.com,7.2,1,1,Not Placed
+Eugenia,eugenia@xyz.com,9.5,2,2,Not Placed
+Betsy,betsy@xyz.com,6.8,2,2,Not Placed
+Gale,gale@xyz.com,8.4,1,1,Not Placed
+Glenda,glenda@xyz.com,9.9,5,5,Placed
+Tracy,tracy@xyz.com,6.6,2,2,Not Placed
+Anderson,anderson@xyz.com,6.7,2,2,Not Placed
+Herman,herman@xyz.com,7.6,2,2,Not Placed
+Roosevelt,roosevelt@xyz.com,8.3,5,5,Placed
+Florine,florine@xyz.com,6.3,2,2,Not Placed
+Maureen,maureen@xyz.com,8.9,1,1,Not Placed
+Emanuel,emanuel@xyz.com,9.5,3,3,Not Placed
+Gilbert,gilbert@xyz.com,8.5,1,1,Not Placed
+Carey,carey@xyz.com,8.5,1,1,Not Placed
+Lucile,lucile@xyz.com,8.8,2,2,Not Placed
+Pierre,pierre@xyz.com,7.9,5,5,Placed
+Maxine,maxine@xyz.com,7.5,1,1,Not Placed
+Emile,emile@xyz.com,8.3,1,1,Not Placed
+Dora,dora@xyz.com,6.4,3,3,Not Placed
+Monica,monica@xyz.com,7.5,1,1,Not Placed
+Lucille,lucille@xyz.com,7.7,1,1,Not Placed
+Eva,eva@xyz.com,9.9,5,5,Placed
+Edwin,edwin@xyz.com,7.6,2,2,Not Placed
+Leeanne,leeanne@xyz.com,7.9,5,5,Placed
+Kristin,kristin@xyz.com,7.7,3,3,Not Placed
+Nathaniel,nathaniel@xyz.com,7.4,3,3,Not Placed
+Kim,kim@xyz.com,9.2,5,5,Placed
+Tatiana,tatiana@xyz.com,7.6,3,3,Not Placed
+Bernadine,bernadine@xyz.com,8.7,3,3,Not Placed
+Simone,simone@xyz.com,9.5,3,3,Not Placed
+Kaylee,kaylee@xyz.com,6.9,3,3,Not Placed
+Alvaro,alvaro@xyz.com,9.2,5,5,Placed
+Rodney,rodney@xyz.com,6.9,5,5,Placed
+Ramon,ramon@xyz.com,7.2,5,5,Placed
+Antonia,antonia@xyz.com,7.5,3,3,Not Placed
+Devin,devin@xyz.com,6.5,1,1,Not Placed
+Benton,benton@xyz.com,7.5,1,1,Not Placed
+Roberto,roberto@xyz.com,6.9,2,2,Not Placed
+Alex,alex@xyz.com,7.6,5,5,Placed
+Connie,connie@xyz.com,6.5,3,3,Not Placed
+Elijah,elijah@xyz.com,7.3,5,5,Placed
+Jasmine,jasmine@xyz.com,6.7,1,1,Not Placed
+Rachel,rachel@xyz.com,8.7,3,3,Not Placed
+Treena,treena@xyz.com,6.7,1,1,Not Placed
+Erin,erin@xyz.com,9.0,2,2,Not Placed
+Dewayne,dewayne@xyz.com,7.2,5,5,Placed
+Rickey,rickey@xyz.com,8.5,5,5,Placed
+Janie,janie@xyz.com,6.5,2,2,Not Placed
+Harold,harold@xyz.com,6.6,3,3,Not Placed
+Veta,veta@xyz.com,9.5,5,5,Placed
+Brandy,brandy@xyz.com,8.1,3,3,Not Placed
+Ken,ken@xyz.com,9.7,1,1,Not Placed
+Erick,erick@xyz.com,9.3,3,3,Not Placed
+Lewis,lewis@xyz.com,9.1,5,5,Placed
+Terrance,terrance@xyz.com,7.6,5,5,Placed
+Milton,milton@xyz.com,7.8,3,3,Not Placed
+Alfred,alfred@xyz.com,7.9,1,1,Not Placed
+Virgil,virgil@xyz.com,8.5,2,2,Not Placed
+Clyde,clyde@xyz.com,8.7,5,5,Placed
+June,june@xyz.com,8.3,5,5,Placed
+Marjory,marjory@xyz.com,9.4,2,2,Not Placed
+Joni,joni@xyz.com,8.6,5,5,Placed
+Bessie,bessie@xyz.com,8.5,1,1,Not Placed
+Lisette,lisette@xyz.com,9.1,2,2,Not Placed
+Alton,alton@xyz.com,7.7,3,3,Not Placed
+Travis,travis@xyz.com,7.5,5,5,Placed
+Deandra,deandra@xyz.com,7.2,1,1,Not Placed
+Bernard,bernard@xyz.com,7.6,2,2,Not Placed
+Clair,clair@xyz.com,7.3,5,5,Placed
+Marvin,marvin@xyz.com,7.3,5,5,Placed
+Bianca,bianca@xyz.com,9.4,2,2,Not Placed
+Jane,jane@xyz.com,6.6,1,1,Not Placed
+Regina,regina@xyz.com,6.6,3,3,Not Placed
+Tyrone,tyrone@xyz.com,8.5,5,5,Placed
+Willene,willene@xyz.com,7.7,3,3,Not Placed
+Hazel,hazel@xyz.com,8.1,2,2,Not Placed
+Vickie,vickie@xyz.com,7.9,2,2,Not Placed
+Gordon,gordon@xyz.com,7.1,3,3,Not Placed
+Isaiah,isaiah@xyz.com,8.3,5,5,Placed
+Stewart,stewart@xyz.com,7.7,2,2,Not Placed
+Youlanda,youlanda@xyz.com,8.0,3,3,Not Placed
+Patsy,patsy@xyz.com,6.5,5,5,Placed
+Amanda,amanda@xyz.com,9.4,3,3,Not Placed
+Rene,rene@xyz.com,6.8,1,1,Not Placed
+Natalie,natalie@xyz.com,6.7,2,2,Not Placed
+Charlotte,charlotte@xyz.com,7.9,5,5,Placed
+Rick,rick@xyz.com,9.3,1,1,Not Placed
+Concetta,concetta@xyz.com,6.9,3,3,Not Placed
+Josie,josie@xyz.com,8.9,5,5,Placed
+Philomena,philomena@xyz.com,8.3,3,3,Not Placed
+Rachelle,rachelle@xyz.com,7.2,2,2,Not Placed
+Eleanor,eleanor@xyz.com,8.1,1,1,Not Placed
+Evangeline,evangeline@xyz.com,9.5,5,5,Placed
+Jordan,jordan@xyz.com,9.6,3,3,Not Placed
+Sue,sue@xyz.com,7.5,2,2,Not Placed
+Christiane,christiane@xyz.com,7.9,5,5,Placed
+Ethel,ethel@xyz.com,9.3,2,2,Not Placed
+Dwayne,dwayne@xyz.com,9.6,2,2,Not Placed
+Jodi,jodi@xyz.com,9.1,2,2,Not Placed
+Ronnie,ronnie@xyz.com,7.3,5,5,Placed
+Leroy,leroy@xyz.com,7.5,5,5,Placed
+Lucinda,lucinda@xyz.com,7.6,1,1,Not Placed
+Darla,darla@xyz.com,8.0,2,2,Not Placed
+Nellie,nellie@xyz.com,7.2,2,2,Not Placed
+Mae,mae@xyz.com,9.1,2,2,Not Placed
+Cameron,cameron@xyz.com,6.7,2,2,Not Placed
+Leonor,leonor@xyz.com,7.1,2,2,Not Placed
+Dennis,dennis@xyz.com,7.1,1,1,Not Placed
+Beatrice,beatrice@xyz.com,9.5,2,2,Not Placed
+Leland,leland@xyz.com,9.2,2,2,Not Placed
+Geraldine,geraldine@xyz.com,7.9,3,3,Not Placed
+Chet,chet@xyz.com,7.3,2,2,Not Placed
+Carrie,carrie@xyz.com,7.3,3,3,Not Placed
+Odette,odette@xyz.com,7.8,2,2,Not Placed
+Carmella,carmella@xyz.com,9.1,5,5,Placed
+Jerald,jerald@xyz.com,6.9,1,1,Not Placed
+Stacy,stacy@xyz.com,8.4,1,1,Not Placed
+Chester,chester@xyz.com,6.7,3,3,Not Placed
+Morgan,morgan@xyz.com,9.2,2,2,Not Placed
+Marilu,marilu@xyz.com,7.3,1,1,Not Placed
+Kendall,kendall@xyz.com,7.9,5,5,Placed
+Jasmin,jasmin@xyz.com,9.9,2,2,Not Placed
+Naomi,naomi@xyz.com,7.6,2,2,Not Placed
+Vernon,vernon@xyz.com,9.3,2,2,Not Placed
+Rocky,rocky@xyz.com,6.4,5,5,Placed
+Chastity,chastity@xyz.com,8.4,3,3,Not Placed
+Magdalena,magdalena@xyz.com,6.6,1,1,Not Placed
+Kristen,kristen@xyz.com,7.8,5,5,Placed
+Blanch,blanch@xyz.com,8.7,1,1,Not Placed
+Myriam,myriam@xyz.com,7.2,1,1,Not Placed
+Arnold,arnold@xyz.com,7.1,1,1,Not Placed
+Aracely,aracely@xyz.com,8.0,5,5,Placed
+Bernadette,bernadette@xyz.com,8.5,1,1,Not Placed
+Randall,randall@xyz.com,8.5,1,1,Not Placed
+Clarice,clarice@xyz.com,9.1,5,5,Placed
+Ana,ana@xyz.com,9.7,1,1,Not Placed
+Tina,tina@xyz.com,8.7,1,1,Not Placed
+Crystal,crystal@xyz.com,6.5,3,3,Not Placed
+Jimmy,jimmy@xyz.com,8.8,2,2,Not Placed
+Diana,diana@xyz.com,9.3,5,5,Placed
+Denise,denise@xyz.com,7.6,2,2,Not Placed
+Tristan,tristan@xyz.com,6.5,2,2,Not Placed
+Tressie,tressie@xyz.com,8.7,5,5,Placed
+Erinn,erinn@xyz.com,9.1,3,3,Not Placed
+Adell,adell@xyz.com,9.2,1,1,Not Placed
+Roderick,roderick@xyz.com,7.3,3,3,Not Placed
+Tim,tim@xyz.com,7.6,3,3,Not Placed
+Phillis,phillis@xyz.com,7.1,5,5,Placed
+Monte,monte@xyz.com,8.3,2,2,Not Placed
+Todd,todd@xyz.com,9.2,5,5,Placed
+Katie,katie@xyz.com,9.9,1,1,Not Placed
+Jake,jake@xyz.com,9.3,2,2,Not Placed
+Wade,wade@xyz.com,7.1,2,2,Not Placed
+Pat,pat@xyz.com,7.5,3,3,Not Placed
+Kristopher,kristopher@xyz.com,7.3,1,1,Not Placed
+Kirk,kirk@xyz.com,7.4,3,3,Not Placed
+Harrison,harrison@xyz.com,8.3,2,2,Not Placed
+Milan,milan@xyz.com,7.4,5,5,Placed
+Adrian,adrian@xyz.com,6.7,1,1,Not Placed
+Beth,beth@xyz.com,7.3,3,3,Not Placed
+Mazie,mazie@xyz.com,9.7,2,2,Not Placed
+Junior,junior@xyz.com,7.9,5,5,Placed
+Abdul,abdul@xyz.com,7.2,1,1,Not Placed
+Gabriel,gabriel@xyz.com,7.1,2,2,Not Placed
+Damien,damien@xyz.com,8.7,3,3,Not Placed
+Bonita,bonita@xyz.com,8.7,5,5,Placed
+Andres,andres@xyz.com,8.2,5,5,Placed
+Angelica,angelica@xyz.com,6.8,1,1,Not Placed
+Sam,sam@xyz.com,7.1,1,1,Not Placed
+Israel,israel@xyz.com,8.5,2,2,Not Placed
+Samantha,samantha@xyz.com,9.1,2,2,Not Placed
+Bradley,bradley@xyz.com,9.5,1,1,Not Placed
+Isaac,isaac@xyz.com,6.7,5,5,Placed
+Hermelinda,hermelinda@xyz.com,6.7,3,3,Not Placed
+Alexis,alexis@xyz.com,8.2,5,5,Placed
+Lottie,lottie@xyz.com,6.5,5,5,Placed
+Lizzie,lizzie@xyz.com,8.7,2,2,Not Placed
+Roxie,roxie@xyz.com,9.1,5,5,Placed
+Wanda,wanda@xyz.com,8.9,3,3,Not Placed
+Charisse,charisse@xyz.com,7.4,5,5,Placed
+Trent,trent@xyz.com,7.3,5,5,Placed
+Devon,devon@xyz.com,8.6,1,1,Not Placed
+Janice,janice@xyz.com,9.2,2,2,Not Placed
+Lina,lina@xyz.com,7.8,5,5,Placed
+Birdie,birdie@xyz.com,7.9,2,2,Not Placed
+Clifford,clifford@xyz.com,9.9,2,2,Not Placed
+Alfonso,alfonso@xyz.com,8.1,3,3,Not Placed
+Shawn,shawn@xyz.com,9.5,3,3,Not Placed
+Marlene,marlene@xyz.com,9.8,1,1,Not Placed
+Alvin,alvin@xyz.com,9.6,3,3,Not Placed
+Essie,essie@xyz.com,9.6,2,2,Not Placed
+Dann,dann@xyz.com,6.2,5,5,Placed
+Gwendolyn,gwendolyn@xyz.com,9.1,5,5,Placed
+Krystle,krystle@xyz.com,7.2,2,2,Not Placed
+Cheryle,cheryle@xyz.com,9.5,3,3,Not Placed
+Pam,pam@xyz.com,6.8,2,2,Not Placed
+Peg,peg@xyz.com,8.4,2,2,Not Placed
+Lovella,lovella@xyz.com,9.9,2,2,Not Placed
+Quincy,quincy@xyz.com,6.6,5,5,Placed
+Meghan,meghan@xyz.com,6.7,1,1,Not Placed
+Mariah,mariah@xyz.com,7.6,1,1,Not Placed
+Loretta,loretta@xyz.com,8.3,5,5,Placed
+Rosalind,rosalind@xyz.com,6.3,3,3,Not Placed
+Dixie,dixie@xyz.com,8.9,1,1,Not Placed
+Dena,dena@xyz.com,9.5,1,1,Not Placed
+Barry,barry@xyz.com,8.5,1,1,Not Placed
+Jocelyn,jocelyn@xyz.com,8.5,2,2,Not Placed
+Doug,doug@xyz.com,8.8,2,2,Not Placed
+Courtney,courtney@xyz.com,7.9,5,5,Placed
+Major,major@xyz.com,7.5,2,2,Not Placed
+Cordie,cordie@xyz.com,8.3,1,1,Not Placed
+Bette,bette@xyz.com,6.4,5,5,Placed
+Rafael,rafael@xyz.com,7.5,1,1,Not Placed
+Margarita,margarita@xyz.com,7.7,1,1,Not Placed
+Hattie,hattie@xyz.com,9.9,1,1,Not Placed
+Reynaldo,reynaldo@xyz.com,7.6,3,3,Not Placed
+Nicolas,nicolas@xyz.com,7.9,3,3,Not Placed
+Curt,curt@xyz.com,7.7,2,2,Not Placed
+Dustin,dustin@xyz.com,7.4,5,5,Placed
+Octavio,octavio@xyz.com,9.2,3,3,Not Placed
+Yuko,yuko@xyz.com,7.6,2,2,Not Placed
+Ernest,ernest@xyz.com,8.7,2,2,Not Placed
+Troy,troy@xyz.com,9.5,3,3,Not Placed
+Minnie,minnie@xyz.com,6.9,1,1,Not Placed
+Myra,myra@xyz.com,9.2,3,3,Not Placed
+Shawna,shawna@xyz.com,6.9,1,1,Not Placed
+Jeffry,jeffry@xyz.com,7.2,3,3,Not Placed
+Tyler,tyler@xyz.com,7.5,3,3,Not Placed
+Loreta,loreta@xyz.com,6.5,5,5,Placed
+Lona,lona@xyz.com,7.5,5,5,Placed
+Toni,toni@xyz.com,6.9,1,1,Not Placed
+Agnes,agnes@xyz.com,7.6,1,1,Not Placed
+Wesley,wesley@xyz.com,6.5,3,3,Not Placed
+Oscar,oscar@xyz.com,7.3,1,1,Not Placed
+Darwin,darwin@xyz.com,6.7,3,3,Not Placed
+Wiley,wiley@xyz.com,8.7,1,1,Not Placed
+Elaine,elaine@xyz.com,6.7,3,3,Not Placed
+Rosalie,rosalie@xyz.com,9.0,5,5,Placed
+Brittney,brittney@xyz.com,7.2,1,1,Not Placed
+Margret,margret@xyz.com,8.5,5,5,Placed
+Vicente,vicente@xyz.com,6.5,3,3,Not Placed
+Aslam,aslam@xyz.com,6.6,3,3,Not Placed
+Yogesh,yogesh@xyz.com,9.5,3,3,Not Placed
+Hafsa,hafsa@xyz.com,8.1,3,3,Not Placed
+Prem,prem@xyz.com,9.7,5,5,Placed
+Aboli ,aboli@xyz.com,9.3,5,5,Placed
+Bhavesh,bhavesh@xyz.com,9.1,3,3,Not Placed
+Trupti,trupti@xyz.com,7.6,1,1,Not Placed
+omkar,omkar@xyz.com,7.8,3,3,Not Placed
+PIYUSH,piyush@xyz.com,7.9,3,3,Not Placed
+Sanskriti,sanskriti@xyz.com,8.5,5,5,Placed
+Aashish,aashish@xyz.com,8.7,3,3,Not Placed
+Deepika,deepika@xyz.com,8.3,3,3,Not Placed
+Pradnya,pradnya@xyz.com,9.4,3,3,Not Placed
+S M ,sm@xyz.com,8.6,1,1,Not Placed
+Abhijit,abhijit@xyz.com,8.5,3,3,Not Placed
+Rupesh,rupesh@xyz.com,9.1,3,3,Not Placed
+Raj,raj@xyz.com,7.7,5,5,Placed
+Asmita,asmita@xyz.com,7.5,3,3,Not Placed
+Krushnakumar ,krushnakumar@xyz.com,7.2,3,3,Not Placed
+Akshay,akshay@xyz.com,7.6,5,5,Placed
+Aman,aman@xyz.com,7.3,3,3,Not Placed
+Gaurav,gaurav@xyz.com,7.3,1,1,Not Placed
+ASMITA,asmita@xyz.com,9.4,1,1,Not Placed
+Apeksha,apeksha@xyz.com,6.6,3,3,Not Placed
+Divya,divya@xyz.com,6.6,3,3,Not Placed
+Charuta,charuta@xyz.com,8.5,3,3,Not Placed
+Prashant ,prashant@xyz.com,7.7,5,5,Placed
+KISHAN,kishan@xyz.com,8.1,3,3,Not Placed
+Aishwarya ,aishwarya@xyz.com,7.9,1,1,Not Placed
+ABHAY,abhay@xyz.com,7.1,1,1,Not Placed
+Prachi,prachi@xyz.com,8.3,3,3,Not Placed
+Payal,payal@xyz.com,7.7,3,3,Not Placed
+Vaishnavi,vaishnavi@xyz.com,8.0,3,3,Not Placed
+Juber,juber@xyz.com,6.5,1,1,Not Placed
+Mrunal,mrunal@xyz.com,9.4,3,3,Not Placed
+Aayushi,aayushi@xyz.com,6.8,5,5,Placed
+Vinayak,vinayak@xyz.com,6.7,5,5,Placed
+ABHINAV,abhinav@xyz.com,7.9,1,1,Not Placed
+Asmita,asmita@xyz.com,9.3,5,5,Placed
+Tomir,tomir@xyz.com,6.9,3,3,Not Placed
+Vikas,vikas@xyz.com,8.9,3,3,Not Placed
+Sohil ,sohil@xyz.com,8.3,3,3,Not Placed
+Harshal,harshal@xyz.com,7.2,5,5,Placed
+Ruquaiya Parveen,ruquaiyaparveen@xyz.com,8.1,5,5,Placed
+Ashwini,ashwini@xyz.com,9.5,5,5,Placed
+Priyanka,priyanka@xyz.com,9.6,1,1,Not Placed
+Akshata ,akshata@xyz.com,7.5,5,5,Placed
+Priyanshu,priyanshu@xyz.com,7.9,5,5,Placed
+Pratibha,pratibha@xyz.com,9.3,3,3,Not Placed
+Prajwal,prajwal@xyz.com,9.6,3,3,Not Placed
+Neha,neha@xyz.com,9.1,1,1,Not Placed
+Aishwarya,aishwarya@xyz.com,7.3,5,5,Placed
+Sanjana ,sanjana@xyz.com,7.5,3,3,Not Placed
+ARPIT,arpit@xyz.com,7.6,3,3,Not Placed
+Pranav ,pranav@xyz.com,8.0,3,3,Not Placed
+Nikita ,nikita@xyz.com,7.2,3,3,Not Placed
+Hemant,hemant@xyz.com,9.1,3,3,Not Placed
+Shubham,shubham@xyz.com,6.7,3,3,Not Placed
+Amit,amit@xyz.com,7.1,5,5,Placed
+Sannidhi ,sannidhi@xyz.com,7.1,3,3,Not Placed
+Shrutika,shrutika@xyz.com,9.5,5,5,Placed
+Dhairyashil,dhairyashil@xyz.com,9.2,3,3,Not Placed
+Shreya ,shreya@xyz.com,7.9,3,3,Not Placed
+Prajwal,prajwal@xyz.com,7.3,3,3,Not Placed
+Kshitij,kshitij@xyz.com,7.3,3,3,Not Placed
+Ong,ong@xyz.com,7.8,1,1,Not Placed
+Harshvivek,harshvivek@xyz.com,9.1,3,3,Not Placed
+Tanisha,tanisha@xyz.com,6.9,1,1,Not Placed
+Pankaj,pankaj@xyz.com,8.4,3,3,Not Placed
+Bhagyashri ,bhagyashri@xyz.com,6.7,5,5,Placed
+Digvijay,digvijay@xyz.com,9.2,5,5,Placed
+Priyanka,priyanka@xyz.com,7.3,5,5,Placed
+Manish ,manish@xyz.com,7.9,5,5,Placed
+Goutam,goutam@xyz.com,9.9,3,3,Not Placed
+Shruti,shruti@xyz.com,7.6,1,1,Not Placed
+V,v@xyz.com,9.3,3,3,Not Placed
+Manasi,manasi@xyz.com,6.4,1,1,Not Placed
+Dharmesh,dharmesh@xyz.com,8.4,5,5,Placed
+Mangesh,mangesh@xyz.com,6.6,1,1,Not Placed
+JARADODDI ,jaradoddi@xyz.com,7.8,1,1,Not Placed
+PAYAL,payal@xyz.com,8.7,3,3,Not Placed
+Varsha ,varsha@xyz.com,7.2,3,3,Not Placed
+Rachana,rachana@xyz.com,7.1,5,5,Placed
+Nishank,nishank@xyz.com,8.0,3,3,Not Placed
+Radadiya,radadiya@xyz.com,8.5,3,3,Not Placed
+Sarthak,sarthak@xyz.com,8.5,1,1,Not Placed
+KANSE,kanse@xyz.com,9.1,3,3,Not Placed
+Mayank,mayank@xyz.com,9.7,3,3,Not Placed
+Priya,priya@xyz.com,8.7,1,1,Not Placed
+Pritsam,pritsam@xyz.com,6.5,3,3,Not Placed
+Shriya,shriya@xyz.com,8.8,1,1,Not Placed
+Alvin,alvin@xyz.com,9.3,1,1,Not Placed
+Joylyn,joylyn@xyz.com,7.6,3,3,Not Placed
+Anushka,anushka@xyz.com,6.5,3,3,Not Placed
+Anushka ,anushka@xyz.com,8.7,5,5,Placed
+Simran ,simran@xyz.com,9.1,1,1,Not Placed
+Harshada ,harshada@xyz.com,9.2,5,5,Placed
+Hitesh,hitesh@xyz.com,7.3,3,3,Not Placed
+Nikita,nikita@xyz.com,7.6,5,5,Placed
+Achal,achal@xyz.com,7.1,3,3,Not Placed
+HITESH,hitesh@xyz.com,8.3,5,5,Placed
+Kalyani,kalyani@xyz.com,9.2,5,5,Placed
+Pratham ,pratham@xyz.com,9.9,3,3,Not Placed
+dravid ,dravid@xyz.com,9.3,5,5,Placed
+Ritika,ritika@xyz.com,7.1,5,5,Placed
+Mrunali,mrunali@xyz.com,7.5,3,3,Not Placed
+Kishan,kishan@xyz.com,7.3,3,3,Not Placed
+Ankita,ankita@xyz.com,7.4,3,3,Not Placed
+Ishwar,ishwar@xyz.com,8.3,3,3,Not Placed
+Shubham,shubham@xyz.com,7.4,3,3,Not Placed
+Abhishek,abhishek@xyz.com,6.7,3,3,Not Placed
+Poonam ,poonam@xyz.com,7.3,3,3,Not Placed
+Dhiraj,dhiraj@xyz.com,9.7,3,3,Not Placed
+Pratiksha,pratiksha@xyz.com,7.9,3,3,Not Placed
+Tejas,tejas@xyz.com,7.2,5,5,Placed
+Pratik,pratik@xyz.com,7.1,3,3,Not Placed
+Cassandra ,cassandra@xyz.com,8.7,3,3,Not Placed
+Sakshi,sakshi@xyz.com,8.7,1,1,Not Placed
+BABU,babu@xyz.com,8.2,3,3,Not Placed
+Atharva,atharva@xyz.com,6.8,1,1,Not Placed
+Prashik,prashik@xyz.com,7.1,5,5,Placed
+Sania,sania@xyz.com,8.5,3,3,Not Placed
+Sharvil,sharvil@xyz.com,9.1,1,1,Not Placed
+Bhavik,bhavik@xyz.com,9.5,5,5,Placed
+Pranali,pranali@xyz.com,6.7,3,3,Not Placed
+Mrunal ,mrunal@xyz.com,6.7,1,1,Not Placed
+Tanveer,tanveer@xyz.com,8.2,3,3,Not Placed
+Vedashree,vedashree@xyz.com,6.5,3,3,Not Placed
+Kayyum,kayyum@xyz.com,8.7,3,3,Not Placed
+Ankita,ankita@xyz.com,9.1,1,1,Not Placed
+Yashada,yashada@xyz.com,8.9,3,3,Not Placed
+Dhanashri ,dhanashri@xyz.com,7.4,3,3,Not Placed
+Rajeshwari,rajeshwari@xyz.com,7.3,3,3,Not Placed
+Ganesh,ganesh@xyz.com,8.6,3,3,Not Placed
+Janmenjay ,janmenjay@xyz.com,9.2,5,5,Placed
+jitesh,jitesh@xyz.com,7.8,1,1,Not Placed
+Snehal,snehal@xyz.com,7.9,5,5,Placed
+Pranav,pranav@xyz.com,9.9,1,1,Not Placed
+Rati,rati@xyz.com,8.1,3,3,Not Placed
+Neha,neha@xyz.com,9.5,1,1,Not Placed
+Shubham,shubham@xyz.com,9.8,3,3,Not Placed
+Bhagyashree,bhagyashree@xyz.com,9.6,5,5,Placed
+Prajakta,prajakta@xyz.com,9.6,1,1,Not Placed
+ADITYA,aditya@xyz.com,6.2,3,3,Not Placed
+Kalpana,kalpana@xyz.com,9.1,5,5,Placed
+Varsha,varsha@xyz.com,7.2,3,3,Not Placed
+Soham,soham@xyz.com,9.5,3,3,Not Placed
+Deepal,deepal@xyz.com,6.8,1,1,Not Placed
+Pranali,pranali@xyz.com,8.4,1,1,Not Placed
+Ankush,ankush@xyz.com,9.9,5,5,Placed
+Pradnya ,pradnya@xyz.com,6.6,1,1,Not Placed
+Tanishq,tanishq@xyz.com,6.7,3,3,Not Placed
+Rajesh,rajesh@xyz.com,7.6,5,5,Placed
+Jayesh ,jayesh@xyz.com,8.3,3,3,Not Placed
+Samana ,samana@xyz.com,6.3,5,5,Placed
+Shubham,shubham@xyz.com,8.9,1,1,Not Placed
+Bhakti,bhakti@xyz.com,9.5,3,3,Not Placed
+Rutuja,rutuja@xyz.com,8.5,5,5,Placed
+Gourav,gourav@xyz.com,8.5,5,5,Placed
+CHIRAG,chirag@xyz.com,8.8,3,3,Not Placed
+Vishal,vishal@xyz.com,7.9,3,3,Not Placed
+FATIMA,fatima@xyz.com,7.5,3,3,Not Placed
+Aadesh ,aadesh@xyz.com,8.3,1,1,Not Placed
+Atharv,atharv@xyz.com,6.4,3,3,Not Placed
+Punit,punit@xyz.com,7.5,3,3,Not Placed
+Snehankita ,snehankita@xyz.com,7.7,1,1,Not Placed
+Palak,palak@xyz.com,9.9,1,1,Not Placed
+Poonam ,poonam@xyz.com,7.6,5,5,Placed
+Manali ,manali@xyz.com,7.9,3,3,Not Placed
+Varsha ,varsha@xyz.com,7.7,5,5,Placed
+Shilpa ,shilpa@xyz.com,7.4,1,1,Not Placed
+Aditi,aditi@xyz.com,9.2,3,3,Not Placed
+Pranali,pranali@xyz.com,7.6,5,5,Placed
+Vidya,vidya@xyz.com,8.7,3,3,Not Placed
+Tushar,tushar@xyz.com,9.5,1,1,Not Placed
+Tushar,tushar@xyz.com,6.9,5,5,Placed
+Rupali,rupali@xyz.com,9.2,3,3,Not Placed
+Omkar ,omkar@xyz.com,6.9,3,3,Not Placed
+Akash,akash@xyz.com,7.2,1,1,Not Placed
+Nausheen,nausheen@xyz.com,7.5,3,3,Not Placed
+Govind,govind@xyz.com,6.5,3,3,Not Placed
+Jyoti,jyoti@xyz.com,7.5,5,5,Placed
+Poonam,poonam@xyz.com,6.9,3,3,Not Placed
+Pradnya,pradnya@xyz.com,7.6,3,3,Not Placed
+Nikhil ,nikhil@xyz.com,6.5,3,3,Not Placed
+Akshey,akshey@xyz.com,7.3,3,3,Not Placed
+Achal,achal@xyz.com,6.7,5,5,Placed
+Akash ,akash@xyz.com,8.7,1,1,Not Placed
+Ikramoddin,ikramoddin@xyz.com,6.7,3,3,Not Placed
+abhishek,abhishek@xyz.com,9.0,5,5,Placed
+Aatika,aatika@xyz.com,7.2,1,1,Not Placed
+Sapna ,sapna@xyz.com,8.5,1,1,Not Placed
+Ankit,ankit@xyz.com,6.5,3,3,Not Placed
+Yatin ,yatin@xyz.com,6.6,1,1,Not Placed
+Mayur ,mayur@xyz.com,9.5,3,3,Not Placed
+Sanjivani,sanjivani@xyz.com,8.1,5,5,Placed
+Sandeep ,sandeep@xyz.com,9.7,3,3,Not Placed
+Hrichika,hrichika@xyz.com,9.3,3,3,Not Placed
+Krupa,krupa@xyz.com,9.1,3,3,Not Placed
+Arya,arya@xyz.com,7.6,3,3,Not Placed
+Dheraz,dheraz@xyz.com,7.8,1,1,Not Placed
+Purva,purva@xyz.com,7.9,3,3,Not Placed
+Vaibhavi,vaibhavi@xyz.com,8.5,5,5,Placed
+Aman,aman@xyz.com,8.7,3,3,Not Placed
+Rahul ,rahul@xyz.com,8.3,3,3,Not Placed
+Kishan,kishan@xyz.com,9.4,2,2,Not Placed
+Dhaval,dhaval@xyz.com,8.6,3,3,Not Placed
+Aman,aman@xyz.com,8.5,3,3,Not Placed
+Shubham,shubham@xyz.com,9.1,5,5,Placed
+Himanshu,himanshu@xyz.com,7.7,5,5,Placed
+Ashish,ashish@xyz.com,7.5,2,2,Not Placed
+Vijay,vijay@xyz.com,7.2,3,2,Not Placed
+Sanchit,sanchit@xyz.com,7.6,5,3,Not Placed
+Hitesh,hitesh@xyz.com,7.3,5,4,Not Placed
+Pranali,pranali@xyz.com,7.3,5,2,Not Placed
+Xavier,xavier@xyz.com,9.4,2,3,Placed
+Siddhesh,siddhesh@xyz.com,6.6,3,4,Placed
+Mitul,mitul@xyz.com,6.6,2,2,Not Placed
+Mohini,mohini@xyz.com,8.5,3,4,Placed
+Tanvi,tanvi@xyz.com,7.7,2,4,Placed
+VIPUL,vipul@xyz.com,8.1,2,3,Placed
+Tanay,tanay@xyz.com,7.9,3,3,Not Placed
+Swapnil,swapnil@xyz.com,7.1,5,5,Placed
+Sunil,sunil@xyz.com,8.3,2,4,Placed
+Gayatri,gayatri@xyz.com,7.7,5,5,Placed
+Pranjal,pranjal@xyz.com,8.0,3,2,Not Placed
+Nikhil,nikhil@xyz.com,6.5,5,5,Placed
+Aakanksha,aakanksha@xyz.com,9.4,3,3,Not Placed
+Jyoti,jyoti@xyz.com,6.8,2,5,Placed
+Darshana,darshana@xyz.com,6.7,3,5,Placed
+Gayatri,gayatri@xyz.com,7.9,3,2,Not Placed
+Shubham,shubham@xyz.com,9.3,2,5,Placed
+Rushikesh,rushikesh@xyz.com,6.9,3,5,Placed
+Shubham,shubham@xyz.com,8.9,3,3,Not Placed
+Krishan,krishan@xyz.com,8.3,3,2,Not Placed
+Yogeshwar ,yogeshwar@xyz.com,7.2,3,3,Not Placed
+Hemant ,hemant@xyz.com,8.1,3,3,Not Placed
+Akash,akash@xyz.com,9.5,3,2,Not Placed
+Shrikant,shrikant@xyz.com,9.6,2,2,Not Placed
+Samidha,samidha@xyz.com,7.5,3,2,Not Placed
+Jaydeep,jaydeep@xyz.com,7.9,3,2,Not Placed
+ANIL,anil@xyz.com,9.3,5,3,Not Placed
+Ajay,ajay@xyz.com,9.6,3,5,Placed
+Anmol,anmol@xyz.com,9.1,2,3,Placed
+Himani,himani@xyz.com,7.3,5,3,Not Placed
+Samidha,samidha@xyz.com,7.5,3,4,Placed
+Ghanshyam,ghanshyam@xyz.com,7.6,3,2,Not Placed
+Shriram,shriram@xyz.com,8.0,5,4,Not Placed
+Veena ,veena@xyz.com,7.2,3,5,Placed
+Tushar,tushar@xyz.com,9.1,3,3,Not Placed
+Abdul,abdul@xyz.com,6.7,3,4,Placed
+Madhesan,madhesan@xyz.com,7.1,3,5,Placed
+HEMALATHA,hemalatha@xyz.com,7.1,3,3,Not Placed
+Vishal,vishal@xyz.com,9.5,5,4,Not Placed
+LAKKU,lakku@xyz.com,9.2,5,2,Not Placed
+Prajakta,prajakta@xyz.com,7.9,5,3,Not Placed
+DEEPA,deepa@xyz.com,7.3,3,2,Not Placed
+Vicky,vicky@xyz.com,7.3,2,4,Placed
+Maithili,maithili@xyz.com,7.8,3,2,Not Placed
+Utkarsh,utkarsh@xyz.com,9.1,2,2,Not Placed
+SARATHI,sarathi@xyz.com,6.9,3,2,Not Placed
+Poshak,poshak@xyz.com,8.4,3,3,Not Placed
+Neethu,neethu@xyz.com,6.7,3,5,Placed
+Vedant,vedant@xyz.com,9.2,3,4,Placed
+NIKHIL,nikhil@xyz.com,7.3,3,5,Placed
+Vishwas,vishwas@xyz.com,7.9,3,4,Placed
+Madhavan,madhavan@xyz.com,9.9,2,3,Placed
+YASH,yash@xyz.com,7.6,2,4,Placed
+Rishabh,rishabh@xyz.com,9.3,3,3,Not Placed
+Shruti,shruti@xyz.com,6.4,3,5,Placed
+Rohit,rohit@xyz.com,8.4,5,4,Not Placed
+Vishnu,vishnu@xyz.com,6.6,3,3,Not Placed
+Krishna,krishna@xyz.com,7.8,3,5,Placed
+Virakshi,virakshi@xyz.com,8.7,3,2,Not Placed
+Shrutika,shrutika@xyz.com,7.2,3,3,Not Placed
+Som,som@xyz.com,7.1,2,4,Placed
+Anupriya,anupriya@xyz.com,8.0,3,4,Placed
+Govind,govind@xyz.com,8.5,3,5,Placed
+Vishwesh,vishwesh@xyz.com,8.5,3,4,Placed
+Prashik,prashik@xyz.com,9.1,2,3,Placed
+Jyoti,jyoti@xyz.com,9.7,3,5,Placed
+Shaina ,shaina@xyz.com,8.7,5,2,Not Placed
+Akash ,akash@xyz.com,6.5,5,5,Placed
+Yadav,yadav@xyz.com,8.8,5,4,Not Placed
+Mayur,mayur@xyz.com,9.3,3,3,Not Placed
+HARIHARAN ,hariharan@xyz.com,7.6,3,5,Placed
+Vedant,vedant@xyz.com,6.5,3,5,Placed
+Sejal,sejal@xyz.com,8.7,3,3,Not Placed
+Ashish ,ashish@xyz.com,9.1,3,2,Not Placed
+Sanket ,sanket@xyz.com,9.2,3,3,Not Placed
+Laxmi ,laxmi@xyz.com,7.3,2,4,Placed
+Greenkumar,greenkumar@xyz.com,7.6,3,2,Not Placed
+Yashasvi ,yashasvi@xyz.com,7.1,3,2,Not Placed
+Sejal ,sejal@xyz.com,8.3,5,4,Not Placed
+Poonam,poonam@xyz.com,9.2,5,4,Not Placed
+Ladani,ladani@xyz.com,9.9,3,5,Placed
+Rakshit,rakshit@xyz.com,9.3,2,3,Placed
+Adnan,adnan@xyz.com,7.1,2,5,Placed
+Anjali,anjali@xyz.com,7.5,2,4,Placed
+Poonam ,poonam@xyz.com,7.3,2,2,Not Placed
+Aksh ,aksh@xyz.com,7.4,3,5,Placed
+Darji dhruv,darjidhruv@xyz.com,8.3,2,3,Placed
+Amina,amina@xyz.com,7.4,3,4,Placed
+Anjali,anjali@xyz.com,6.7,3,5,Placed
+Aishwarya ,aishwarya@xyz.com,7.3,3,3,Not Placed
+Ankita,ankita@xyz.com,9.7,2,2,Not Placed
+PANCHAL,panchal@xyz.com,7.9,2,4,Placed
+Abhayraj,abhayraj@xyz.com,7.2,5,2,Not Placed
+Hrutik,hrutik@xyz.com,7.1,2,2,Not Placed
+Aishwarya ,aishwarya@xyz.com,8.7,5,5,Placed
+Basanagoud ,basanagoud@xyz.com,8.7,2,2,Not Placed
+Pratik,pratik@xyz.com,8.2,2,2,Not Placed
+Rupesh,rupesh@xyz.com,6.8,3,2,Not Placed
+Shivu ,shivu@xyz.com,7.1,5,2,Not Placed
+Chetan,chetan@xyz.com,8.5,2,5,Placed
+Sneha,sneha@xyz.com,9.1,3,4,Placed
+Vaidehi,vaidehi@xyz.com,9.5,2,2,Not Placed
+Silvia ,silvia@xyz.com,6.7,3,5,Placed
+Hrishikesh ,hrishikesh@xyz.com,6.7,3,4,Placed
+Bhagyashree,bhagyashree@xyz.com,8.2,5,4,Not Placed
+Yashsvi,yashsvi@xyz.com,6.5,5,2,Not Placed
+Sahil,sahil@xyz.com,8.7,5,4,Not Placed
+Pooja ,pooja@xyz.com,9.1,3,2,Not Placed
+Shraddhanand,shraddhanand@xyz.com,8.9,5,5,Placed
+Suvarna,suvarna@xyz.com,7.4,2,3,Placed
+Nitanshu ,nitanshu@xyz.com,7.3,3,3,Not Placed
+Apoorva,apoorva@xyz.com,8.6,3,2,Not Placed
+Dattaprasad,dattaprasad@xyz.com,9.2,3,3,Not Placed
+Abhishek ,abhishek@xyz.com,7.8,3,4,Placed
+ARMAN,arman@xyz.com,7.9,3,2,Not Placed
+Shubham,shubham@xyz.com,9.9,2,5,Placed
+Sakshi,sakshi@xyz.com,8.1,5,2,Not Placed
+Siddharth,siddharth@xyz.com,9.5,5,2,Not Placed
+Pratham,pratham@xyz.com,9.8,2,4,Placed
+Rishabh,rishabh@xyz.com,9.6,3,2,Not Placed
+Roshuddin,roshuddin@xyz.com,9.6,2,3,Placed
+Aishwarya,aishwarya@xyz.com,6.2,2,5,Placed
+sheetal,sheetal@xyz.com,9.1,5,5,Placed
+PRIYANSHI,priyanshi@xyz.com,7.2,5,4,Not Placed
+Anjali ,anjali@xyz.com,9.5,5,2,Not Placed
+Romil,romil@xyz.com,6.8,2,5,Placed
+Shashank,shashank@xyz.com,8.4,3,5,Placed
+Pandya,pandya@xyz.com,9.9,5,5,Placed
+Abhilasha,abhilasha@xyz.com,6.6,5,4,Not Placed
+Divyashri,divyashri@xyz.com,6.7,5,3,Not Placed
+Prathmesh,prathmesh@xyz.com,7.6,2,4,Placed
+Harish,harish@xyz.com,8.3,2,2,Not Placed
+Amrut,amrut@xyz.com,6.3,2,4,Placed
+Divya,divya@xyz.com,8.9,2,4,Placed
+Omkar,omkar@xyz.com,9.5,3,2,Not Placed
+Tasmiya,tasmiya@xyz.com,8.5,3,5,Placed
+Manali,manali@xyz.com,8.5,2,4,Placed
+Abhishek ,abhishek@xyz.com,8.8,2,5,Placed
+Abhishek,abhishek@xyz.com,7.9,3,2,Not Placed
+DARSHIL,darshil@xyz.com,7.5,2,5,Placed
+Mayur,mayur@xyz.com,8.3,2,2,Not Placed
+Shivraj ,shivraj@xyz.com,6.4,5,4,Not Placed
+Namrata,namrata@xyz.com,7.5,3,3,Not Placed
+Rashmita,rashmita@xyz.com,7.7,3,2,Not Placed
+Vaishnavi,vaishnavi@xyz.com,9.9,3,4,Placed
+Aditya,aditya@xyz.com,7.6,5,2,Not Placed
+Bhagyashree,bhagyashree@xyz.com,7.9,5,3,Not Placed
+Vishnu,vishnu@xyz.com,7.7,5,2,Not Placed
+ABHISHEK,abhishek@xyz.com,7.4,3,2,Not Placed
+Gautam,gautam@xyz.com,9.2,5,2,Not Placed
+Amit ,amit@xyz.com,7.6,2,3,Placed
+Gautamipriya,gautamipriya@xyz.com,8.7,3,4,Placed
+Harsha,harsha@xyz.com,9.5,3,2,Not Placed
+Jack,jack@xyz.com,6.9,3,3,Not Placed
+Priyanka,priyanka@xyz.com,9.2,3,5,Placed
+Sanchita,sanchita@xyz.com,6.9,5,2,Not Placed
+Amit,amit@xyz.com,7.2,2,4,Placed
+Farhaan,farhaan@xyz.com,7.5,5,5,Placed
+Vidya ,vidya@xyz.com,6.5,2,3,Placed
+Saad,saad@xyz.com,7.5,3,2,Not Placed
+Akshata,akshata@xyz.com,6.9,3,5,Placed
+Taahir,taahir@xyz.com,7.6,3,2,Not Placed
+Esha ,esha@xyz.com,6.5,5,2,Not Placed
+Ramya,ramya@xyz.com,7.3,5,2,Not Placed
+Himanshi,himanshi@xyz.com,6.7,5,3,Not Placed
+Pranali,pranali@xyz.com,8.7,5,3,Not Placed
+Raghavendra,raghavendra@xyz.com,6.7,5,5,Placed
+Ayesha,ayesha@xyz.com,9.0,3,5,Placed
+Sheetal,sheetal@xyz.com,7.2,3,5,Placed
+Babusab,babusab@xyz.com,8.5,3,2,Not Placed
+Susan,susan@xyz.com,6.5,3,4,Placed
+Rahulsing,rahulsing@xyz.com,6.6,3,3,Not Placed
+Naveen,naveen@xyz.com,9.5,2,4,Placed
+Swapnil,swapnil@xyz.com,8.1,3,3,Not Placed
+Vikas,vikas@xyz.com,9.7,5,3,Not Placed
+Anita,anita@xyz.com,9.3,2,3,Placed
+Denzel,denzel@xyz.com,9.1,3,2,Not Placed
+Aadrsh,aadrsh@xyz.com,7.6,3,2,Not Placed
+Charusheela ,charusheela@xyz.com,7.8,3,3,Not Placed
+Kavita,kavita@xyz.com,7.9,3,4,Placed
+Arihant,arihant@xyz.com,8.5,2,4,Placed
+Karuna,karuna@xyz.com,8.7,2,2,Not Placed
+Rahul,rahul@xyz.com,8.3,2,2,Not Placed
+Nidhi,nidhi@xyz.com,9.4,2,5,Placed
+Ayush,ayush@xyz.com,8.6,3,2,Not Placed
+Ishwar,ishwar@xyz.com,8.5,5,3,Not Placed
+santosh,santosh@xyz.com,9.1,3,2,Not Placed
+Anuraj,anuraj@xyz.com,7.7,2,2,Not Placed
+Manasi,manasi@xyz.com,7.5,3,4,Placed
+Shilpa,shilpa@xyz.com,7.2,3,2,Not Placed
+Akash,akash@xyz.com,7.6,5,3,Not Placed
+Rohit,rohit@xyz.com,7.3,5,2,Not Placed
+Varun ,varun@xyz.com,7.3,3,4,Placed
+Shreeya,shreeya@xyz.com,9.4,3,2,Not Placed
+Suman,suman@xyz.com,6.6,5,5,Placed
+SAMEER,sameer@xyz.com,6.6,5,5,Placed
+Simran,simran@xyz.com,8.5,2,5,Placed
+Karan,karan@xyz.com,7.7,3,2,Not Placed
+Sonica,sonica@xyz.com,8.1,3,2,Not Placed
+Kausar ,kausar@xyz.com,7.9,3,3,Not Placed
+Anjali,anjali@xyz.com,7.1,2,2,Not Placed
+Daneshwari,daneshwari@xyz.com,8.3,3,2,Not Placed
+Abhay,abhay@xyz.com,7.7,5,2,Not Placed
+Sushil,sushil@xyz.com,8.0,2,4,Placed
+Rutuja,rutuja@xyz.com,6.5,5,3,Not Placed
+Harshal ,harshal@xyz.com,9.4,2,2,Not Placed
+Himanshu,himanshu@xyz.com,6.8,3,5,Placed
+Mayank,mayank@xyz.com,6.7,3,5,Placed
+Arihant ,arihant@xyz.com,7.9,3,3,Not Placed
+Atharv,atharv@xyz.com,9.3,3,4,Placed
+Harsh,harsh@xyz.com,6.9,3,4,Placed
+Suraj,suraj@xyz.com,8.9,2,4,Placed
+Mohit,mohit@xyz.com,8.3,5,4,Not Placed
+Bhavika ,bhavika@xyz.com,7.2,3,2,Not Placed
+Nishanth,nishanth@xyz.com,8.1,3,4,Placed
+Prachi,prachi@xyz.com,9.5,3,2,Not Placed
+Sampada ,sampada@xyz.com,9.6,5,3,Not Placed
+Shweta,shweta@xyz.com,7.5,3,2,Not Placed
+Lekharaj,lekharaj@xyz.com,7.9,5,5,Placed
+Anshul,anshul@xyz.com,9.3,2,2,Not Placed
+Aditya,aditya@xyz.com,9.6,2,2,Not Placed
+Veerkumar,veerkumar@xyz.com,9.1,5,5,Placed
+Aakanksha ,aakanksha@xyz.com,7.3,3,3,Not Placed
+Owais,owais@xyz.com,7.5,2,2,Not Placed
+Faizanbeg,faizanbeg@xyz.com,7.6,2,2,Not Placed
+Sanskruti,sanskruti@xyz.com,8.0,2,2,Not Placed
+Anup,anup@xyz.com,7.2,2,2,Not Placed
+Krupit,krupit@xyz.com,9.1,5,5,Placed
+Jimmy,jimmy@xyz.com,6.7,3,3,Not Placed
+Prince,prince@xyz.com,7.1,2,2,Not Placed
+Chetan,chetan@xyz.com,7.1,3,3,Not Placed
+Suyog,suyog@xyz.com,9.5,3,3,Not Placed
+Ishwari,ishwari@xyz.com,9.2,5,5,Placed
+Guruprasad,guruprasad@xyz.com,7.9,2,2,Not Placed
+Parikshit,parikshit@xyz.com,7.3,3,3,Not Placed
+Akash,akash@xyz.com,7.3,2,2,Not Placed
+Vineet ,vineet@xyz.com,7.8,3,3,Not Placed
+Celestine,celestine@xyz.com,9.1,3,3,Not Placed
+Abhinav,abhinav@xyz.com,6.9,3,3,Not Placed
+Sufiyanaaz S,sufiyanaazs@xyz.com,8.4,2,2,Not Placed
+Anoushka,anoushka@xyz.com,6.7,5,5,Placed
+Shraddha ,shraddha@xyz.com,9.2,5,5,Placed
+Parashuram,parashuram@xyz.com,7.3,3,3,Not Placed
+Vaibhav,vaibhav@xyz.com,7.9,5,5,Placed
+Isha,isha@xyz.com,9.9,2,2,Not Placed
+Ankit,ankit@xyz.com,7.6,3,3,Not Placed
+Yogesh,yogesh@xyz.com,9.3,3,3,Not Placed
+Neha,neha@xyz.com,6.4,2,2,Not Placed
+Meet,meet@xyz.com,8.4,2,2,Not Placed
+Mohammad Sameer ,mohammadsameer@xyz.com,6.6,3,3,Not Placed
+Vaishnavi ,vaishnavi@xyz.com,7.8,3,3,Not Placed
+Joylin,joylin@xyz.com,8.7,3,3,Not Placed
+Praful ,praful@xyz.com,7.2,5,5,Placed
+Aditya,aditya@xyz.com,7.1,3,3,Not Placed
+Ayushi,ayushi@xyz.com,8.0,3,3,Not Placed
+Tejas,tejas@xyz.com,8.5,2,2,Not Placed
+Kaushal,kaushal@xyz.com,8.5,3,3,Not Placed
+Aakarshita,aakarshita@xyz.com,9.1,3,3,Not Placed
+Neel ,neel@xyz.com,9.7,3,3,Not Placed
+Larthik,larthik@xyz.com,8.7,2,2,Not Placed
+Meenaxi,meenaxi@xyz.com,6.5,3,3,Not Placed
+Aditya,aditya@xyz.com,8.8,5,5,Placed
+Madhu,madhu@xyz.com,9.3,2,2,Not Placed
+SALONI,saloni@xyz.com,7.6,3,3,Not Placed
+padma,padma@xyz.com,6.5,5,5,Placed
+Preeti,preeti@xyz.com,8.7,2,2,Not Placed
+Kushal,kushal@xyz.com,9.1,2,2,Not Placed
+Sabij,sabij@xyz.com,9.2,5,5,Placed
+Pratiksha ,pratiksha@xyz.com,7.3,3,3,Not Placed
+Rashmi,rashmi@xyz.com,7.6,2,2,Not Placed
+Khushboo,khushboo@xyz.com,7.1,3,3,Not Placed
+Pratibha,pratibha@xyz.com,8.3,5,5,Placed
+Sakshi ,sakshi@xyz.com,9.2,5,5,Placed
+Shivani,shivani@xyz.com,9.9,5,5,Placed
+Sandeep,sandeep@xyz.com,9.3,3,3,Not Placed
+ANISHKA ,anishka@xyz.com,7.1,5,5,Placed
+Ketaki,ketaki@xyz.com,7.5,2,2,Not Placed
+Rahul,rahul@xyz.com,7.3,3,3,Not Placed
+Prajwal,prajwal@xyz.com,7.4,3,3,Not Placed
+Sunil ,sunil@xyz.com,8.3,5,5,Placed
+Vrushabh,vrushabh@xyz.com,7.4,3,3,Not Placed
+kunal,kunal@xyz.com,6.7,3,3,Not Placed
+Rithik,rithik@xyz.com,7.3,3,3,Not Placed
+KIRAN ,kiran@xyz.com,9.7,3,3,Not Placed
+OM,om@xyz.com,7.9,3,3,Not Placed
+Nikita ,nikita@xyz.com,7.2,3,3,Not Placed
+Einab,einab@xyz.com,7.1,5,5,Placed
+Sahil,sahil@xyz.com,8.7,5,5,Placed
+Sakshi,sakshi@xyz.com,8.7,5,5,Placed
+Ruqaiya ,ruqaiya@xyz.com,8.2,3,3,Not Placed
+Maithili ,maithili@xyz.com,6.8,3,3,Not Placed
+Akshay,akshay@xyz.com,7.1,5,5,Placed
+JUNED AHMED ,junedahmed@xyz.com,8.5,3,3,Not Placed
+Uddhav ,uddhav@xyz.com,9.1,3,3,Not Placed
+Niranjan,niranjan@xyz.com,9.5,3,3,Not Placed
+Vaibhav,vaibhav@xyz.com,6.7,2,2,Not Placed
+Pranita,pranita@xyz.com,6.7,3,3,Not Placed
+Vishnu,vishnu@xyz.com,8.2,5,5,Placed
+Aryan,aryan@xyz.com,6.5,2,2,Not Placed
+Aniket ,aniket@xyz.com,8.7,5,5,Placed
+Sumati,sumati@xyz.com,9.1,3,3,Not Placed
+Amit,amit@xyz.com,8.9,3,3,Not Placed
+Srushti ,srushti@xyz.com,7.4,2,2,Not Placed
+Vinodgouda ,vinodgouda@xyz.com,7.3,3,3,Not Placed
+Rajeshwari,rajeshwari@xyz.com,8.6,3,3,Not Placed
+Mahalaxmi ,mahalaxmi@xyz.com,9.2,2,2,Not Placed
+Shoaib,shoaib@xyz.com,7.8,5,5,Placed
+Piyanshu ,piyanshu@xyz.com,7.9,3,3,Not Placed
+Preeti,preeti@xyz.com,9.9,3,3,Not Placed
+Arpita,arpita@xyz.com,8.1,3,3,Not Placed
+Manoj ,manoj@xyz.com,9.5,5,5,Placed
+Shivam,shivam@xyz.com,9.8,3,3,Not Placed
+Akhilesh,akhilesh@xyz.com,9.6,2,2,Not Placed
+Radhika,radhika@xyz.com,9.6,3,3,Not Placed
+Jaimin,jaimin@xyz.com,6.2,2,2,Not Placed
+Abhishek ,abhishek@xyz.com,9.1,2,2,Not Placed
+Sapna,sapna@xyz.com,7.2,3,3,Not Placed
+Rahul,rahul@xyz.com,9.5,5,5,Placed
+Rishab,rishab@xyz.com,6.8,2,2,Not Placed
+Iqra,iqra@xyz.com,8.4,2,2,Not Placed
+Chetan,chetan@xyz.com,9.9,3,3,Not Placed
+Franklin,franklin@xyz.com,6.6,2,2,Not Placed
+Akhilesh,akhilesh@xyz.com,6.7,2,2,Not Placed
+Monica,monica@xyz.com,7.6,5,5,Placed
+Siddarth,siddarth@xyz.com,8.3,3,3,Not Placed
+Shivam,shivam@xyz.com,6.3,5,5,Placed
+Amruta,amruta@xyz.com,8.9,3,3,Not Placed
+Aishwarya,aishwarya@xyz.com,9.5,3,3,Not Placed
+Sanjay,sanjay@xyz.com,8.5,5,5,Placed
+Iqra,iqra@xyz.com,8.5,3,3,Not Placed
+Priyanka,priyanka@xyz.com,8.8,3,3,Not Placed
+pavankumar,pavankumar@xyz.com,7.9,3,3,Not Placed
+SAHIL,sahil@xyz.com,7.5,3,3,Not Placed
+Pallavi,pallavi@xyz.com,8.3,5,5,Placed
+Satish,satish@xyz.com,6.4,5,5,Placed
+Fiza,fiza@xyz.com,7.5,5,5,Placed
+Istiyak,istiyak@xyz.com,7.7,3,3,Not Placed
+Rohit,rohit@xyz.com,9.9,2,2,Not Placed
+Mohammed,mohammed@xyz.com,7.6,2,2,Not Placed
+Harini,harini@xyz.com,7.9,3,3,Not Placed
+Afra,afra@xyz.com,7.7,5,5,Placed
+Kartik,kartik@xyz.com,7.4,3,3,Not Placed
+Nayan,nayan@xyz.com,9.2,5,5,Placed
+Manjiri ,manjiri@xyz.com,7.6,2,2,Not Placed
+Dhivya,dhivya@xyz.com,8.7,3,3,Not Placed
+Aryan ,aryan@xyz.com,9.5,2,2,Not Placed
+Rohan,rohan@xyz.com,6.9,3,3,Not Placed
+Mitkumar,mitkumar@xyz.com,9.2,5,5,Placed
+ANUP,anup@xyz.com,6.9,5,5,Placed
+Vaibhavkumar,vaibhavkumar@xyz.com,7.2,3,3,Not Placed
+Shreya,shreya@xyz.com,7.5,3,3,Not Placed
+Ajmeri,ajmeri@xyz.com,6.5,5,5,Placed
+Shreyash ,shreyash@xyz.com,7.5,3,3,Not Placed
+Purva,purva@xyz.com,6.9,2,2,Not Placed
+Neeraj,neeraj@xyz.com,7.6,3,3,Not Placed
+Ruswin,ruswin@xyz.com,6.5,5,5,Placed
+Khwaja Moinuddin ,khwajamoinuddin@xyz.com,7.3,5,5,Placed
+Rupali,rupali@xyz.com,6.7,3,3,Not Placed
+Priyanka ,priyanka@xyz.com,8.7,2,2,Not Placed
+Amogh,amogh@xyz.com,6.7,3,3,Not Placed
+Shravan ,shravan@xyz.com,9.0,5,5,Placed
+Sahil,sahil@xyz.com,7.2,5,5,Placed
+Akshata,akshata@xyz.com,8.5,3,3,Not Placed
+Mayur ,mayur@xyz.com,6.5,5,5,Placed
+Rohan,rohan@xyz.com,6.6,2,2,Not Placed
+Chaitra,chaitra@xyz.com,9.5,3,3,Not Placed
+Vishnu,vishnu@xyz.com,8.1,3,3,Not Placed
+pranati,pranati@xyz.com,9.7,5,5,Placed
+Manju,manju@xyz.com,9.3,2,2,Not Placed
+Hrutuja,hrutuja@xyz.com,9.1,3,3,Not Placed
+Mayuriwadke,mayuriwadke@xyz.com,7.6,5,5,Placed
+Sumit,sumit@xyz.com,7.8,5,5,Placed
+Sarthak,sarthak@xyz.com,7.9,3,3,Not Placed
+Pranay,pranay@xyz.com,8.5,2,2,Not Placed
+Nitish,nitish@xyz.com,8.7,3,3,Not Placed
+Akshay,akshay@xyz.com,8.3,5,5,Placed
+Shivam,shivam@xyz.com,9.4,3,3,Not Placed
+Rutuja,rutuja@xyz.com,8.6,3,3,Not Placed
+Darshan,darshan@xyz.com,8.5,3,3,Not Placed
+Anamika,anamika@xyz.com,9.1,3,3,Not Placed
+Sunil,sunil@xyz.com,7.7,5,5,Placed
+Roshni ,roshni@xyz.com,7.5,3,3,Not Placed
+Ashwini,ashwini@xyz.com,7.2,3,3,Not Placed
+Swara,swara@xyz.com,7.6,5,5,Placed
+Manoj,manoj@xyz.com,7.3,3,3,Not Placed
+Seema ,seema@xyz.com,7.3,2,2,Not Placed
+Aditya,aditya@xyz.com,9.4,3,3,Not Placed
+Atish,atish@xyz.com,6.6,5,5,Placed
+Guruprasad,guruprasad@xyz.com,6.6,2,2,Not Placed
+Shroti ,shroti@xyz.com,8.5,3,3,Not Placed
+Raghavendra ,raghavendra@xyz.com,7.7,5,5,Placed
+Hiranmay ,hiranmay@xyz.com,8.1,3,3,Not Placed
+Kuntinath,kuntinath@xyz.com,7.9,3,3,Not Placed
+Dr Rakhee,drrakhee@xyz.com,7.1,2,2,Not Placed
+Fiza ,fiza@xyz.com,8.3,5,5,Placed
+Debrupa,debrupa@xyz.com,7.7,3,3,Not Placed
+Parth,parth@xyz.com,8.0,3,3,Not Placed
+Uma,uma@xyz.com,6.5,5,5,Placed
+Aachal,aachal@xyz.com,9.4,3,3,Not Placed
+Aishawarya,aishawarya@xyz.com,6.8,3,3,Not Placed
+Veena,veena@xyz.com,6.7,3,3,Not Placed
+Poorva ,poorva@xyz.com,7.9,5,5,Placed
+Bhagyalaxmi,bhagyalaxmi@xyz.com,9.3,5,5,Placed
+Shruti,shruti@xyz.com,6.9,2,2,Not Placed
+Pooja,pooja@xyz.com,8.9,3,3,Not Placed
+Pramod,pramod@xyz.com,8.3,3,3,Not Placed
+Omkar,omkar@xyz.com,7.2,3,3,Not Placed
+Rohan,rohan@xyz.com,8.1,3,3,Not Placed
+Siddharth,siddharth@xyz.com,9.5,3,3,Not Placed
+shweta ,shweta@xyz.com,9.6,2,2,Not Placed
+Darshan ,darshan@xyz.com,7.5,3,3,Not Placed
+Ayush,ayush@xyz.com,7.9,3,3,Not Placed
+Divya,divya@xyz.com,9.3,3,3,Not Placed
+Pranali ,pranali@xyz.com,9.6,3,3,Not Placed
+Harish ,harish@xyz.com,9.1,3,3,Not Placed
+Kirti,kirti@xyz.com,7.3,3,3,Not Placed
+Radhika ,radhika@xyz.com,7.5,5,5,Placed
+Nooren,nooren@xyz.com,7.6,2,2,Not Placed
+Keertika,keertika@xyz.com,8.0,2,2,Not Placed
+SHANTARAM,shantaram@xyz.com,7.2,3,3,Not Placed
+Rajeshwari,rajeshwari@xyz.com,9.1,3,3,Not Placed
+Sumit ,sumit@xyz.com,6.7,2,2,Not Placed
+sakshi,sakshi@xyz.com,7.1,5,5,Placed
+YOGINI,yogini@xyz.com,7.1,3,3,Not Placed
+Renuka,renuka@xyz.com,9.5,3,3,Not Placed
+Shrishail ,shrishail@xyz.com,9.2,3,3,Not Placed
+Piyush,piyush@xyz.com,7.9,5,5,Placed
+Pratibha,pratibha@xyz.com,7.3,3,3,Not Placed
+kamboji,kamboji@xyz.com,7.3,2,2,Not Placed
+Rutuja Nandkumar,rutujanandkumar@xyz.com,7.8,5,5,Placed
+Payal ,payal@xyz.com,9.1,2,2,Not Placed
+Deepak,deepak@xyz.com,6.9,2,2,Not Placed
+Harshala,harshala@xyz.com,8.4,2,2,Not Placed
+Vinayak ,vinayak@xyz.com,6.7,5,5,Placed
+Mas?a,mas?a@xyz.com,9.2,2,2,Not Placed
+Akanksha,akanksha@xyz.com,7.3,2,2,Not Placed
+Aniruddha,aniruddha@xyz.com,7.9,5,5,Placed
+Nilesh,nilesh@xyz.com,9.9,2,2,Not Placed
+Gunjan ,gunjan@xyz.com,7.6,2,2,Not Placed
+Shreya,shreya@xyz.com,9.3,3,3,Not Placed
+Krishna,krishna@xyz.com,6.4,3,3,Not Placed
+Vinay,vinay@xyz.com,8.4,5,5,Placed
+Shubham,shubham@xyz.com,6.6,3,3,Not Placed
+Prashant,prashant@xyz.com,7.8,3,3,Not Placed
+Chidanand,chidanand@xyz.com,8.7,5,5,Placed
+Rohan,rohan@xyz.com,7.2,3,3,Not Placed
+Durga ,durga@xyz.com,7.1,2,2,Not Placed
+Tejas,tejas@xyz.com,8.0,3,3,Not Placed
+Vijay,vijay@xyz.com,8.5,3,3,Not Placed
+HARSHAL,harshal@xyz.com,8.5,5,5,Placed
+Vaishnavi,vaishnavi@xyz.com,9.1,3,3,Not Placed
+Suraj,suraj@xyz.com,9.7,5,5,Placed
+Teheseen ,teheseen@xyz.com,8.7,2,2,Not Placed
+Danamma ,danamma@xyz.com,6.5,3,3,Not Placed
+Sakshi,sakshi@xyz.com,8.8,3,3,Not Placed
+Pranav,pranav@xyz.com,9.3,3,3,Not Placed
+Rohit ,rohit@xyz.com,7.6,2,2,Not Placed
+Omkar ,omkar@xyz.com,6.5,3,3,Not Placed
+Yagnik ,yagnik@xyz.com,8.7,3,3,Not Placed
+YOGESH,yogesh@xyz.com,9.1,5,5,Placed
+Shivesh,shivesh@xyz.com,9.2,2,2,Not Placed
+Sushama,sushama@xyz.com,7.3,3,3,Not Placed
+Shruti,shruti@xyz.com,7.6,3,3,Not Placed
+Minal,minal@xyz.com,7.1,5,5,Placed
+Neha,neha@xyz.com,8.3,2,2,Not Placed
+SIVAKUMAR,sivakumar@xyz.com,9.2,3,3,Not Placed
+Rahul,rahul@xyz.com,9.9,3,3,Not Placed
+Santosh,santosh@xyz.com,9.3,5,5,Placed
+Fakeerappa,fakeerappa@xyz.com,7.1,5,5,Placed
+Surshita,surshita@xyz.com,7.5,2,2,Not Placed
+Divya,divya@xyz.com,7.3,2,2,Not Placed
+Harshini ,harshini@xyz.com,7.4,3,3,Not Placed
+Poonam,poonam@xyz.com,8.3,3,3,Not Placed
+Prerna,prerna@xyz.com,7.4,2,2,Not Placed
+Prajwal ,prajwal@xyz.com,6.7,5,5,Placed
+Kirtesh,kirtesh@xyz.com,7.3,3,3,Not Placed
+Vishal,vishal@xyz.com,9.7,5,5,Placed
+Tisha,tisha@xyz.com,7.9,5,5,Placed
+Anishka,anishka@xyz.com,7.2,3,3,Not Placed
+Sahil,sahil@xyz.com,7.1,5,5,Placed
+Dhanshri,dhanshri@xyz.com,8.7,3,3,Not Placed
+Sourabh,sourabh@xyz.com,8.7,5,5,Placed
+Sourabh,sourabh@xyz.com,8.2,5,5,Placed
+SIDDHESH,siddhesh@xyz.com,6.8,2,2,Not Placed
+Novel,novel@xyz.com,7.1,3,3,Not Placed
+Kanak,kanak@xyz.com,8.5,5,5,Placed
+Rongala ,rongala@xyz.com,9.1,3,3,Not Placed
+Praveen,praveen@xyz.com,9.5,3,3,Not Placed
+Amreen,amreen@xyz.com,6.7,3,3,Not Placed
+Pranav,pranav@xyz.com,6.7,3,3,Not Placed
+Arun,arun@xyz.com,8.2,2,2,Not Placed
+Pranesh,pranesh@xyz.com,6.5,3,3,Not Placed
+Sahil,sahil@xyz.com,8.7,3,3,Not Placed
+Manishkumar,manishkumar@xyz.com,9.1,5,5,Placed
+Varad,varad@xyz.com,8.9,5,5,Placed
+Rohan,rohan@xyz.com,7.4,3,3,Not Placed
+Vaibhavi,vaibhavi@xyz.com,7.3,3,3,Not Placed
+Deepali ,deepali@xyz.com,8.6,3,3,Not Placed
+Gautam,gautam@xyz.com,9.2,3,3,Not Placed
+Sahil,sahil@xyz.com,7.8,3,3,Not Placed
+Gowthami,gowthami@xyz.com,7.9,5,5,Placed
+Madhura,madhura@xyz.com,9.9,2,2,Not Placed
+Ujjwal,ujjwal@xyz.com,8.1,2,2,Not Placed
+Komal,komal@xyz.com,9.5,5,5,Placed
+Ishaque ,ishaque@xyz.com,9.8,3,3,Not Placed
+Kutubkhan,kutubkhan@xyz.com,9.6,2,2,Not Placed
+Younus,younus@xyz.com,9.6,2,2,Not Placed
+Neeraj ,neeraj@xyz.com,6.2,2,2,Not Placed
+Amaan,amaan@xyz.com,9.1,3,3,Not Placed
+Misbah,misbah@xyz.com,7.2,3,3,Not Placed
+Umair,umair@xyz.com,9.5,5,5,Placed
+saad,saad@xyz.com,6.8,3,3,Not Placed
+Aditya ,aditya@xyz.com,8.4,2,2,Not Placed
+Yash ,yash@xyz.com,9.9,5,5,Placed
+Snehal,snehal@xyz.com,6.6,2,2,Not Placed
+Sayali,sayali@xyz.com,6.7,2,2,Not Placed
+Akshaya,akshaya@xyz.com,7.6,2,2,Not Placed
+Harshal,harshal@xyz.com,8.3,3,3,Not Placed
+Amruta,amruta@xyz.com,6.3,3,3,Not Placed
+Gudelli Harsha Anirudh,gudelliharshaanirudh@xyz.com,8.9,3,3,Not Placed
+Ayush,ayush@xyz.com,9.5,5,5,Placed
+Aavula,aavula@xyz.com,8.5,3,3,Not Placed
+Anubhav,anubhav@xyz.com,8.5,3,3,Not Placed
+Sumit,sumit@xyz.com,8.8,3,3,Not Placed
+Prathmesh,prathmesh@xyz.com,7.9,3,3,Not Placed
+Saloni,saloni@xyz.com,7.5,2,2,Not Placed
+Ashlesha,ashlesha@xyz.com,8.3,3,3,Not Placed
+Tushar ,tushar@xyz.com,6.4,2,2,Not Placed
+Abbas ,abbas@xyz.com,7.5,3,3,Not Placed
+Shweta,shweta@xyz.com,7.7,3,3,Not Placed
+Maha,maha@xyz.com,9.9,5,5,Placed
+Aishwarya,aishwarya@xyz.com,7.6,5,5,Placed
+Pratik,pratik@xyz.com,7.9,2,2,Not Placed
+Priya,priya@xyz.com,7.7,2,2,Not Placed
+Srujan,srujan@xyz.com,7.4,3,3,Not Placed
+Suraj,suraj@xyz.com,9.2,2,2,Not Placed
+Radhika,radhika@xyz.com,7.6,3,3,Not Placed
+Hari,hari@xyz.com,8.7,2,2,Not Placed
+Praveen kumar,praveenkumar@xyz.com,9.5,3,3,Not Placed
+Pratham ,pratham@xyz.com,6.9,5,5,Placed
+Rohit,rohit@xyz.com,9.2,2,2,Not Placed
+Akash,akash@xyz.com,6.9,5,5,Placed
+Chanchal,chanchal@xyz.com,7.2,3,3,Not Placed
+Bhakti,bhakti@xyz.com,7.5,3,3,Not Placed
+DARSHANA,darshana@xyz.com,6.5,3,3,Not Placed
+Vanshika,vanshika@xyz.com,7.5,3,3,Not Placed
+Naushad,naushad@xyz.com,6.9,5,5,Placed
+vaishnavi,vaishnavi@xyz.com,7.6,5,5,Placed
+Vaishnavi,vaishnavi@xyz.com,6.5,3,3,Not Placed
+Nikita,nikita@xyz.com,7.3,2,2,Not Placed
+Swapanali,swapanali@xyz.com,6.7,3,3,Not Placed
+Vinay,vinay@xyz.com,8.7,3,3,Not Placed
+Aniket ,aniket@xyz.com,6.7,5,5,Placed
+Devika ,devika@xyz.com,9.0,3,3,Not Placed
+Pradip,pradip@xyz.com,7.2,3,3,Not Placed
+Tirang ,tirang@xyz.com,8.5,3,3,Not Placed
+Dhrumil ,dhrumil@xyz.com,6.5,2,2,Not Placed
+Dipak,dipak@xyz.com,6.6,3,3,Not Placed
+Yukta ,yukta@xyz.com,9.5,3,3,Not Placed
+Prarthana,prarthana@xyz.com,8.1,5,5,Placed
+rahul,rahul@xyz.com,9.7,3,3,Not Placed
+Maithili,maithili@xyz.com,9.3,3,3,Not Placed
+Hemant,hemant@xyz.com,9.1,5,5,Placed
+Poornachandra,poornachandra@xyz.com,7.6,3,3,Not Placed
+Umesh,umesh@xyz.com,7.8,2,2,Not Placed
+Amit Bikram,amitbikram@xyz.com,7.9,2,2,Not Placed
+Shruthi ,shruthi@xyz.com,8.5,3,3,Not Placed
+Om,om@xyz.com,8.7,3,3,Not Placed
+Nayana,nayana@xyz.com,8.3,3,3,Not Placed
+Payal,payal@xyz.com,9.4,5,5,Placed
+Andrew,andrew@xyz.com,8.6,3,3,Not Placed
+Yash,yash@xyz.com,8.5,2,2,Not Placed
+Yash,yash@xyz.com,9.1,2,2,Not Placed
+Samvid,samvid@xyz.com,7.7,3,3,Not Placed
+Vedant,vedant@xyz.com,7.5,3,3,Not Placed
+Swithin,swithin@xyz.com,7.2,3,3,Not Placed
+Shivesh,shivesh@xyz.com,7.6,2,2,Not Placed
+Rashmi,rashmi@xyz.com,7.3,3,3,Not Placed
+Sanket,sanket@xyz.com,7.3,5,5,Placed
+Prajwal ,prajwal@xyz.com,9.4,5,5,Placed
+Ajinkya ,ajinkya@xyz.com,6.6,2,2,Not Placed
+Manisha ,manisha@xyz.com,6.6,5,5,Placed
+Sanjana,sanjana@xyz.com,8.5,3,3,Not Placed
+Kunal,kunal@xyz.com,7.7,3,3,Not Placed
+pratiksha,pratiksha@xyz.com,8.1,3,3,Not Placed
+Rohit ,rohit@xyz.com,7.9,5,5,Placed
+Harish,harish@xyz.com,7.1,5,5,Placed
+Vignesh,vignesh@xyz.com,8.3,5,5,Placed
+SIVASHAKTHI KAMATCHI ,sivashakthikamatchi@xyz.com,7.7,2,2,Not Placed
+Piyush ,piyush@xyz.com,8.0,5,5,Placed
+KISHAN,kishan@xyz.com,6.5,5,5,Placed
+Darshika,darshika@xyz.com,9.4,3,3,Not Placed
+Vaishnavi,vaishnavi@xyz.com,6.8,3,3,Not Placed
+Nitesh,nitesh@xyz.com,6.7,2,2,Not Placed
+VEERABOINA,veeraboina@xyz.com,7.9,5,5,Placed
+bhavesh ,bhavesh@xyz.com,9.3,3,3,Not Placed
+Sumith,sumith@xyz.com,6.9,3,3,Not Placed
+Prajyoti,prajyoti@xyz.com,8.9,3,3,Not Placed
+Rohit,rohit@xyz.com,8.3,3,3,Not Placed
+Sanjana,sanjana@xyz.com,7.2,3,3,Not Placed
+Ragul,ragul@xyz.com,8.1,3,3,Not Placed
+Mousam,mousam@xyz.com,9.5,5,5,Placed
+Anubhav,anubhav@xyz.com,9.6,3,3,Not Placed
+Shreya,shreya@xyz.com,7.5,5,5,Placed
+Sandeep,sandeep@xyz.com,7.9,3,3,Not Placed
+Aryan,aryan@xyz.com,9.3,3,3,Not Placed
+Tarun,tarun@xyz.com,9.6,3,3,Not Placed
+Shreya,shreya@xyz.com,9.1,3,3,Not Placed
+Krishna,krishna@xyz.com,7.3,2,2,Not Placed
+Gaurav,gaurav@xyz.com,7.5,3,3,Not Placed
+Nisha,nisha@xyz.com,7.6,2,2,Not Placed
+Abisheik,abisheik@xyz.com,8.0,3,3,Not Placed
+Hansal,hansal@xyz.com,7.2,5,5,Placed
+Sakshi,sakshi@xyz.com,9.1,5,5,Placed
+kishor,kishor@xyz.com,6.7,5,5,Placed
+Geetanjali,geetanjali@xyz.com,7.1,5,5,Placed
+Sriramakrishnan ,sriramakrishnan@xyz.com,7.1,3,3,Not Placed
+Manasi,manasi@xyz.com,9.5,2,2,Not Placed
+Shivam,shivam@xyz.com,9.2,3,3,Not Placed
+Yash ,yash@xyz.com,7.9,2,2,Not Placed
+Piyush,piyush@xyz.com,7.3,5,5,Placed
+Deeti,deeti@xyz.com,7.3,2,2,Not Placed
+Amey,amey@xyz.com,7.8,2,2,Not Placed
+Pranjal,pranjal@xyz.com,9.1,3,3,Not Placed
+Vrushabh,vrushabh@xyz.com,6.9,3,3,Not Placed
+Tejas,tejas@xyz.com,8.4,5,5,Placed
+Mandala,mandala@xyz.com,6.7,3,3,Not Placed
+Prekshaa,prekshaa@xyz.com,9.2,3,3,Not Placed
+VAISHALI,vaishali@xyz.com,7.3,2,2,Not Placed
+Jotheeswaran,jotheeswaran@xyz.com,7.9,3,3,Not Placed
+Mayuri,mayuri@xyz.com,9.9,3,3,Not Placed
+Bhagyashri,bhagyashri@xyz.com,7.6,2,2,Not Placed
+Shankar ,shankar@xyz.com,9.3,3,3,Not Placed
+Likhitha,likhitha@xyz.com,6.4,2,2,Not Placed
+Pranav,pranav@xyz.com,8.4,2,2,Not Placed
+Vaishnavi,vaishnavi@xyz.com,6.6,3,3,Not Placed
+Arti,arti@xyz.com,7.8,3,3,Not Placed
+Druvi,druvi@xyz.com,8.7,5,5,Placed
+Snehal,snehal@xyz.com,7.2,2,2,Not Placed
+Sanket ,sanket@xyz.com,7.1,5,5,Placed
+deepak ,deepak@xyz.com,8.0,3,3,Not Placed
+Anushka,anushka@xyz.com,8.5,5,5,Placed
+Abhiraaj,abhiraaj@xyz.com,8.5,3,3,Not Placed
+RITIK,ritik@xyz.com,9.1,5,5,Placed
+Shreyas,shreyas@xyz.com,9.7,5,5,Placed
+Riya,riya@xyz.com,8.7,3,3,Not Placed
+BALASHEKARAN,balashekaran@xyz.com,6.5,5,5,Placed
+MADHURIMA,madhurima@xyz.com,8.8,5,5,Placed
+Harshit,harshit@xyz.com,9.3,3,3,Not Placed
+Satyasravani,satyasravani@xyz.com,7.6,3,3,Not Placed
+Rajnish,rajnish@xyz.com,6.5,3,3,Not Placed
+Khushi,khushi@xyz.com,8.7,3,3,Not Placed
+Vedika,vedika@xyz.com,9.1,3,3,Not Placed
+Sneha,sneha@xyz.com,9.2,3,3,Not Placed
+yash,yash@xyz.com,7.3,3,3,Not Placed
+Yash,yash@xyz.com,7.6,3,3,Not Placed
+Ritik,ritik@xyz.com,7.1,3,3,Not Placed
+Salim,salim@xyz.com,8.3,5,5,Placed
+Mahedi Hasan,mahedihasan@xyz.com,9.2,3,3,Not Placed
+Pratik,pratik@xyz.com,9.9,3,3,Not Placed
+Suraj,suraj@xyz.com,9.3,2,2,Not Placed
+Anushruti,anushruti@xyz.com,7.1,3,3,Not Placed
+Suraj,suraj@xyz.com,7.5,2,2,Not Placed
+Rakshit,rakshit@xyz.com,7.3,5,5,Placed
+Ankit,ankit@xyz.com,7.4,3,3,Not Placed
+DIKSHA,diksha@xyz.com,8.3,2,2,Not Placed
+DILIP,dilip@xyz.com,7.4,5,5,Placed
+vaibhav,vaibhav@xyz.com,6.7,3,3,Not Placed
+Prabhakar,prabhakar@xyz.com,7.3,2,2,Not Placed
+Songire,songire@xyz.com,9.7,3,3,Not Placed
+Prakash,prakash@xyz.com,7.9,3,3,Not Placed
+Shweta,shweta@xyz.com,7.2,3,3,Not Placed
+Faiz,faiz@xyz.com,7.1,2,2,Not Placed
+joisher,joisher@xyz.com,8.7,3,3,Not Placed
+shazeb,shazeb@xyz.com,8.7,3,3,Not Placed
+Prakash,prakash@xyz.com,8.2,3,3,Not Placed
+Prakash,prakash@xyz.com,6.8,3,3,Not Placed
+Manasi,manasi@xyz.com,7.1,5,5,Placed
+Kulkarni,kulkarni@xyz.com,8.5,2,2,Not Placed
+shaikh,shaikh@xyz.com,9.1,5,5,Placed
+Francisco,francisco@xyz.com,9.5,2,2,Not Placed
+Fernande,fernande@xyz.com,6.7,3,3,Not Placed
+Rajendradatt,rajendradatt@xyz.com,6.7,2,2,Not Placed
+Rawat,rawat@xyz.com,8.2,3,3,Not Placed
+Giri,giri@xyz.com,6.5,5,5,Placed
+john,john@xyz.com,8.7,2,2,Not Placed
+Sadanand,sadanand@xyz.com,9.1,3,3,Not Placed
+Baliram,baliram@xyz.com,8.9,5,5,Placed
+Bano,bano@xyz.com,7.4,3,3,Not Placed
+Kumar,kumar@xyz.com,7.3,3,3,Not Placed
+Johnson,johnson@xyz.com,8.6,2,2,Not Placed
+Vivek,vivek@xyz.com,9.2,2,2,Not Placed
+Rajendra,rajendra@xyz.com,7.8,5,5,Placed
+NAGESH,nagesh@xyz.com,7.9,2,2,Not Placed
+Hemant,hemant@xyz.com,9.9,3,3,Not Placed
+Prakash,prakash@xyz.com,8.1,5,5,Placed
+Roshni,roshni@xyz.com,9.5,3,3,Not Placed
+Mahesh,mahesh@xyz.com,9.8,5,5,Placed
+Mateen,mateen@xyz.com,9.6,2,2,Not Placed
+Yash,yash@xyz.com,9.6,3,3,Not Placed
+P,p@xyz.com,6.2,5,5,Placed
+Raja,raja@xyz.com,9.1,5,5,Placed
+harihar,harihar@xyz.com,7.2,3,3,Not Placed
+Charan,charan@xyz.com,9.5,3,3,Not Placed
+Rajanbhai,rajanbhai@xyz.com,6.8,3,3,Not Placed
+Shashi,shashi@xyz.com,8.4,2,2,Not Placed
+Khiriya,khiriya@xyz.com,9.9,3,3,Not Placed
+Chandra,chandra@xyz.com,6.6,3,3,Not Placed
+jigardan,jigardan@xyz.com,6.7,2,2,Not Placed
+Gadhavi,gadhavi@xyz.com,7.6,2,2,Not Placed
+Avnish,avnish@xyz.com,8.3,5,5,Placed
+Rucha,rucha@xyz.com,6.3,3,3,Not Placed
+Dattaprasad,dattaprasad@xyz.com,8.9,5,5,Placed
+Jain,jain@xyz.com,9.5,2,2,Not Placed
+Kailas,kailas@xyz.com,8.5,3,3,Not Placed
+Kewal,kewal@xyz.com,8.5,5,5,Placed
+JAYANT,jayant@xyz.com,8.8,3,3,Not Placed
+Milind,milind@xyz.com,7.9,2,2,Not Placed
+Faizan,faizan@xyz.com,7.5,5,5,Placed
+Topale,topale@xyz.com,8.3,3,3,Not Placed
+Amshitha,amshitha@xyz.com,6.4,3,3,Not Placed
+Prasad,prasad@xyz.com,7.5,2,2,Not Placed
+purohit,purohit@xyz.com,7.7,3,3,Not Placed
+Shah,shah@xyz.com,9.9,3,3,Not Placed
+Narkar,narkar@xyz.com,7.6,5,5,Placed
+Shetty,shetty@xyz.com,7.9,3,3,Not Placed
+Sonawane,sonawane@xyz.com,7.7,3,3,Not Placed
+Gohil,gohil@xyz.com,7.4,3,3,Not Placed
+Gutka,gutka@xyz.com,9.2,3,3,Not Placed
+Akshat,akshat@xyz.com,7.6,5,5,Placed
+Sagar,sagar@xyz.com,8.7,2,2,Not Placed
+Suvarna,suvarna@xyz.com,9.5,3,3,Not Placed
+Nareandra,nareandra@xyz.com,6.9,5,5,Placed
+Ahire,ahire@xyz.com,9.2,2,2,Not Placed
+Shetty,shetty@xyz.com,6.9,2,2,Not Placed
+Vikas,vikas@xyz.com,7.2,3,3,Not Placed
+Nandakumar,nandakumar@xyz.com,7.5,2,2,Not Placed
+Navnit,navnit@xyz.com,6.5,3,3,Not Placed
+Pramod,pramod@xyz.com,7.5,5,5,Placed
+Nitin,nitin@xyz.com,6.9,3,3,Not Placed
+Shaikh,shaikh@xyz.com,7.6,3,3,Not Placed
+Shinde,shinde@xyz.com,6.5,3,3,Not Placed
+Atul,atul@xyz.com,7.3,3,3,Not Placed
+Singh,singh@xyz.com,6.7,2,2,Not Placed
+Bhavesh,bhavesh@xyz.com,8.7,3,3,Not Placed
+Renose,renose@xyz.com,6.7,5,5,Placed
+Survase,survase@xyz.com,9.0,3,3,Not Placed
+Md,md@xyz.com,7.2,3,3,Not Placed
+Pandey,pandey@xyz.com,8.5,2,2,Not Placed
+Chaudhari,chaudhari@xyz.com,6.5,3,3,Not Placed
+Buchade,buchade@xyz.com,6.6,3,3,Not Placed
+Gupta,gupta@xyz.com,9.5,5,5,Placed
+VIJAY,vijay@xyz.com,8.1,5,5,Placed
+Rajesh,rajesh@xyz.com,9.7,2,2,Not Placed
+Rajput,rajput@xyz.com,9.3,3,3,Not Placed
+Sanjay,sanjay@xyz.com,9.1,5,5,Placed
+Kaviraj,kaviraj@xyz.com,7.6,5,5,Placed
+Santosh,santosh@xyz.com,7.8,5,5,Placed
+Nerkar,nerkar@xyz.com,7.9,2,2,Not Placed
+Pathak,pathak@xyz.com,8.5,3,3,Not Placed
+Kishor,kishor@xyz.com,8.7,2,2,Not Placed
+Sanjay,sanjay@xyz.com,8.3,3,3,Not Placed
+Naik,naik@xyz.com,9.4,2,2,Not Placed
+Prabhu,prabhu@xyz.com,8.6,2,2,Not Placed
+Ramesh,ramesh@xyz.com,8.5,3,3,Not Placed
+pagare,pagare@xyz.com,9.1,5,5,Placed
+Mandar,mandar@xyz.com,7.7,2,2,Not Placed
+Kulkarni,kulkarni@xyz.com,7.5,5,5,Placed
+Ashok,ashok@xyz.com,7.2,3,3,Not Placed
+Kanthe,kanthe@xyz.com,7.6,5,5,Placed
+Mani,mani@xyz.com,7.3,3,3,Not Placed
+Akanksha,akanksha@xyz.com,7.3,2,2,Not Placed
+DHANARAJ,dhanaraj@xyz.com,9.4,3,3,Not Placed
+Oli,oli@xyz.com,6.6,3,3,Not Placed
+imtiyaz,imtiyaz@xyz.com,6.6,2,2,Not Placed
+Kanth,kanth@xyz.com,8.5,3,3,Not Placed
+Satha,satha@xyz.com,7.7,3,3,Not Placed
+Boomika,boomika@xyz.com,8.1,3,3,Not Placed
+BHAVIN,bhavin@xyz.com,7.9,3,3,Not Placed
+Valar,valar@xyz.com,7.1,3,3,Not Placed
+Sahil,sahil@xyz.com,8.3,3,3,Not Placed
+Lalith,lalith@xyz.com,7.7,2,2,Not Placed
+Karthik,karthik@xyz.com,8.0,3,3,Not Placed
+Akshitha,akshitha@xyz.com,6.5,3,3,Not Placed
+KONDA,konda@xyz.com,9.4,5,5,Placed
+Kalaiarasan,kalaiarasan@xyz.com,6.8,3,3,Not Placed
+VAITHIYANATHAN,vaithiyanathan@xyz.com,6.7,2,2,Not Placed
+Nivetha,nivetha@xyz.com,7.9,5,5,Placed
+Shreya,shreya@xyz.com,9.3,3,3,Not Placed
+SAKTHIMALAI,sakthimalai@xyz.com,6.9,3,3,Not Placed
+Ahmed,ahmed@xyz.com,8.9,5,5,Placed
+Vijay,vijay@xyz.com,8.3,3,3,Not Placed
+Harii,harii@xyz.com,7.2,3,3,Not Placed
+MANOJ,manoj@xyz.com,8.1,3,3,Not Placed
+Subashini,subashini@xyz.com,9.5,3,3,Not Placed
+Gopinath.R,gopinath.r@xyz.com,9.6,3,3,Not Placed
+Swettha,swettha@xyz.com,7.5,5,5,Placed
+Vijay,vijay@xyz.com,7.9,5,5,Placed
+Selvi.M,selvi.m@xyz.com,9.3,5,5,Placed
+PRETHEBHA,prethebha@xyz.com,9.6,3,3,Not Placed
+S.keertheshwari,s.keertheshwari@xyz.com,9.1,2,2,Not Placed
+Chandrakumar,chandrakumar@xyz.com,7.3,3,3,Not Placed
+Keerthiga.B,keerthiga.b@xyz.com,7.5,2,2,Not Placed
+Aravindhan.,aravindhan.@xyz.com,7.6,3,3,Not Placed
+Nimoshini.M,nimoshini.m@xyz.com,8.0,3,3,Not Placed
+Indumathi,indumathi@xyz.com,7.2,3,3,Not Placed
+Indumathi,indumathi@xyz.com,9.1,3,3,Not Placed
+Priyadharshani,priyadharshani@xyz.com,6.7,3,3,Not Placed
+SK,sk@xyz.com,7.1,3,3,Not Placed
+Deepak,deepak@xyz.com,7.1,2,2,Not Placed
+Naresh.S,naresh.s@xyz.com,9.5,2,2,Not Placed
+Vidhun,vidhun@xyz.com,9.2,3,3,Not Placed
+Vijaysurya.,vijaysurya.@xyz.com,7.9,3,3,Not Placed
+Vijaysurya.,vijaysurya.@xyz.com,7.3,5,5,Placed
+Sanjay,sanjay@xyz.com,7.3,3,3,Not Placed
+Mirza,mirza@xyz.com,7.8,3,3,Not Placed
+Shreya,shreya@xyz.com,9.1,3,3,Not Placed
+Kumar,kumar@xyz.com,6.9,3,3,Not Placed
+Singh,singh@xyz.com,8.4,2,2,Not Placed
+Ramidwar,ramidwar@xyz.com,6.7,3,3,Not Placed
+Padghan,padghan@xyz.com,9.2,3,3,Not Placed
+Sanjay,sanjay@xyz.com,7.3,3,3,Not Placed
+Kokitkar,kokitkar@xyz.com,7.9,2,2,Not Placed
+Jagtap,jagtap@xyz.com,9.9,3,3,Not Placed
+B,b@xyz.com,7.6,5,5,Placed
+Pawar,pawar@xyz.com,9.3,5,5,Placed
+dattatray,dattatray@xyz.com,6.4,5,5,Placed
+Avinash,avinash@xyz.com,8.4,3,3,Not Placed
+Anil,anil@xyz.com,6.6,3,3,Not Placed
+Pawar,pawar@xyz.com,7.8,3,3,Not Placed
+Mahapatra,mahapatra@xyz.com,8.7,3,3,Not Placed
+Sahoo,sahoo@xyz.com,7.2,3,3,Not Placed
+David,david@xyz.com,7.1,3,3,Not Placed
+das,das@xyz.com,8.0,2,2,Not Placed
+Kumar,kumar@xyz.com,8.5,3,3,Not Placed
+Prasad,prasad@xyz.com,8.5,3,3,Not Placed
+Beura,beura@xyz.com,9.1,5,5,Placed
+UMAKANT,umakant@xyz.com,9.7,5,5,Placed
+Sunil,sunil@xyz.com,8.7,3,3,Not Placed
+Markunde,markunde@xyz.com,6.5,2,2,Not Placed
+Vijay,vijay@xyz.com,8.8,2,2,Not Placed
+Shivani,shivani@xyz.com,9.3,2,2,Not Placed
+KAMATCHI,kamatchi@xyz.com,7.6,2,2,Not Placed
+Matthew,matthew@xyz.com,6.5,3,3,Not Placed
+Nair,nair@xyz.com,8.7,2,2,Not Placed
+Namdev,namdev@xyz.com,9.1,3,3,Not Placed
+Shridhar,shridhar@xyz.com,9.2,3,3,Not Placed
+SUNIL,sunil@xyz.com,7.3,3,3,Not Placed
+Prabhudas,prabhudas@xyz.com,7.6,2,2,Not Placed
+Chaju,chaju@xyz.com,7.1,2,2,Not Placed
+mapare,mapare@xyz.com,8.3,5,5,Placed
+Sanjeev,sanjeev@xyz.com,9.2,2,2,Not Placed
+Rajendra,rajendra@xyz.com,9.9,5,5,Placed
+Sandip,sandip@xyz.com,9.3,2,2,Not Placed
+kale,kale@xyz.com,7.1,2,2,Not Placed
+Subhashrao,subhashrao@xyz.com,7.5,3,3,Not Placed
+zad,zad@xyz.com,7.3,5,5,Placed
+Wadhwani,wadhwani@xyz.com,7.4,2,2,Not Placed
+Raosaheb,raosaheb@xyz.com,8.3,3,3,Not Placed
+Sambhaji,sambhaji@xyz.com,7.4,2,2,Not Placed
+Popat,popat@xyz.com,6.7,3,3,Not Placed
+Ravindrasing,ravindrasing@xyz.com,7.3,3,3,Not Placed
+Ramrao,ramrao@xyz.com,9.7,5,5,Placed
+Singh,singh@xyz.com,7.9,5,5,Placed
+Sunil,sunil@xyz.com,7.2,5,5,Placed
+Nitin,nitin@xyz.com,7.1,3,3,Not Placed
+kale,kale@xyz.com,8.7,5,5,Placed
+Atmaram,atmaram@xyz.com,8.7,2,2,Not Placed
+Kushaba,kushaba@xyz.com,8.2,3,3,Not Placed
+Dadaso,dadaso@xyz.com,6.8,3,3,Not Placed
+Raju,raju@xyz.com,7.1,3,3,Not Placed
+Manohar,manohar@xyz.com,8.5,3,3,Not Placed
+Shivaji,shivaji@xyz.com,9.1,3,3,Not Placed
+Pralhad,pralhad@xyz.com,9.5,2,2,Not Placed
+Dhakne,dhakne@xyz.com,6.7,5,5,Placed
+Sarkar,sarkar@xyz.com,6.7,5,5,Placed
+Rajabhau,rajabhau@xyz.com,8.2,2,2,Not Placed
+MADHUKAR,madhukar@xyz.com,6.5,4,4,Placed
+Govind,govind@xyz.com,8.7,2,2,Not Placed
+Shahaji,shahaji@xyz.com,9.1,2,2,Not Placed
+Ashok,ashok@xyz.com,8.9,5,5,Placed
+ANUSHKA,anushka@xyz.com,7.4,5,5,Placed
+Naresh,naresh@xyz.com,7.3,5,5,Placed
+Dilip,dilip@xyz.com,8.6,2,2,Not Placed
+Nair,nair@xyz.com,9.2,4,4,Placed
+Madhukar,madhukar@xyz.com,7.8,5,5,Placed
+Kashinath,kashinath@xyz.com,7.9,5,5,Placed
+Vijay,vijay@xyz.com,9.9,5,5,Placed
+Raju,raju@xyz.com,8.1,2,2,Not Placed
+lnkane,lnkane@xyz.com,9.5,2,2,Not Placed
+Sunil,sunil@xyz.com,9.8,2,2,Not Placed
+rajendra,rajendra@xyz.com,9.6,2,2,Not Placed
+Narayan,narayan@xyz.com,9.6,3,3,Not Placed
+Varsha,varsha@xyz.com,6.2,4,4,Placed
+Avdhoot,avdhoot@xyz.com,9.1,2,2,Not Placed
+Bhushan,bhushan@xyz.com,7.2,2,2,Not Placed
+Rajesh,rajesh@xyz.com,9.5,4,4,Placed
+Prabhudas,prabhudas@xyz.com,6.8,2,2,Not Placed
+Gajananrao,gajananrao@xyz.com,8.4,2,2,Not Placed
+SUNIL,sunil@xyz.com,9.9,5,5,Placed
+Sunil,sunil@xyz.com,6.6,4,4,Placed
+kailas,kailas@xyz.com,6.7,4,4,Placed
+Ravindra,ravindra@xyz.com,7.6,3,3,Not Placed
+Ramdas,ramdas@xyz.com,8.3,5,5,Placed
+Jamanbhai,jamanbhai@xyz.com,6.3,5,5,Placed
+Saju,saju@xyz.com,8.9,5,5,Placed
+Wadhwani,wadhwani@xyz.com,9.5,4,4,Placed
+Rajabhau,rajabhau@xyz.com,8.5,5,5,Placed
+Upreti,upreti@xyz.com,8.5,2,2,Not Placed
+Srivastava,srivastava@xyz.com,8.8,3,3,Not Placed
+Vinayak,vinayak@xyz.com,7.9,4,4,Placed
+Babasaheb,babasaheb@xyz.com,7.5,4,4,Placed
+Raju,raju@xyz.com,8.3,4,4,Placed
+Suresh,suresh@xyz.com,6.4,5,5,Placed
+ASHOK,ashok@xyz.com,7.5,2,2,Not Placed
+Pravin,pravin@xyz.com,7.7,5,5,Placed
+Deepak,deepak@xyz.com,9.9,2,2,Not Placed
+Anil,anil@xyz.com,7.6,3,3,Not Placed
+Varsha,varsha@xyz.com,7.9,3,3,Not Placed
+Singh,singh@xyz.com,7.7,4,4,Placed
+Narayandas,narayandas@xyz.com,7.4,5,5,Placed
+Rupali,rupali@xyz.com,9.2,5,5,Placed
+Jagadish,jagadish@xyz.com,7.6,5,5,Placed
+Tarachand,tarachand@xyz.com,8.7,5,5,Placed
+Kumar,kumar@xyz.com,9.5,5,5,Placed
+kumar,kumar@xyz.com,6.9,3,3,Not Placed
+Rajendra,rajendra@xyz.com,9.2,4,4,Placed
+Dilip,dilip@xyz.com,6.9,4,4,Placed
+Dhanraj,dhanraj@xyz.com,7.2,4,4,Placed
+Sanjay,sanjay@xyz.com,7.5,4,4,Placed
+Ramkishan,ramkishan@xyz.com,6.5,2,2,Not Placed
+Santosh,santosh@xyz.com,7.5,3,3,Not Placed
+Khan,khan@xyz.com,6.9,5,5,Placed
+Shaligram,shaligram@xyz.com,7.6,2,2,Not Placed
+Bhushan,bhushan@xyz.com,6.5,3,3,Not Placed
+khadke,khadke@xyz.com,7.3,4,4,Placed
+Pathak,pathak@xyz.com,6.7,4,4,Placed
+Anuja,anuja@xyz.com,8.7,3,3,Not Placed
+Sarkar,sarkar@xyz.com,6.7,2,2,Not Placed
+Ahirwar,ahirwar@xyz.com,9.0,2,2,Not Placed
+Rajaram,rajaram@xyz.com,7.2,2,2,Not Placed
+PRANOD,pranod@xyz.com,8.5,2,2,Not Placed
+SANJAY,sanjay@xyz.com,6.5,4,4,Placed
+SANJAY,sanjay@xyz.com,6.6,5,5,Placed
+Dilip,dilip@xyz.com,9.5,4,4,Placed
+polytechnic,polytechnic@xyz.com,8.1,2,2,Not Placed
+Vasiullah,vasiullah@xyz.com,9.7,3,3,Not Placed
+Shashikant,shashikant@xyz.com,9.3,3,3,Not Placed
+Bharat,bharat@xyz.com,9.1,5,5,Placed
+Santosh,santosh@xyz.com,7.6,5,5,Placed
+Manohar,manohar@xyz.com,7.8,3,3,Not Placed
+prabhakar,prabhakar@xyz.com,7.9,4,4,Placed
+Rahmatullah,rahmatullah@xyz.com,8.5,5,5,Placed
+Ramesh,ramesh@xyz.com,8.7,5,5,Placed
+ASHOK,ashok@xyz.com,8.3,2,2,Not Placed
+Anant,anant@xyz.com,9.4,3,3,Not Placed
+Sumedh,sumedh@xyz.com,8.6,4,4,Placed
+Saqlain,saqlain@xyz.com,8.5,3,3,Not Placed
+Ayesha,ayesha@xyz.com,9.1,2,2,Not Placed
+Ganesh,ganesh@xyz.com,7.7,4,4,Placed
+Vinayak,vinayak@xyz.com,7.5,5,5,Placed
+Yogesh,yogesh@xyz.com,7.2,2,2,Not Placed
+prakash,prakash@xyz.com,7.6,5,5,Placed
+Sanjay,sanjay@xyz.com,7.3,2,2,Not Placed
+Anant,anant@xyz.com,7.3,4,4,Placed
+Premkumar,premkumar@xyz.com,9.4,4,4,Placed
+BALARAM,balaram@xyz.com,6.6,3,3,Not Placed
+Sanjay,sanjay@xyz.com,6.6,3,3,Not Placed
+kallappa,kallappa@xyz.com,8.5,4,4,Placed
+kiran,kiran@xyz.com,7.7,2,2,Not Placed
+Dadaso,dadaso@xyz.com,8.1,5,5,Placed
+Burud,burud@xyz.com,7.9,4,4,Placed
+Sukhdev,sukhdev@xyz.com,7.1,4,4,Placed
+MOHD,mohd@xyz.com,8.3,4,4,Placed
+NARENDRA,narendra@xyz.com,7.7,5,5,Placed
+SURESH,suresh@xyz.com,8.0,4,4,Placed
+Dashrath,dashrath@xyz.com,6.5,5,5,Placed
+anil,anil@xyz.com,9.4,2,2,Not Placed
+mohite,mohite@xyz.com,6.8,2,2,Not Placed
+Babasaheb,babasaheb@xyz.com,6.7,5,5,Placed
+Bharat,bharat@xyz.com,7.9,4,4,Placed
+PRATAP,pratap@xyz.com,9.3,2,2,Not Placed
+Vasiullah,vasiullah@xyz.com,6.9,2,2,Not Placed
+SUNIL,sunil@xyz.com,8.9,2,2,Not Placed
+Shaikh,shaikh@xyz.com,8.3,2,2,Not Placed
+anil,anil@xyz.com,7.2,5,5,Placed
+Imtiyaz,imtiyaz@xyz.com,8.1,4,3,Not Placed
+Pravin,pravin@xyz.com,9.5,2,2,Not Placed
+Madhav,madhav@xyz.com,9.6,3,5,Placed
+Shekhar,shekhar@xyz.com,7.5,4,3,Not Placed
+Sunil,sunil@xyz.com,7.9,5,2,Not Placed
+Nitin,nitin@xyz.com,9.3,2,5,Placed
+Javed,javed@xyz.com,9.6,3,3,Not Placed
+Aniruddha,aniruddha@xyz.com,9.1,2,2,Not Placed
+Sandesh,sandesh@xyz.com,7.3,3,3,Not Placed
+Dipak,dipak@xyz.com,7.5,4,3,Not Placed
+Dattaram,dattaram@xyz.com,7.6,3,3,Not Placed
+Patel,patel@xyz.com,8.0,2,2,Not Placed
+Santosh,santosh@xyz.com,7.2,5,3,Not Placed
+pankaj,pankaj@xyz.com,9.1,5,3,Not Placed
+Sanjay,sanjay@xyz.com,6.7,4,3,Not Placed
+Mukund,mukund@xyz.com,7.1,5,3,Not Placed
+shivaji,shivaji@xyz.com,7.1,2,5,Placed
+Dillip,dillip@xyz.com,9.5,4,2,Not Placed
+Narendra,narendra@xyz.com,9.2,4,5,Placed
+Sunil,sunil@xyz.com,7.9,2,2,Not Placed
+Hadi,hadi@xyz.com,7.3,2,3,Placed
+Gnapat,gnapat@xyz.com,7.3,4,2,Not Placed
+Sachin,sachin@xyz.com,7.8,4,3,Not Placed
+Dnyaneshwar,dnyaneshwar@xyz.com,9.1,3,5,Placed
+Mukund,mukund@xyz.com,6.9,5,2,Not Placed
+Shivkumar,shivkumar@xyz.com,8.4,3,3,Not Placed
+Manish,manish@xyz.com,6.7,4,5,Placed
+Shailesh,shailesh@xyz.com,9.2,2,3,Placed
+Nitin,nitin@xyz.com,7.3,4,3,Not Placed
+ARVIND,arvind@xyz.com,7.9,3,2,Not Placed
+Kripashankar,kripashankar@xyz.com,9.9,4,2,Not Placed
+Qureshi,qureshi@xyz.com,7.6,2,5,Placed
+Santosh,santosh@xyz.com,9.3,4,2,Not Placed
+Soban,soban@xyz.com,6.4,5,3,Not Placed
+vaman,vaman@xyz.com,8.4,2,5,Placed
+Bhagwan,bhagwan@xyz.com,6.6,4,3,Not Placed
+yunus,yunus@xyz.com,7.8,5,5,Placed
+GANESH,ganesh@xyz.com,8.7,2,2,Not Placed
+ABU,abu@xyz.com,7.2,2,3,Placed
+jadhav,jadhav@xyz.com,7.1,5,5,Placed
+Vishwas,vishwas@xyz.com,8.0,4,5,Placed
+abhiman,abhiman@xyz.com,8.5,2,3,Placed
+Umeira,umeira@xyz.com,8.5,3,3,Not Placed
+Sanjay,sanjay@xyz.com,9.1,5,3,Not Placed
+vikas,vikas@xyz.com,9.7,5,2,Not Placed
+Anil,anil@xyz.com,8.7,5,3,Not Placed
+Dattatray,dattatray@xyz.com,6.5,4,3,Not Placed
+suresh,suresh@xyz.com,8.8,5,2,Not Placed
+Abdul,abdul@xyz.com,9.3,2,2,Not Placed
+Shet,shet@xyz.com,7.6,4,5,Placed
+Chari,chari@xyz.com,6.5,4,3,Not Placed
+Shet,shet@xyz.com,8.7,5,5,Placed
+Mallikarjun,mallikarjun@xyz.com,9.1,3,2,Not Placed
+Mahajan,mahajan@xyz.com,9.2,4,3,Not Placed
+Vidyadhar,vidyadhar@xyz.com,7.3,3,5,Placed
+Richa,richa@xyz.com,7.6,4,3,Not Placed
+Ashish,ashish@xyz.com,7.1,3,2,Not Placed
+Sudhakar,sudhakar@xyz.com,8.3,3,5,Placed
+Tendulkar,tendulkar@xyz.com,9.2,5,3,Not Placed
+Mehta2,mehta2@xyz.com,9.9,5,3,Not Placed
+K,k@xyz.com,9.3,5,2,Not Placed
+Mehta,mehta@xyz.com,7.1,4,3,Not Placed
+Mehta1,mehta1@xyz.com,7.5,3,3,Not Placed
+Alan,alan@xyz.com,7.3,5,5,Placed
+vaidik,vaidik@xyz.com,7.4,4,3,Not Placed
+Ayush,ayush@xyz.com,8.3,4,3,Not Placed
+Anand,anand@xyz.com,7.4,3,3,Not Placed
+Warren,warren@xyz.com,6.7,2,3,Placed
+Saramaria,saramaria@xyz.com,7.3,3,5,Placed
+Vithal,vithal@xyz.com,9.7,5,2,Not Placed
+Rodrigues,rodrigues@xyz.com,7.9,2,3,Placed
+Emmanuel,emmanuel@xyz.com,7.2,5,5,Placed
+Dambhare,dambhare@xyz.com,7.1,4,2,Not Placed
+Prashant,prashant@xyz.com,8.7,4,2,Not Placed
+Chandrakant,chandrakant@xyz.com,8.7,2,3,Placed
+Prakash,prakash@xyz.com,8.2,4,2,Not Placed
+Dongre,dongre@xyz.com,6.8,4,3,Not Placed
+Sunny,sunny@xyz.com,7.1,2,5,Placed
+Dasare,dasare@xyz.com,8.5,5,3,Not Placed
+Meshram,meshram@xyz.com,9.1,4,3,Not Placed
+paras,paras@xyz.com,9.5,4,3,Not Placed
+FAREL,farel@xyz.com,6.7,4,3,Not Placed
+hiware,hiware@xyz.com,6.7,5,2,Not Placed
+Narendra,narendra@xyz.com,8.2,4,3,Not Placed
+Rupapara,rupapara@xyz.com,6.5,2,5,Placed
+Narendra,narendra@xyz.com,8.7,3,3,Not Placed
+Sahu,sahu@xyz.com,9.1,2,3,Placed
+Wankhede,wankhede@xyz.com,8.9,2,2,Not Placed
+Mishra,mishra@xyz.com,7.4,4,3,Not Placed
+ganeshkar,ganeshkar@xyz.com,7.3,5,3,Not Placed
+Hume,hume@xyz.com,8.6,2,5,Placed
+Gaherwar,gaherwar@xyz.com,9.2,2,5,Placed
+Gaherwar,gaherwar@xyz.com,7.8,3,2,Not Placed
+Gaherwar,gaherwar@xyz.com,7.9,2,3,Placed
+gadhawe,gadhawe@xyz.com,9.9,2,5,Placed
+Abidi,abidi@xyz.com,8.1,5,5,Placed
+Borade,borade@xyz.com,9.5,4,5,Placed
+Balgopal,balgopal@xyz.com,9.8,5,2,Not Placed
+Pourkar,pourkar@xyz.com,9.6,3,3,Not Placed
+Sachin,sachin@xyz.com,9.6,3,2,Not Placed
+Rajendra,rajendra@xyz.com,6.2,5,3,Not Placed
+GANPATRAO,ganpatrao@xyz.com,9.1,3,2,Not Placed
+Tukadoji,tukadoji@xyz.com,7.2,3,2,Not Placed
+Sunil,sunil@xyz.com,9.5,3,3,Not Placed
+Sanjay,sanjay@xyz.com,6.8,3,5,Placed
+Katre,katre@xyz.com,8.4,5,2,Not Placed
+YASH,yash@xyz.com,9.9,5,5,Placed
+Mallikarjun,mallikarjun@xyz.com,6.6,5,3,Not Placed
+vaibhav,vaibhav@xyz.com,6.7,3,5,Placed
+AMARNATH,amarnath@xyz.com,7.6,2,3,Placed
+Bindra,bindra@xyz.com,8.3,2,2,Not Placed
+Ramdas,ramdas@xyz.com,6.3,4,3,Not Placed
+Varun,varun@xyz.com,8.9,5,3,Not Placed
+Pratap,pratap@xyz.com,9.5,3,2,Not Placed
+Rahul,rahul@xyz.com,8.5,5,3,Not Placed
+Ratnam,ratnam@xyz.com,8.5,2,3,Placed
+Gorakhnath,gorakhnath@xyz.com,8.8,3,3,Not Placed
+Sambhaji,sambhaji@xyz.com,7.9,2,3,Placed
+Dnyandev,dnyandev@xyz.com,7.5,4,3,Not Placed
+guest,guest@xyz.com,8.3,5,3,Not Placed
+Naik,naik@xyz.com,6.4,5,2,Not Placed
+Dadaso,dadaso@xyz.com,7.5,4,3,Not Placed
+Kumar,kumar@xyz.com,7.7,3,3,Not Placed
+Dhokchaule,dhokchaule@xyz.com,9.9,5,5,Placed
+RAKHI,rakhi@xyz.com,7.6,3,3,Not Placed
+sankhla,sankhla@xyz.com,7.9,2,2,Not Placed
+N,n@xyz.com,7.7,3,5,Placed
+Virendra,virendra@xyz.com,7.4,5,3,Not Placed
+Gajbhiye,gajbhiye@xyz.com,9.2,5,3,Not Placed
+Padhye,padhye@xyz.com,7.6,3,3,Not Placed
+P,p@xyz.com,8.7,2,2,Not Placed
+University,university@xyz.com,9.5,4,4,Placed
+Ganesh,ganesh@xyz.com,6.9,5,5,Placed
+Netra,netra@xyz.com,9.2,5,5,Placed
+Netra,netra@xyz.com,6.9,4,4,Placed
+Lanjewar,lanjewar@xyz.com,7.2,5,5,Placed
+Nisa,nisa@xyz.com,7.5,2,2,Not Placed
+Gupta,gupta@xyz.com,6.5,4,4,Placed
+Bhagwate,bhagwate@xyz.com,7.5,3,3,Not Placed
+Kulkarni,kulkarni@xyz.com,6.9,5,5,Placed
+Vishwakarma,vishwakarma@xyz.com,7.6,2,2,Not Placed
+Narwariya,narwariya@xyz.com,6.5,4,4,Placed
+Karande,karande@xyz.com,7.3,5,5,Placed
+Kalyan,kalyan@xyz.com,6.7,5,5,Placed
+Komal,komal@xyz.com,8.7,4,4,Placed
+santosh,santosh@xyz.com,6.7,2,2,Not Placed
+Li,li@xyz.com,9.0,3,3,Not Placed
+Sinha,sinha@xyz.com,7.2,5,5,Placed
+Reddy,reddy@xyz.com,8.5,3,3,Not Placed
+Dhiraj,dhiraj@xyz.com,6.5,4,4,Placed
+Nitin,nitin@xyz.com,6.6,4,4,Placed
+kallappa,kallappa@xyz.com,9.5,3,3,Not Placed
+Gautam,gautam@xyz.com,8.1,5,5,Placed
+Rahul,rahul@xyz.com,9.7,4,4,Placed
+Shridhar,shridhar@xyz.com,9.3,3,3,Not Placed
+Chaudhary,chaudhary@xyz.com,9.1,5,5,Placed
+Pramod,pramod@xyz.com,7.6,3,3,Not Placed
+kallappa,kallappa@xyz.com,7.8,2,2,Not Placed
+Jayant,jayant@xyz.com,7.9,4,4,Placed
+Mahadev,mahadev@xyz.com,8.5,5,5,Placed
+Rajendra,rajendra@xyz.com,8.7,2,2,Not Placed
+Varsha,varsha@xyz.com,8.3,3,3,Not Placed
+Chaudhary,chaudhary@xyz.com,9.4,5,5,Placed
+Ajwani,ajwani@xyz.com,8.6,3,3,Not Placed
+kushwaha,kushwaha@xyz.com,8.5,4,4,Placed
+Dsouza,dsouza@xyz.com,9.1,2,2,Not Placed
+kadam,kadam@xyz.com,7.7,5,5,Placed
+ashokrao,ashokrao@xyz.com,7.5,3,3,Not Placed
+sunil,sunil@xyz.com,7.2,4,4,Placed
+bhange,bhange@xyz.com,7.6,5,5,Placed
+Omprakash,omprakash@xyz.com,7.3,4,4,Placed
+Ashish,ashish@xyz.com,7.3,4,4,Placed
+Ranawat,ranawat@xyz.com,9.4,4,4,Placed
+kanherkar,kanherkar@xyz.com,6.6,5,5,Placed
+Pimpalkar,pimpalkar@xyz.com,6.6,5,5,Placed
+Ashok,ashok@xyz.com,8.5,2,2,Not Placed
+Kalita,kalita@xyz.com,7.7,4,4,Placed
+kothapalem,kothapalem@xyz.com,8.1,4,4,Placed
+umesh,umesh@xyz.com,7.9,4,4,Placed
+VAJIRAVELU,vajiravelu@xyz.com,7.1,4,4,Placed
+Pandurang,pandurang@xyz.com,8.3,4,4,Placed
+Ubedulla,ubedulla@xyz.com,7.7,2,2,Not Placed
+govind,govind@xyz.com,8.0,4,4,Placed
+Sharad,sharad@xyz.com,6.5,4,4,Placed
+Sharad,sharad@xyz.com,9.4,3,3,Not Placed
+Solanki,solanki@xyz.com,6.8,4,4,Placed
+Satyadev,satyadev@xyz.com,6.7,3,3,Not Placed
+Khan,khan@xyz.com,7.9,4,4,Placed
+Bhrugumaharshi,bhrugumaharshi@xyz.com,9.3,5,5,Placed
+Laxmirajam,laxmirajam@xyz.com,6.9,2,2,Not Placed
+Digambar,digambar@xyz.com,8.9,2,2,Not Placed
+Maruti,maruti@xyz.com,8.3,3,3,Not Placed
+Gajanan,gajanan@xyz.com,7.2,4,4,Placed
+Mohammad,mohammad@xyz.com,8.1,2,2,Not Placed
+SURESH,suresh@xyz.com,9.5,5,5,Placed
+Reddy,reddy@xyz.com,9.6,4,4,Placed
+Kale,kale@xyz.com,7.5,4,4,Placed
+Dhakate,dhakate@xyz.com,7.9,4,4,Placed
+Baviskar,baviskar@xyz.com,9.3,5,5,Placed
+shankar,shankar@xyz.com,9.6,3,3,Not Placed
+Dyaneshwar,dyaneshwar@xyz.com,9.1,2,2,Not Placed
+Sachin,sachin@xyz.com,7.3,5,5,Placed
+Surendra,surendra@xyz.com,7.5,2,2,Not Placed
+Bhrugumaharshi,bhrugumaharshi@xyz.com,7.6,2,2,Not Placed
+Sandeep,sandeep@xyz.com,8.0,2,2,Not Placed
+KAR,kar@xyz.com,7.2,5,5,Placed
+Ravindra,ravindra@xyz.com,9.1,2,2,Not Placed
+Rajesh,rajesh@xyz.com,6.7,2,2,Not Placed
+Pankaj,pankaj@xyz.com,7.1,5,5,Placed
+Ramesh,ramesh@xyz.com,7.1,2,2,Not Placed
+Sunil,sunil@xyz.com,9.5,2,2,Not Placed
+Razak,razak@xyz.com,9.2,3,3,Not Placed
+sanjay,sanjay@xyz.com,7.9,4,4,Placed
+Shridhar,shridhar@xyz.com,7.3,5,5,Placed
+Singh,singh@xyz.com,7.3,4,4,Placed
+Shah,shah@xyz.com,7.8,4,4,Placed
+Narayan,narayan@xyz.com,9.1,5,5,Placed
+Ghiraoo,ghiraoo@xyz.com,6.9,3,3,Not Placed
+Vaishnavi,vaishnavi@xyz.com,8.4,2,2,Not Placed
+Angadkumar,angadkumar@xyz.com,6.7,3,3,Not Placed
+siddhapur,siddhapur@xyz.com,9.2,3,3,Not Placed
+Chandrakant,chandrakant@xyz.com,7.3,5,5,Placed
+Ranjan,ranjan@xyz.com,7.9,4,4,Placed
+Sawant,sawant@xyz.com,9.9,5,5,Placed
+Krushna,krushna@xyz.com,7.6,2,2,Not Placed
+Ger,ger@xyz.com,9.3,4,4,Placed
+vaghasia,vaghasia@xyz.com,6.4,4,4,Placed
+R,r@xyz.com,8.4,3,3,Not Placed
+Jaiswal,jaiswal@xyz.com,6.6,2,2,Not Placed
+Arjun,arjun@xyz.com,7.8,3,3,Not Placed
+Krushna,krushna@xyz.com,8.7,4,4,Placed
+Sandip,sandip@xyz.com,7.2,5,5,Placed
+Vijay,vijay@xyz.com,7.1,2,2,Not Placed
+Nair,nair@xyz.com,8.0,3,3,Not Placed
+Manoj,manoj@xyz.com,8.5,4,4,Placed
+Gole,gole@xyz.com,8.5,5,5,Placed
+Dash,dash@xyz.com,9.1,2,2,Not Placed
+C,c@xyz.com,9.7,4,4,Placed
+Anant,anant@xyz.com,8.7,3,3,Not Placed
+Pramanik,pramanik@xyz.com,6.5,5,5,Placed
+Razdan,razdan@xyz.com,8.8,5,5,Placed
+Ankush,ankush@xyz.com,9.3,2,2,Not Placed
+ankush,ankush@xyz.com,7.6,2,2,Not Placed
+Parag,parag@xyz.com,6.5,4,4,Placed
+Kothari,kothari@xyz.com,8.7,4,4,Placed
+Avhad,avhad@xyz.com,9.1,2,2,Not Placed
+Sanjay,sanjay@xyz.com,9.2,5,5,Placed
+Suresh,suresh@xyz.com,7.3,3,3,Not Placed
+Suresh,suresh@xyz.com,7.6,5,5,Placed
+Singh,singh@xyz.com,7.1,5,5,Placed
+parth,parth@xyz.com,8.3,4,4,Placed
+Patel,patel@xyz.com,9.2,5,5,Placed
+Malavia,malavia@xyz.com,9.9,3,3,Not Placed
+Nandhini,nandhini@xyz.com,9.3,5,5,Placed
+verma,verma@xyz.com,7.1,5,5,Placed
+Anjalkar,anjalkar@xyz.com,7.5,2,2,Not Placed
+Salgaonkar,salgaonkar@xyz.com,7.3,4,4,Placed
+Sinha,sinha@xyz.com,7.4,5,5,Placed
+Chilaka,chilaka@xyz.com,8.3,4,4,Placed
+Ataur,ataur@xyz.com,7.4,4,4,Placed
+Dhule,dhule@xyz.com,6.7,3,3,Not Placed
+fernandes,fernandes@xyz.com,7.3,3,3,Not Placed
+Gulhane,gulhane@xyz.com,9.7,2,2,Not Placed
+saxena,saxena@xyz.com,7.9,3,3,Not Placed
+Sanjeev,sanjeev@xyz.com,7.2,4,4,Placed
+Rawat,rawat@xyz.com,7.1,5,5,Placed
+Chaudhary,chaudhary@xyz.com,8.7,5,5,Placed
+Paliwal,paliwal@xyz.com,8.7,4,4,Placed
+Komal,komal@xyz.com,8.2,3,3,Not Placed
+Bhamare,bhamare@xyz.com,6.8,4,4,Placed
+Kumari,kumari@xyz.com,7.1,4,4,Placed
+Shibu,shibu@xyz.com,8.5,4,4,Placed
+Kishore,kishore@xyz.com,9.1,5,5,Placed
+husna,husna@xyz.com,9.5,2,2,Not Placed
+Sarkaria,sarkaria@xyz.com,6.7,2,2,Not Placed
+Sukhmani,sukhmani@xyz.com,6.7,5,5,Placed
+Ravindra,ravindra@xyz.com,8.2,3,3,Not Placed
+Gupta,gupta@xyz.com,6.5,2,2,Not Placed
+Dnyandev,dnyandev@xyz.com,8.7,2,2,Not Placed
+Raj,raj@xyz.com,9.1,2,2,Not Placed
+Vinay,vinay@xyz.com,8.9,4,4,Placed
+MEMON,memon@xyz.com,7.4,4,4,Placed
+Priya,priya@xyz.com,7.3,5,5,Placed
+Dingankar,dingankar@xyz.com,8.6,4,4,Placed
+sagar,sagar@xyz.com,9.2,2,2,Not Placed
+dinesh,dinesh@xyz.com,7.8,5,5,Placed
+Shukla,shukla@xyz.com,7.9,2,2,Not Placed
+Aashish,aashish@xyz.com,9.9,2,2,Not Placed
+Hingawe,hingawe@xyz.com,8.1,2,2,Not Placed
+Shivkumar,shivkumar@xyz.com,9.5,3,3,Not Placed
+Banerjee,banerjee@xyz.com,9.8,3,3,Not Placed
+AMEER,ameer@xyz.com,9.6,4,4,Placed
+Laiq,laiq@xyz.com,9.6,5,5,Placed
+Shriram,shriram@xyz.com,6.2,3,3,Not Placed
+Pandurang,pandurang@xyz.com,9.1,4,4,Placed
+Sanjay,sanjay@xyz.com,7.2,4,4,Placed
+Mahanty,mahanty@xyz.com,9.5,3,3,Not Placed
+Malieakal,malieakal@xyz.com,6.8,2,2,Not Placed
+Rakesh,rakesh@xyz.com,8.4,3,3,Not Placed
+MOHANTY,mohanty@xyz.com,9.9,2,2,Not Placed
+Sanjay,sanjay@xyz.com,6.6,4,4,Placed
+Mangesh,mangesh@xyz.com,6.7,4,4,Placed
+Sunil,sunil@xyz.com,7.6,5,5,Placed
+Valencio,valencio@xyz.com,8.3,5,5,Placed
+of,of@xyz.com,6.3,2,2,Not Placed
+patel,patel@xyz.com,8.9,2,2,Not Placed
+Ramesh,ramesh@xyz.com,9.5,4,4,Placed
+Sachidanand,sachidanand@xyz.com,8.5,2,2,Not Placed
+Srivastava,srivastava@xyz.com,8.5,4,4,Placed
+Maske,maske@xyz.com,8.8,2,2,Not Placed
+Kalbhor,kalbhor@xyz.com,7.9,3,3,Not Placed
+Bhatnagar,bhatnagar@xyz.com,7.5,5,5,Placed
+University,university@xyz.com,8.3,2,2,Not Placed
+Roy,roy@xyz.com,6.4,5,5,Placed
+vasant,vasant@xyz.com,7.5,3,3,Not Placed
+Budakoti,budakoti@xyz.com,7.7,4,4,Placed
+tiwari,tiwari@xyz.com,9.9,4,4,Placed
+Maria,maria@xyz.com,7.6,4,4,Placed
+Boddul,boddul@xyz.com,7.9,5,5,Placed
+Mahajan,mahajan@xyz.com,7.7,5,5,Placed
+Fernandes,fernandes@xyz.com,7.4,3,3,Not Placed
+Ramdas,ramdas@xyz.com,9.2,2,2,Not Placed
+Yadav,yadav@xyz.com,7.6,4,4,Placed
+Rajendra,rajendra@xyz.com,8.7,4,4,Placed
+Dalvi,dalvi@xyz.com,9.5,5,5,Placed
+Dattatraya,dattatraya@xyz.com,6.9,4,4,Placed
+Hemal,hemal@xyz.com,9.2,4,4,Placed
+Sharma,sharma@xyz.com,6.9,3,3,Not Placed
+Choubey,choubey@xyz.com,7.2,2,2,Not Placed
+Jena,jena@xyz.com,7.5,4,4,Placed
+Uttam,uttam@xyz.com,6.5,4,4,Placed
+Gulve,gulve@xyz.com,7.5,5,5,Placed
+Gulve,gulve@xyz.com,6.9,3,3,Not Placed
+Sanghvi,sanghvi@xyz.com,7.6,3,3,Not Placed
+Rakesh,rakesh@xyz.com,6.5,5,5,Placed
+Eknath,eknath@xyz.com,7.3,3,3,Not Placed
+Khushihal,khushihal@xyz.com,6.7,2,2,Not Placed
+Balaso,balaso@xyz.com,8.7,2,2,Not Placed
+Subhashrao,subhashrao@xyz.com,6.7,3,3,Not Placed
+V,v@xyz.com,9.0,3,3,Not Placed
+Fazelbhoy,fazelbhoy@xyz.com,7.2,4,4,Placed
+kumar,kumar@xyz.com,8.5,5,5,Placed
+Dharmarakshit,dharmarakshit@xyz.com,6.5,3,3,Not Placed
+Shivanand,shivanand@xyz.com,6.6,2,2,Not Placed
+chheda,chheda@xyz.com,9.5,2,2,Not Placed
+vishvas,vishvas@xyz.com,8.1,3,3,Not Placed
+Wavhal,wavhal@xyz.com,9.7,4,4,Placed
+Rajan,rajan@xyz.com,9.3,3,3,Not Placed
+Mahendra,mahendra@xyz.com,9.1,2,2,Not Placed
+Hari,hari@xyz.com,7.6,4,4,Placed
+Raghunath,raghunath@xyz.com,7.8,5,5,Placed
+Suryakant,suryakant@xyz.com,7.9,5,5,Placed
+Jayantilal,jayantilal@xyz.com,8.5,2,2,Not Placed
+Manoj,manoj@xyz.com,8.7,5,5,Placed
+Omprakash,omprakash@xyz.com,8.3,3,3,Not Placed
+CHANDRASHEKHAR,chandrashekhar@xyz.com,9.4,4,4,Placed
+Prafull,prafull@xyz.com,8.6,4,4,Placed
+Jadhav,jadhav@xyz.com,8.5,5,5,Placed
+Sajeev,sajeev@xyz.com,9.1,5,5,Placed
+Pradeep,pradeep@xyz.com,7.7,5,5,Placed
+kailas,kailas@xyz.com,7.5,2,2,Not Placed
+Kohadkar,kohadkar@xyz.com,7.2,5,5,Placed
+vaishnavi,vaishnavi@xyz.com,7.6,5,5,Placed
+Ger,ger@xyz.com,7.3,3,3,Not Placed
+Ger,ger@xyz.com,7.3,3,3,Not Placed
+Sanjay,sanjay@xyz.com,9.4,2,2,Not Placed
+Mariam,mariam@xyz.com,6.6,5,5,Placed
+NIRAKKALLUNGAL,nirakkallungal@xyz.com,6.6,3,3,Not Placed
+Johari,johari@xyz.com,8.5,4,4,Placed
+Rajput,rajput@xyz.com,7.7,4,4,Placed
+Anil,anil@xyz.com,8.1,3,3,Not Placed
+Lanke,lanke@xyz.com,7.9,4,4,Placed
+Santosh,santosh@xyz.com,7.1,4,4,Placed
+Abdullah,abdullah@xyz.com,8.3,5,5,Placed
+S,s@xyz.com,7.7,4,4,Placed
+Pandey,pandey@xyz.com,8.0,5,5,Placed
+Manhas,manhas@xyz.com,6.5,4,4,Placed
+Salim,salim@xyz.com,9.4,4,4,Placed
+jadhav,jadhav@xyz.com,6.8,3,3,Not Placed
+Gupta,gupta@xyz.com,6.7,3,3,Not Placed
+Dhumal,dhumal@xyz.com,7.9,2,2,Not Placed
+Meher,meher@xyz.com,9.3,3,3,Not Placed
+Ankit,ankit@xyz.com,6.9,2,2,Not Placed
+khan,khan@xyz.com,8.9,4,4,Placed
+Shah,shah@xyz.com,8.3,5,5,Placed
+LANDE,lande@xyz.com,7.2,5,5,Placed
+narwaria,narwaria@xyz.com,8.1,5,5,Placed
+Shah,shah@xyz.com,9.5,5,5,Placed
+Gupta,gupta@xyz.com,9.6,4,4,Placed
+Rajendra,rajendra@xyz.com,7.5,2,2,Not Placed
+Sharma,sharma@xyz.com,7.9,3,3,Not Placed
+Gedam,gedam@xyz.com,9.3,2,2,Not Placed
+MISHRA,mishra@xyz.com,9.6,5,5,Placed
+Singh,singh@xyz.com,9.1,2,2,Not Placed
+Bhadra,bhadra@xyz.com,7.3,2,2,Not Placed
+Jha,jha@xyz.com,7.5,4,4,Placed
+Prabhakar,prabhakar@xyz.com,7.6,4,4,Placed
+E,e@xyz.com,8.0,5,5,Placed
+Singh,singh@xyz.com,7.2,4,4,Placed
+goyal,goyal@xyz.com,9.1,3,3,Not Placed
+Arjun,arjun@xyz.com,6.7,2,2,Not Placed
+Tekade,tekade@xyz.com,7.1,4,4,Placed
+YADAV,yadav@xyz.com,7.1,3,3,Not Placed
+Keshri,keshri@xyz.com,9.5,2,2,Not Placed
+Haria,haria@xyz.com,9.2,4,4,Placed
+test,test@xyz.com,7.9,2,2,Not Placed
+Balkrishna,balkrishna@xyz.com,7.3,2,2,Not Placed
+Gohel,gohel@xyz.com,7.3,3,3,Not Placed
+Balkrishna,balkrishna@xyz.com,7.8,3,3,Not Placed
+Gohel,gohel@xyz.com,9.1,5,5,Placed
+Vishnubhai,vishnubhai@xyz.com,6.9,2,2,Not Placed
+Kothari,kothari@xyz.com,8.4,5,5,Placed
+sakshi,sakshi@xyz.com,6.7,4,4,Placed
+Bhoirkar,bhoirkar@xyz.com,9.2,5,5,Placed
+Gangrade,gangrade@xyz.com,7.3,3,3,Not Placed
+Gangrade,gangrade@xyz.com,7.9,5,5,Placed
+Rajesh,rajesh@xyz.com,9.9,5,5,Placed
+Shelke,shelke@xyz.com,7.6,4,4,Placed
+NARENDRA,narendra@xyz.com,9.3,5,5,Placed
+Vivek,vivek@xyz.com,6.4,5,5,Placed
+Vivek,vivek@xyz.com,8.4,3,3,Not Placed
+Shashank,shashank@xyz.com,6.6,4,4,Placed
+Shashank,shashank@xyz.com,7.8,3,3,Not Placed
+Pandya,pandya@xyz.com,8.7,3,3,Not Placed
+Pandya,pandya@xyz.com,7.2,4,4,Placed
+Pandya,pandya@xyz.com,7.1,4,4,Placed
+Dhondiba,dhondiba@xyz.com,8.0,4,4,Placed
+Avinash,avinash@xyz.com,8.5,4,4,Placed
+Rajendra,rajendra@xyz.com,8.5,3,3,Not Placed
+Bajpayee,bajpayee@xyz.com,9.1,5,5,Placed
+Padwani,padwani@xyz.com,9.7,3,3,Not Placed
+THAKUR,thakur@xyz.com,8.7,3,3,Not Placed
+Mandavkar,mandavkar@xyz.com,6.5,2,2,Not Placed
+Mukesh,mukesh@xyz.com,8.8,4,4,Placed
+Mohan,mohan@xyz.com,9.3,2,2,Not Placed
+Vivek,vivek@xyz.com,7.6,5,5,Placed
+Ghanekar,ghanekar@xyz.com,6.5,3,3,Not Placed
+Kolhe,kolhe@xyz.com,8.7,2,2,Not Placed
+Khan,khan@xyz.com,9.1,5,5,Placed
+Kangutkar,kangutkar@xyz.com,9.2,3,3,Not Placed
+Rai,rai@xyz.com,7.3,2,2,Not Placed
+Thakur,thakur@xyz.com,7.6,4,4,Placed
+Swami,swami@xyz.com,7.1,3,3,Not Placed
+J,j@xyz.com,8.3,4,4,Placed
+Zaveri,zaveri@xyz.com,9.2,2,2,Not Placed
+Saxena,saxena@xyz.com,9.9,4,4,Placed
+Khanna,khanna@xyz.com,9.3,4,4,Placed
+Panjwani,panjwani@xyz.com,7.1,4,4,Placed
+Ghanwat,ghanwat@xyz.com,7.5,3,3,Not Placed
+Rai,rai@xyz.com,7.3,5,5,Placed
+Bhardwaj,bhardwaj@xyz.com,7.4,2,2,Not Placed
+gorre,gorre@xyz.com,8.3,5,5,Placed
+Kakkad,kakkad@xyz.com,7.4,2,2,Not Placed
+Tolmare,tolmare@xyz.com,6.7,3,3,Not Placed
+Gupta,gupta@xyz.com,7.3,2,2,Not Placed
+Chaudhary,chaudhary@xyz.com,9.7,3,3,Not Placed
+Jogur,jogur@xyz.com,7.9,5,5,Placed
+Singh,singh@xyz.com,7.2,2,2,Not Placed
+GAROO,garoo@xyz.com,7.1,3,3,Not Placed
+Parab,parab@xyz.com,8.7,5,5,Placed
+Sanjeev,sanjeev@xyz.com,8.7,4,4,Placed
+Joshi,joshi@xyz.com,8.2,3,3,Not Placed
+S,s@xyz.com,6.8,2,2,Not Placed
+Saikia,saikia@xyz.com,7.1,2,2,Not Placed
+Varghese,varghese@xyz.com,8.5,5,5,Placed
+chengta,chengta@xyz.com,9.1,2,2,Not Placed
+Wadekar,wadekar@xyz.com,9.5,3,3,Not Placed
+Kamble,kamble@xyz.com,6.7,5,5,Placed
+khair,khair@xyz.com,6.7,4,4,Placed
+Ravikant,ravikant@xyz.com,8.2,5,5,Placed
+Moraes,moraes@xyz.com,6.5,2,2,Not Placed
+Saipriya,saipriya@xyz.com,8.7,3,3,Not Placed
+Prabhu,prabhu@xyz.com,9.1,5,5,Placed
+Virnodkar,virnodkar@xyz.com,8.9,5,5,Placed
+Sharma,sharma@xyz.com,7.4,3,3,Not Placed
+Shantaram,shantaram@xyz.com,7.3,4,4,Placed
+shaikh,shaikh@xyz.com,8.6,3,3,Not Placed
+Pandey,pandey@xyz.com,9.2,2,2,Not Placed
+Deepak,deepak@xyz.com,7.8,4,4,Placed
+Dnyaneshwar,dnyaneshwar@xyz.com,7.9,4,4,Placed
+Lingayat,lingayat@xyz.com,9.9,2,2,Not Placed
+Maheshwari,maheshwari@xyz.com,8.1,2,2,Not Placed
+R,r@xyz.com,9.5,5,5,Placed
+Anna,anna@xyz.com,9.8,3,3,Not Placed
+JAIN,jain@xyz.com,9.6,5,5,Placed
+Kaushal,kaushal@xyz.com,9.6,2,2,Not Placed
+Nilay,nilay@xyz.com,6.2,4,4,Placed
+Merchant,merchant@xyz.com,9.1,5,5,Placed
+Sukanya,sukanya@xyz.com,7.2,3,3,Not Placed
+Das,das@xyz.com,9.5,2,2,Not Placed
+Gawale,gawale@xyz.com,6.8,5,5,Placed
+Shetty,shetty@xyz.com,8.4,3,3,Not Placed
+Manjrekar,manjrekar@xyz.com,9.9,4,4,Placed
+Sharma,sharma@xyz.com,6.6,2,2,Not Placed
+Botadra,botadra@xyz.com,6.7,4,4,Placed
+VARKEY,varkey@xyz.com,7.6,4,4,Placed
+Arun,arun@xyz.com,8.3,5,5,Placed
+Sreenivasan,sreenivasan@xyz.com,6.3,4,4,Placed
+Dipesh,dipesh@xyz.com,8.9,4,4,Placed
+Dipesh,dipesh@xyz.com,9.5,4,4,Placed
+Vara,vara@xyz.com,8.5,4,4,Placed
+Vaghela,vaghela@xyz.com,8.5,5,5,Placed
+CHOKHAWALA,chokhawala@xyz.com,8.8,2,2,Not Placed
+Vora,vora@xyz.com,7.9,4,4,Placed
+kothari,kothari@xyz.com,7.5,5,5,Placed
+Shaikh,shaikh@xyz.com,8.3,2,2,Not Placed
+Naidu,naidu@xyz.com,6.4,2,2,Not Placed
+Yadav,yadav@xyz.com,7.5,4,4,Placed
+Sankhwar,sankhwar@xyz.com,7.7,2,2,Not Placed
+Thakur,thakur@xyz.com,9.9,4,4,Placed
+Shaikh,shaikh@xyz.com,7.6,5,5,Placed
+Gupta,gupta@xyz.com,7.9,3,3,Not Placed
+Gupta,gupta@xyz.com,7.7,3,3,Not Placed
+Raval,raval@xyz.com,7.4,4,4,Placed
+Madhavrao,madhavrao@xyz.com,9.2,3,3,Not Placed
+Shreya,shreya@xyz.com,7.6,2,2,Not Placed
+shivpoojan,shivpoojan@xyz.com,8.7,4,4,Placed
+Sinha,sinha@xyz.com,9.5,5,5,Placed
+Ashok,ashok@xyz.com,6.9,4,4,Placed
+Dhara,dhara@xyz.com,9.2,4,4,Placed
+Prakash,prakash@xyz.com,6.9,2,2,Not Placed
+AjgarAli,ajgarali@xyz.com,7.2,4,4,Placed
+Hemakant,hemakant@xyz.com,7.5,3,3,Not Placed
+Vijaysinh,vijaysinh@xyz.com,6.5,5,5,Placed
+Gadekar,gadekar@xyz.com,7.5,5,5,Placed
+Bharatkumar,bharatkumar@xyz.com,6.9,2,2,Not Placed
+BHAGWANRAO.,bhagwanrao.@xyz.com,7.6,4,4,Placed
+Sunil,sunil@xyz.com,6.5,5,5,Placed
+Shah,shah@xyz.com,7.3,5,5,Placed
+Shankar,shankar@xyz.com,6.7,5,5,Placed
+Prakash,prakash@xyz.com,8.7,2,2,Not Placed
+Praful,praful@xyz.com,6.7,3,3,Not Placed
+Baban,baban@xyz.com,9.0,2,2,Not Placed
+LIkhitkar,likhitkar@xyz.com,7.2,4,4,Placed
+ULHAS,ulhas@xyz.com,8.5,2,2,Not Placed
+Khedwal,khedwal@xyz.com,6.5,2,2,Not Placed
+Sravani,sravani@xyz.com,6.6,4,4,Placed
+Gaikwad,gaikwad@xyz.com,9.5,5,5,Placed
+Shailesh,shailesh@xyz.com,8.1,2,2,Not Placed
+Kishor,kishor@xyz.com,9.7,5,5,Placed
+Grace,grace@xyz.com,9.3,4,4,Placed
+sawarkar,sawarkar@xyz.com,9.1,5,5,Placed
+Sunil,sunil@xyz.com,7.6,4,4,Placed
+Chitrasen,chitrasen@xyz.com,7.8,2,2,Not Placed
+Kailas,kailas@xyz.com,7.9,3,3,Not Placed
+Sopan,sopan@xyz.com,8.5,4,4,Placed
+Sharma,sharma@xyz.com,8.7,2,2,Not Placed
+Sheshrao,sheshrao@xyz.com,8.3,4,4,Placed
+Yadav,yadav@xyz.com,9.4,3,3,Not Placed
+Ranjeet,ranjeet@xyz.com,8.6,4,4,Placed
+Ramesh,ramesh@xyz.com,8.5,4,4,Placed
+sawarkar,sawarkar@xyz.com,9.1,4,4,Placed
+Dilip,dilip@xyz.com,7.7,3,3,Not Placed
+lodhi,lodhi@xyz.com,7.5,2,2,Not Placed
+Chandrakant,chandrakant@xyz.com,7.2,4,4,Placed
+umesh,umesh@xyz.com,7.6,3,3,Not Placed
+sadashiv,sadashiv@xyz.com,7.3,5,5,Placed
+Bhagwan,bhagwan@xyz.com,7.3,4,4,Placed
+Gajanan,gajanan@xyz.com,9.4,2,2,Not Placed
+Singh,singh@xyz.com,6.6,5,5,Placed
+KALLAPPA,kallappa@xyz.com,6.6,3,3,Not Placed
+mohitkar,mohitkar@xyz.com,8.5,4,4,Placed
+Sanjay,sanjay@xyz.com,7.7,5,5,Placed
+Deepak,deepak@xyz.com,8.1,4,4,Placed
+karsarpe,karsarpe@xyz.com,7.9,4,4,Placed
+Avinash,avinash@xyz.com,7.1,4,4,Placed
+Ankush,ankush@xyz.com,8.3,3,3,Not Placed
+NILESH,nilesh@xyz.com,7.7,3,3,Not Placed
+Gangrade,gangrade@xyz.com,8.0,5,5,Placed
+Prakash,prakash@xyz.com,6.5,5,5,Placed
+DHARMENDRA,dharmendra@xyz.com,9.4,5,5,Placed
+Vidyarthi,vidyarthi@xyz.com,6.8,4,4,Placed
+Chandrashekhar,chandrashekhar@xyz.com,6.7,2,2,Not Placed
+Prajapati,prajapati@xyz.com,7.9,3,3,Not Placed
+Dwivedi,dwivedi@xyz.com,9.3,2,2,Not Placed
+Prabhakar,prabhakar@xyz.com,6.9,3,3,Not Placed
+Mukund,mukund@xyz.com,8.9,3,3,Not Placed
+Sopan,sopan@xyz.com,8.3,3,3,Not Placed
+ABHINAVKUMAR,abhinavkumar@xyz.com,7.2,4,4,Placed
+Rajaram,rajaram@xyz.com,8.1,4,4,Placed
+Rajaram,rajaram@xyz.com,9.5,3,3,Not Placed
+Arun,arun@xyz.com,9.6,2,2,Not Placed
+Nagendra,nagendra@xyz.com,7.5,2,2,Not Placed
+Nagendra,nagendra@xyz.com,7.9,4,4,Placed
+Raj,raj@xyz.com,9.3,4,4,Placed
+Danej,danej@xyz.com,9.6,5,5,Placed
+SANTOSH,santosh@xyz.com,9.1,4,4,Placed
+Ajaykumar,ajaykumar@xyz.com,7.3,3,3,Not Placed
+subhash,subhash@xyz.com,7.5,4,4,Placed
+Rohit,rohit@xyz.com,7.6,4,4,Placed
+Shrivastava,shrivastava@xyz.com,8.0,2,2,Not Placed
+Nitin,nitin@xyz.com,7.2,4,4,Placed
+Minhas,minhas@xyz.com,9.1,3,3,Not Placed
+Rakesh,rakesh@xyz.com,6.7,4,4,Placed
+Sambhaji,sambhaji@xyz.com,7.1,2,2,Not Placed
+Mahendra,mahendra@xyz.com,7.1,4,4,Placed
+More,more@xyz.com,9.5,5,5,Placed
+Upadhyaya,upadhyaya@xyz.com,9.2,5,5,Placed
+Rajesh,rajesh@xyz.com,7.9,5,5,Placed
+Vara,vara@xyz.com,7.3,4,4,Placed
+Zaveri,zaveri@xyz.com,7.3,4,4,Placed
+G,g@xyz.com,7.8,3,3,Not Placed
+Bhanudas,bhanudas@xyz.com,9.1,4,4,Placed
+Sachin,sachin@xyz.com,6.9,4,4,Placed
+Pooja,pooja@xyz.com,8.4,4,4,Placed
+Anil,anil@xyz.com,6.7,2,2,Not Placed
+Nita,nita@xyz.com,9.2,3,3,Not Placed
+Patel,patel@xyz.com,7.3,4,4,Placed
+Pappu,pappu@xyz.com,7.9,5,5,Placed
+Nath,nath@xyz.com,9.9,5,5,Placed
+Bhawarlal,bhawarlal@xyz.com,7.6,3,3,Not Placed
+Raju,raju@xyz.com,9.3,2,2,Not Placed
+Little,little@xyz.com,6.4,2,2,Not Placed
+ramchandra,ramchandra@xyz.com,8.4,2,2,Not Placed
+Faraz,faraz@xyz.com,6.6,2,2,Not Placed
+Appasaheb,appasaheb@xyz.com,7.8,4,4,Placed
+Mahesh,mahesh@xyz.com,8.7,2,2,Not Placed
+Ravindra,ravindra@xyz.com,7.2,4,4,Placed
+Ravindra,ravindra@xyz.com,7.1,3,3,Not Placed
+Wagannawar,wagannawar@xyz.com,8.0,4,4,Placed
+Ramdas,ramdas@xyz.com,8.5,2,2,Not Placed
+Shetty,shetty@xyz.com,8.5,2,2,Not Placed
+Vithoba,vithoba@xyz.com,9.1,5,5,Placed
+Vitthal,vitthal@xyz.com,9.7,2,2,Not Placed
+kanojiya,kanojiya@xyz.com,8.7,5,5,Placed
+devanand,devanand@xyz.com,6.5,2,2,Not Placed
+Mishra,mishra@xyz.com,8.8,2,2,Not Placed
+khedekar,khedekar@xyz.com,9.3,3,3,Not Placed
+khedekar,khedekar@xyz.com,7.6,5,5,Placed
+Rajendra,rajendra@xyz.com,6.5,2,2,Not Placed
+Dilip,dilip@xyz.com,8.7,4,4,Placed
+Shivaji,shivaji@xyz.com,9.1,2,2,Not Placed
+PRAMOD,pramod@xyz.com,9.2,3,3,Not Placed
+Sanjay,sanjay@xyz.com,7.3,3,3,Not Placed
+Rajaram,rajaram@xyz.com,7.6,5,5,Placed
+Ratiram,ratiram@xyz.com,7.1,5,5,Placed
+Tanaji,tanaji@xyz.com,8.3,5,5,Placed
+raut,raut@xyz.com,9.2,3,3,Not Placed
+devidas,devidas@xyz.com,9.9,5,5,Placed
+priti,priti@xyz.com,9.3,2,2,Not Placed
+Dattatray,dattatray@xyz.com,7.1,3,3,Not Placed
+Avinash,avinash@xyz.com,7.5,4,4,Placed
+Ramchandra,ramchandra@xyz.com,7.3,3,3,Not Placed
+Mahadev,mahadev@xyz.com,7.4,4,4,Placed
+Vasant,vasant@xyz.com,8.3,3,3,Not Placed
+Marotrao,marotrao@xyz.com,7.4,2,2,Not Placed
+Shirish,shirish@xyz.com,6.7,5,5,Placed
+Ravindra,ravindra@xyz.com,7.3,5,5,Placed
+Sail,sail@xyz.com,9.7,2,2,Not Placed
+poojary,poojary@xyz.com,7.9,4,4,Placed
+Vaishnavi,vaishnavi@xyz.com,7.2,2,2,Not Placed
+Vaishnavi,vaishnavi@xyz.com,7.1,2,2,Not Placed
+dattatray,dattatray@xyz.com,8.7,5,5,Placed
+Ramnath,ramnath@xyz.com,8.7,5,5,Placed
+Sayaji,sayaji@xyz.com,8.2,5,5,Placed
+Jagtap,jagtap@xyz.com,6.8,2,2,Not Placed
+ARYAN,aryan@xyz.com,7.1,4,4,Placed
+Suresh,suresh@xyz.com,8.5,5,5,Placed
+Datta,datta@xyz.com,9.1,5,5,Placed
+Yogesh,yogesh@xyz.com,9.5,5,5,Placed
+Ramnath,ramnath@xyz.com,6.7,2,2,Not Placed
+tanaji,tanaji@xyz.com,6.7,2,2,Not Placed
+Bhausaheb,bhausaheb@xyz.com,8.2,2,2,Not Placed
+Pandit,pandit@xyz.com,6.5,2,2,Not Placed
+Hemant,hemant@xyz.com,8.7,3,3,Not Placed
+Hemant,hemant@xyz.com,9.1,4,4,Placed
+Ravi,ravi@xyz.com,8.9,2,2,Not Placed
+Hemant,hemant@xyz.com,7.4,2,2,Not Placed
+Bansilal,bansilal@xyz.com,7.3,4,4,Placed
+Puja,puja@xyz.com,8.6,2,2,Not Placed
+PATRA,patra@xyz.com,9.2,2,2,Not Placed
+Singh,singh@xyz.com,7.8,5,5,Placed
+Dinkar,dinkar@xyz.com,7.9,4,4,Placed
+Rajendra,rajendra@xyz.com,9.9,4,4,Placed
+Agale,agale@xyz.com,8.1,3,3,Not Placed
+R.,r.@xyz.com,9.5,5,5,Placed
+tanaji,tanaji@xyz.com,9.8,5,5,Placed
+Rajendra,rajendra@xyz.com,9.6,5,5,Placed
+Subodh,subodh@xyz.com,9.6,4,4,Placed
+Mohanrao,mohanrao@xyz.com,6.2,5,5,Placed
+Someshwar,someshwar@xyz.com,9.1,2,2,Not Placed
+LAXMAN,laxman@xyz.com,7.2,3,3,Not Placed
+Dilip,dilip@xyz.com,9.5,4,4,Placed
+Borule,borule@xyz.com,6.8,4,4,Placed
+shahaji,shahaji@xyz.com,8.4,4,4,Placed
+kumar,kumar@xyz.com,9.9,5,5,Placed
+Sanjay,sanjay@xyz.com,6.6,2,2,Not Placed
+Rajesh,rajesh@xyz.com,6.7,5,5,Placed
+Sakharam,sakharam@xyz.com,7.6,2,2,Not Placed
+Shubhangi,shubhangi@xyz.com,8.3,3,3,Not Placed
+Shivcharan,shivcharan@xyz.com,6.3,3,3,Not Placed
+Vasant,vasant@xyz.com,8.9,4,4,Placed
+layak,layak@xyz.com,9.5,5,5,Placed
+R,r@xyz.com,8.5,5,5,Placed
+Somnath,somnath@xyz.com,8.5,5,5,Placed
+ABA,aba@xyz.com,8.8,5,5,Placed
+Anant,anant@xyz.com,7.9,5,5,Placed
+sunil,sunil@xyz.com,7.5,3,3,Not Placed
+SANDEEP,sandeep@xyz.com,8.3,4,4,Placed
+Komal,komal@xyz.com,6.4,4,4,Placed
+Sudhir,sudhir@xyz.com,7.5,4,4,Placed
+V.,v.@xyz.com,7.7,4,4,Placed
+Jadhav,jadhav@xyz.com,9.9,2,2,Not Placed
+kore,kore@xyz.com,7.6,3,3,Not Placed
+Narayan,narayan@xyz.com,7.9,5,5,Placed
+Vaishnavi,vaishnavi@xyz.com,7.7,2,2,Not Placed
+PALLAVI,pallavi@xyz.com,7.4,3,3,Not Placed
+Narayan,narayan@xyz.com,9.2,4,4,Placed
+Sandeep,sandeep@xyz.com,7.6,4,4,Placed
+Anand,anand@xyz.com,8.7,3,3,Not Placed
+Vinod,vinod@xyz.com,9.5,2,2,Not Placed
+Dilip,dilip@xyz.com,6.9,2,2,Not Placed
+Rosaria,rosaria@xyz.com,9.2,2,2,Not Placed
+Dadabhau,dadabhau@xyz.com,6.9,2,2,Not Placed
+Vhatkar,vhatkar@xyz.com,7.2,4,4,Placed
+Bhosale,bhosale@xyz.com,7.5,5,5,Placed
+Arkan,arkan@xyz.com,6.5,4,4,Placed
+Harsh,harsh@xyz.com,7.5,2,2,Not Placed
+Ashok,ashok@xyz.com,6.9,3,3,Not Placed
+muppidwar,muppidwar@xyz.com,7.6,3,3,Not Placed
+Prakash,prakash@xyz.com,6.5,5,5,Placed
+Sathe,sathe@xyz.com,7.3,5,5,Placed
+Kayyum,kayyum@xyz.com,6.7,3,3,Not Placed
+Jagannath,jagannath@xyz.com,8.7,4,4,Placed
+Kundan,kundan@xyz.com,6.7,5,5,Placed
+Namdeo,namdeo@xyz.com,9.0,5,5,Placed
+Dinkar,dinkar@xyz.com,7.2,2,2,Not Placed
+Dinkar,dinkar@xyz.com,8.5,3,3,Not Placed
+Dinkar,dinkar@xyz.com,6.5,4,4,Placed
+Satish,satish@xyz.com,6.6,3,3,Not Placed
+Shyam,shyam@xyz.com,9.5,2,2,Not Placed
+Subhash,subhash@xyz.com,8.1,4,4,Placed
+Sampat,sampat@xyz.com,9.7,5,5,Placed
+Jadhav,jadhav@xyz.com,9.3,2,2,Not Placed
+Shrivastav,shrivastav@xyz.com,9.1,5,5,Placed
+Dipak,dipak@xyz.com,7.6,2,2,Not Placed
+Vilas,vilas@xyz.com,7.8,4,4,Placed
+kailas,kailas@xyz.com,7.9,4,4,Placed
+Madimgiri,madimgiri@xyz.com,8.5,3,3,Not Placed
+Ratilal,ratilal@xyz.com,8.7,3,3,Not Placed
+M.,m.@xyz.com,8.3,4,4,Placed
+Ashok,ashok@xyz.com,9.4,2,2,Not Placed
+DATTATRAY,dattatray@xyz.com,8.6,5,5,Placed
+Santosh,santosh@xyz.com,8.5,4,4,Placed
+Atul,atul@xyz.com,9.1,4,4,Placed
+Vilas,vilas@xyz.com,7.7,4,4,Placed
+Khandve,khandve@xyz.com,7.5,5,5,Placed
+Dhamdhere,dhamdhere@xyz.com,7.2,4,4,Placed
+Namdeo,namdeo@xyz.com,7.6,5,5,Placed
+Pramod,pramod@xyz.com,7.3,2,2,Not Placed
+Nilesh,nilesh@xyz.com,7.3,2,2,Not Placed
+Patel,patel@xyz.com,9.4,5,5,Placed
+Rathod,rathod@xyz.com,6.6,4,4,Placed
+patel,patel@xyz.com,6.6,2,2,Not Placed
+Patel,patel@xyz.com,8.5,2,2,Not Placed
+patel,patel@xyz.com,7.7,2,2,Not Placed
+Adhvika.v,adhvika.v@xyz.com,8.1,2,2,Not Placed
+PRAJAPATI,prajapati@xyz.com,7.9,5,5,Placed
+Patel,patel@xyz.com,7.1,4,4,Placed
+Santhana,santhana@xyz.com,8.3,2,2,Not Placed
+Patel,patel@xyz.com,7.7,3,3,Not Placed
+KENIL,kenil@xyz.com,8.0,4,4,Placed
+Yash,yash@xyz.com,6.5,5,5,Placed
+Anghan,anghan@xyz.com,9.4,2,2,Not Placed
+Rupapara,rupapara@xyz.com,6.8,3,3,Not Placed
+Garala,garala@xyz.com,6.7,2,2,Not Placed
+AARAV,aarav@xyz.com,7.9,3,3,Not Placed
+Harshil,harshil@xyz.com,9.3,4,4,Placed
+Taksh,taksh@xyz.com,6.9,3,3,Not Placed
+KALKANI,kalkani@xyz.com,8.9,2,2,Not Placed
+Patel,patel@xyz.com,8.3,5,5,Placed
+SAWAN,sawan@xyz.com,7.2,5,5,Placed
+Sahil,sahil@xyz.com,8.1,4,4,Placed
+Akshita,akshita@xyz.com,9.5,5,5,Placed
+Dharti,dharti@xyz.com,9.6,2,2,Not Placed
+Yash,yash@xyz.com,7.5,4,4,Placed
+Sujal,sujal@xyz.com,7.9,4,4,Placed
+Ayush,ayush@xyz.com,9.3,2,2,Not Placed
+Vasava,vasava@xyz.com,9.6,2,2,Not Placed
+AJINKYA,ajinkya@xyz.com,9.1,4,4,Placed
+Patel neel,patelneel@xyz.com,7.3,4,4,Placed
+BHAVANI,bhavani@xyz.com,7.5,3,3,Not Placed
+PATEL,patel@xyz.com,7.6,5,5,Placed
+Rony,rony@xyz.com,8.0,3,3,Not Placed
+Patel,patel@xyz.com,7.2,4,4,Placed
+DARJI,darji@xyz.com,9.1,2,2,Not Placed
+Patel,patel@xyz.com,6.7,4,4,Placed
+Vishnu,vishnu@xyz.com,7.1,3,3,Not Placed
+ROHITH,rohith@xyz.com,7.1,4,4,Placed
+BHUVANAGIRI,bhuvanagiri@xyz.com,9.5,2,2,Not Placed
+Venkata,venkata@xyz.com,9.2,4,4,Placed
+Rohit,rohit@xyz.com,7.9,5,5,Placed
+KRUNAL NIMESH,krunalnimesh@xyz.com,7.3,2,2,Not Placed
+Patel,patel@xyz.com,7.3,4,4,Placed
+Yash,yash@xyz.com,7.8,5,5,Placed
+Dhyey,dhyey@xyz.com,9.1,2,2,Not Placed
+Adityakumar,adityakumar@xyz.com,6.9,2,2,Not Placed
+PATEL,patel@xyz.com,8.4,5,5,Placed
+Shreyash,shreyash@xyz.com,6.7,4,4,Placed
+PATEL,patel@xyz.com,9.2,2,2,Not Placed
+NEEL,neel@xyz.com,7.3,3,3,Not Placed
+Prathmesh,prathmesh@xyz.com,7.9,5,5,Placed
+PATEL,patel@xyz.com,9.9,5,5,Placed
+RATHOD,rathod@xyz.com,7.6,5,5,Placed
+RATHOD,rathod@xyz.com,9.3,4,4,Placed
+Devang,devang@xyz.com,6.4,5,5,Placed
+Patel,patel@xyz.com,8.4,2,2,Not Placed
+Patel,patel@xyz.com,6.6,4,4,Placed
+Meet,meet@xyz.com,7.8,4,4,Placed
+Dharmin,dharmin@xyz.com,8.7,5,5,Placed
+Dev,dev@xyz.com,7.2,3,3,Not Placed
+Patel,patel@xyz.com,7.1,4,4,Placed
+Darsh,darsh@xyz.com,8.0,3,3,Not Placed
+RITIK,ritik@xyz.com,8.5,4,4,Placed
+Tanya,tanya@xyz.com,8.5,3,3,Not Placed
+Heetkumar,heetkumar@xyz.com,9.1,3,3,Not Placed
+Ayush,ayush@xyz.com,9.7,5,5,Placed
+Pal,pal@xyz.com,8.7,5,5,Placed
+Sonani,sonani@xyz.com,6.5,5,5,Placed
+Ashlesha,ashlesha@xyz.com,8.8,4,4,Placed
+BIJAY,bijay@xyz.com,9.3,3,3,Not Placed
+Zainab,zainab@xyz.com,7.6,5,5,Placed
+RAMANI,ramani@xyz.com,6.5,4,4,Placed
+Nil,nil@xyz.com,8.7,4,4,Placed
+Kaushani,kaushani@xyz.com,9.1,3,3,Not Placed
+Dnyaneshwar,dnyaneshwar@xyz.com,9.2,2,2,Not Placed
+Yukta,yukta@xyz.com,7.3,3,3,Not Placed
+PREM,prem@xyz.com,7.6,5,5,Placed
+Sejal,sejal@xyz.com,7.1,2,2,Not Placed
+C,c@xyz.com,8.3,5,5,Placed
+BEDANGA,bedanga@xyz.com,9.2,4,4,Placed
+Aswini,aswini@xyz.com,9.9,4,4,Placed
+ALLEN,allen@xyz.com,9.3,2,2,Not Placed
+Harshini,harshini@xyz.com,7.1,4,4,Placed
+Rathod,rathod@xyz.com,7.5,4,4,Placed
+SOURABH,sourabh@xyz.com,7.3,2,2,Not Placed
+Nihar,nihar@xyz.com,7.4,5,5,Placed
+JAYSHREE,jayshree@xyz.com,8.3,4,4,Placed
+Mansi,mansi@xyz.com,7.4,4,4,Placed
+OAD,oad@xyz.com,6.7,4,4,Placed
+Rakhi,rakhi@xyz.com,7.3,5,5,Placed
+Ankita,ankita@xyz.com,9.7,4,4,Placed
+Sudheer Chandra,sudheerchandra@xyz.com,7.9,2,2,Not Placed
+Mugdal,mugdal@xyz.com,7.2,3,3,Not Placed
+Ch.manikantareddy,ch.manikantareddy@xyz.com,7.1,2,2,Not Placed
+Bujunuru Sai,bujunurusai@xyz.com,8.7,2,2,Not Placed
+CHINNI,chinni@xyz.com,8.7,4,4,Placed
+Indrasenareddy,indrasenareddy@xyz.com,8.2,5,5,Placed
+Piyush,piyush@xyz.com,6.8,2,2,Not Placed
+Surya,surya@xyz.com,7.1,2,2,Not Placed
+Adarsh,adarsh@xyz.com,8.5,3,3,Not Placed
+ADITI,aditi@xyz.com,9.1,2,2,Not Placed
+Yekanthavasan,yekanthavasan@xyz.com,9.5,2,2,Not Placed
+Prajapat,prajapat@xyz.com,6.7,5,5,Placed
+TADHANI,tadhani@xyz.com,6.7,4,4,Placed
+Patel,patel@xyz.com,8.2,5,5,Placed
+Darshan,darshan@xyz.com,6.5,3,3,Not Placed
+Aghera,aghera@xyz.com,8.7,3,3,Not Placed
+MD.,md.@xyz.com,9.1,5,5,Placed
+ZEEL,zeel@xyz.com,8.9,3,3,Not Placed
+MIROLIYA,miroliya@xyz.com,7.4,3,3,Not Placed
+Samruddhi,samruddhi@xyz.com,7.3,3,3,Not Placed
+Sakshi,sakshi@xyz.com,8.6,3,3,Not Placed
+Rutuja,rutuja@xyz.com,9.2,5,5,Placed
+Rana,rana@xyz.com,7.8,5,5,Placed
+Shreya,shreya@xyz.com,7.9,5,5,Placed
+Hrishikesh,hrishikesh@xyz.com,9.9,3,3,Not Placed
+Dev,dev@xyz.com,8.1,2,2,Not Placed
+Harshal,harshal@xyz.com,9.5,2,2,Not Placed
+Bhumik,bhumik@xyz.com,9.8,4,4,Placed
+Preksha,preksha@xyz.com,9.6,5,5,Placed
+Vedant,vedant@xyz.com,9.6,3,3,Not Placed
+GANGINENI VENKATA,ganginenivenkata@xyz.com,6.2,5,5,Placed
+Patel,patel@xyz.com,9.1,2,2,Not Placed
+Lukman,lukman@xyz.com,7.2,3,3,Not Placed
+Rohit,rohit@xyz.com,9.5,2,2,Not Placed
+ANJANA,anjana@xyz.com,6.8,4,4,Placed
+Gajrotar,gajrotar@xyz.com,8.4,5,5,Placed
+Patel,patel@xyz.com,9.9,5,5,Placed
+Nihal,nihal@xyz.com,6.6,4,4,Placed
+Patel,patel@xyz.com,6.7,3,3,Not Placed
+Jaykumar,jaykumar@xyz.com,7.6,5,5,Placed
+Vipul,vipul@xyz.com,8.3,3,3,Not Placed
+Jaiswal,jaiswal@xyz.com,6.3,2,2,Not Placed
+Akshinsinh,akshinsinh@xyz.com,8.9,3,3,Not Placed
+Charmi,charmi@xyz.com,9.5,5,5,Placed
+Tushar,tushar@xyz.com,8.5,5,5,Placed
+aastha,aastha@xyz.com,8.5,3,3,Not Placed
+Prasad,prasad@xyz.com,8.8,2,2,Not Placed
+vraj,vraj@xyz.com,7.9,4,4,Placed
+Raj,raj@xyz.com,7.5,5,5,Placed
+Sharma,sharma@xyz.com,8.3,5,5,Placed
+Kevin,kevin@xyz.com,6.4,4,4,Placed
+Esha,esha@xyz.com,7.5,5,5,Placed
+Hemil,hemil@xyz.com,7.7,2,2,Not Placed
+Shitij,shitij@xyz.com,9.9,4,4,Placed
+Sahil,sahil@xyz.com,7.6,3,3,Not Placed
+dirgh,dirgh@xyz.com,7.9,5,5,Placed
+Sandeep,sandeep@xyz.com,7.7,2,2,Not Placed
+UTkarsha,utkarsha@xyz.com,7.4,4,4,Placed
+Sanjay,sanjay@xyz.com,9.2,5,5,Placed
+PRAJWAL,prajwal@xyz.com,7.6,5,5,Placed
+Pranjal,pranjal@xyz.com,8.7,4,4,Placed
+Nikhil,nikhil@xyz.com,9.5,2,2,Not Placed
+Aakanksha,aakanksha@xyz.com,6.9,3,3,Not Placed
+Jyoti,jyoti@xyz.com,9.2,5,5,Placed
+Darshana,darshana@xyz.com,6.9,3,3,Not Placed
+Gayatri,gayatri@xyz.com,7.2,4,4,Placed
+Shubham,shubham@xyz.com,7.5,4,4,Placed
+Rushikesh,rushikesh@xyz.com,6.5,3,3,Not Placed
+Shubham,shubham@xyz.com,7.5,5,5,Placed
+Krishan,krishan@xyz.com,6.9,4,4,Placed
+Hemant ,hemant@xyz.com,7.6,3,3,Not Placed
+Ajay,ajay@xyz.com,6.5,5,5,Placed
+Anmol,anmol@xyz.com,7.3,3,3,Not Placed
+Himani,himani@xyz.com,6.7,2,2,Not Placed
+Samidha,samidha@xyz.com,8.7,4,4,Placed
+Ghanshyam,ghanshyam@xyz.com,6.7,5,5,Placed
+Shriram,shriram@xyz.com,9.0,2,2,Not Placed
+Veena ,veena@xyz.com,7.2,3,3,Not Placed
+Tushar,tushar@xyz.com,8.5,5,5,Placed
+Abdul,abdul@xyz.com,6.5,3,3,Not Placed
+Yash,yash@xyz.com,6.6,4,4,Placed
+Anghan,anghan@xyz.com,9.5,2,2,Not Placed
+Rupapara,rupapara@xyz.com,8.1,5,5,Placed
+Garala,garala@xyz.com,9.7,3,3,Not Placed
+AARAV,aarav@xyz.com,9.3,4,4,Placed
+Harshil,harshil@xyz.com,9.1,5,5,Placed
+Taksh,taksh@xyz.com,7.6,4,4,Placed
+Vikranth,vikranth@xyz.com,7.8,4,4,Placed
+Dhanashree,dhanashree@xyz.com,7.9,4,4,Placed
+Swapnali ,swapnali@xyz.com,8.5,5,5,Placed
+Mihir,mihir@xyz.com,8.7,5,5,Placed
+Omkar,omkar@xyz.com,8.3,2,2,Not Placed
+Sonu,sonu@xyz.com,9.4,4,4,Placed
+Aniket,aniket@xyz.com,8.6,4,4,Placed
+Abhishek,abhishek@xyz.com,8.5,4,4,Placed
+Pratik ,pratik@xyz.com,9.1,4,4,Placed
+Nikita,nikita@xyz.com,7.7,4,4,Placed
+Ashwini ,ashwini@xyz.com,7.5,2,2,Not Placed
+Jheanna Mae,jheannamae@xyz.com,7.2,4,4,Placed
+Krishna,krishna@xyz.com,7.6,4,4,Placed
+Dhairya,dhairya@xyz.com,7.3,3,3,Not Placed
+Pankaj,pankaj@xyz.com,7.3,4,4,Placed
+RAHUL,rahul@xyz.com,9.4,3,3,Not Placed
+Riya,riya@xyz.com,6.6,4,4,Placed
+Shubham,shubham@xyz.com,6.6,5,5,Placed
+Vrushika,vrushika@xyz.com,8.5,2,2,Not Placed
+Pranav,pranav@xyz.com,7.7,2,2,Not Placed
+PATEL,patel@xyz.com,8.1,3,3,Not Placed
+Yagnesh,yagnesh@xyz.com,7.9,4,4,Placed
+Monika,monika@xyz.com,7.1,2,2,Not Placed
+Dave,dave@xyz.com,8.3,5,5,Placed
+Vishal,vishal@xyz.com,7.7,4,4,Placed
+Smit,smit@xyz.com,8.0,4,4,Placed
+RIDDHI,riddhi@xyz.com,6.5,4,4,Placed
+Harmeet,harmeet@xyz.com,9.4,5,5,Placed
+Prajapati,prajapati@xyz.com,6.8,3,3,Not Placed
+CHINMAY,chinmay@xyz.com,6.7,2,2,Not Placed
+Prajapati,prajapati@xyz.com,7.9,5,5,Placed
+Omkar,omkar@xyz.com,9.3,2,2,Not Placed
+Sowmiya.,sowmiya.@xyz.com,6.9,2,2,Not Placed
+Bhumi,bhumi@xyz.com,8.9,2,2,Not Placed
+Pawar,pawar@xyz.com,8.3,5,5,Placed
+JIGNASHA,jignasha@xyz.com,7.2,2,2,Not Placed
+VIJYA,vijya@xyz.com,8.1,2,2,Not Placed
+KARGATHARA,kargathara@xyz.com,9.5,5,5,Placed
+Patel,patel@xyz.com,9.6,2,2,Not Placed
+DHARSANDIYA,dharsandiya@xyz.com,7.5,2,2,Not Placed
+Krish,krish@xyz.com,7.9,3,3,Not Placed
+Kalariya,kalariya@xyz.com,9.3,4,4,Placed
+Arjun,arjun@xyz.com,9.6,5,5,Placed
+Darji,darji@xyz.com,9.1,4,4,Placed
+Patel,patel@xyz.com,7.3,4,4,Placed
+Chaitra,chaitra@xyz.com,7.5,5,5,Placed
+ATHARV,atharv@xyz.com,7.6,3,3,Not Placed
+Snehal,snehal@xyz.com,8.0,2,2,Not Placed
+Parmar,parmar@xyz.com,7.2,3,3,Not Placed
+DARSHANKUMAR,darshankumar@xyz.com,9.1,3,3,Not Placed
+Ayesha,ayesha@xyz.com,6.7,5,5,Placed
+Apurva,apurva@xyz.com,7.1,4,4,Placed
+Pooja,pooja@xyz.com,7.1,5,5,Placed
+Prashant,prashant@xyz.com,9.5,2,2,Not Placed
+Amit,amit@xyz.com,9.2,4,4,Placed
+Aboli,aboli@xyz.com,7.9,4,4,Placed
+Aamir,aamir@xyz.com,7.3,3,3,Not Placed
+Gunjan,gunjan@xyz.com,7.3,2,2,Not Placed
+Mayuri,mayuri@xyz.com,7.8,3,3,Not Placed
+Vedant,vedant@xyz.com,9.1,4,4,Placed
+Ketaki,ketaki@xyz.com,6.9,5,5,Placed
+Gauri,gauri@xyz.com,8.4,2,2,Not Placed
+Anurag,anurag@xyz.com,6.7,3,3,Not Placed
+Vaibhav,vaibhav@xyz.com,9.2,4,4,Placed
+Atharva,atharva@xyz.com,7.3,5,5,Placed
+Vanshita,vanshita@xyz.com,7.9,2,2,Not Placed
+Rutvij,rutvij@xyz.com,9.9,4,4,Placed
+Adinath,adinath@xyz.com,7.6,3,3,Not Placed
+Shruti ,shruti@xyz.com,9.3,5,5,Placed
+Vaibhav,vaibhav@xyz.com,6.4,5,5,Placed
+Sakshi,sakshi@xyz.com,8.4,2,2,Not Placed
+Nidhika,nidhika@xyz.com,6.6,2,2,Not Placed
+Mithun,mithun@xyz.com,7.8,4,4,Placed
+Pragya,pragya@xyz.com,8.7,4,4,Placed
+Arya,arya@xyz.com,7.2,2,2,Not Placed
+Vaishnavi,vaishnavi@xyz.com,7.1,5,5,Placed
+Namrata,namrata@xyz.com,8.0,3,3,Not Placed
+Shradha,shradha@xyz.com,8.5,5,5,Placed
+Tejas,tejas@xyz.com,8.5,5,5,Placed
+TEJAS,tejas@xyz.com,9.1,4,4,Placed
+Nikita,nikita@xyz.com,9.7,5,5,Placed
+Nandini,nandini@xyz.com,8.7,3,3,Not Placed
+Pranjali,pranjali@xyz.com,6.5,5,5,Placed
+Pawan,pawan@xyz.com,8.8,5,5,Placed
+Komal,komal@xyz.com,9.3,2,2,Not Placed
+Prerana,prerana@xyz.com,7.6,4,4,Placed
+Geetika,geetika@xyz.com,6.5,5,5,Placed
+Prasad,prasad@xyz.com,8.7,4,4,Placed
+Ms.,ms.@xyz.com,9.1,4,4,Placed
+Akshay,akshay@xyz.com,9.2,3,3,Not Placed
+Gokul,gokul@xyz.com,7.3,3,3,Not Placed
+Vasava,vasava@xyz.com,7.6,2,3,Placed
+Abhi,abhi@xyz.com,7.1,3,2,Not Placed
+OM,om@xyz.com,8.3,4,5,Placed
+Ashish,ashish@xyz.com,9.2,5,3,Not Placed
+Faizan,faizan@xyz.com,9.9,5,2,Not Placed
+Panchal,panchal@xyz.com,9.3,4,5,Placed
+Shweta,shweta@xyz.com,7.1,3,3,Not Placed
+Shah,shah@xyz.com,7.5,4,2,Not Placed
+Shruti,shruti@xyz.com,7.3,4,3,Not Placed
+KIRAN,kiran@xyz.com,7.4,4,3,Not Placed
+Ashuraj,ashuraj@xyz.com,8.3,5,3,Not Placed
+Shravani,shravani@xyz.com,7.4,2,2,Not Placed
+Pooja,pooja@xyz.com,6.7,2,3,Placed
+Ayushman,ayushman@xyz.com,7.3,5,3,Not Placed
+Snehal,snehal@xyz.com,9.7,3,3,Not Placed
+Rohit,rohit@xyz.com,7.9,2,3,Placed
+Dr.,dr.@xyz.com,7.2,2,5,Placed
+Amruta,amruta@xyz.com,7.1,2,2,Not Placed
+Astha,astha@xyz.com,8.7,4,5,Placed
+Shristi,shristi@xyz.com,8.7,4,2,Not Placed
+Yashpal,yashpal@xyz.com,8.2,5,3,Not Placed
+Shruti,shruti@xyz.com,6.8,4,2,Not Placed
+Poorvi,poorvi@xyz.com,7.1,2,3,Placed
+VEGGILAM RAHUL,veggilamrahul@xyz.com,8.5,5,5,Placed
+Tirth,tirth@xyz.com,9.1,2,2,Not Placed
+Sanket,sanket@xyz.com,9.5,2,3,Placed
+Neha,neha@xyz.com,6.7,2,5,Placed
+Sandhya,sandhya@xyz.com,6.7,3,3,Not Placed
+Vanshita,vanshita@xyz.com,8.2,3,3,Not Placed
+Rakholiya,rakholiya@xyz.com,6.5,4,2,Not Placed
+Dr.,dr.@xyz.com,8.7,5,2,Not Placed
+Ashish,ashish@xyz.com,9.1,3,5,Placed
+ANUPKUMAR,anupkumar@xyz.com,8.9,4,2,Not Placed
+Kishori,kishori@xyz.com,7.4,4,3,Not Placed
+Vikram,vikram@xyz.com,7.3,3,5,Placed
+Panchal,panchal@xyz.com,8.6,2,3,Placed
+Abu,abu@xyz.com,9.2,3,5,Placed
+Smit,smit@xyz.com,7.8,2,2,Not Placed
+Vaithiyanathan,vaithiyanathan@xyz.com,7.9,4,3,Not Placed
+Harish.s,harish.s@xyz.com,9.9,4,5,Placed
+Shubham,shubham@xyz.com,8.1,5,5,Placed
+Vishal,vishal@xyz.com,9.5,5,3,Not Placed
+Payal,payal@xyz.com,9.8,2,3,Placed
+Shubham,shubham@xyz.com,9.6,2,3,Placed
+Ragul,ragul@xyz.com,9.6,4,2,Not Placed
+vasant,vasant@xyz.com,6.2,2,3,Placed
+Avni,avni@xyz.com,9.1,4,3,Not Placed
+Sanskruti,sanskruti@xyz.com,7.2,2,2,Not Placed
+Dipak,dipak@xyz.com,9.5,3,2,Not Placed
+PATEL,patel@xyz.com,6.8,5,5,Placed
+Mrunmay,mrunmay@xyz.com,8.4,2,3,Placed
+Ragul,ragul@xyz.com,9.9,5,5,Placed
+Amirtha,amirtha@xyz.com,6.6,3,2,Not Placed
+Harshavardhan,harshavardhan@xyz.com,6.7,4,3,Not Placed
+SANJAIKUMAR.,sanjaikumar.@xyz.com,7.6,4,5,Placed
+Bharkavi.R,bharkavi.r@xyz.com,8.3,4,3,Not Placed
+SAMIULLAH,samiullah@xyz.com,6.3,5,2,Not Placed
+Sedhuprakash,sedhuprakash@xyz.com,8.9,5,5,Placed
+Mohamed,mohamed@xyz.com,9.5,3,3,Not Placed
+Aakassh,aakassh@xyz.com,8.5,2,3,Placed
+Swetha,swetha@xyz.com,8.5,4,2,Not Placed
+Mugundhan.D,mugundhan.d@xyz.com,8.8,4,3,Not Placed
+Abha,abha@xyz.com,7.9,5,3,Not Placed
+Sudhaarshan,sudhaarshan@xyz.com,7.5,4,5,Placed
+Kaviya.,kaviya.@xyz.com,8.3,4,3,Not Placed
+Mahalakshmi,mahalakshmi@xyz.com,6.4,3,3,Not Placed
+Vishnupriya,vishnupriya@xyz.com,7.5,2,3,Placed
+Dheepika,dheepika@xyz.com,7.7,4,3,Not Placed
+Rahul.B,rahul.b@xyz.com,9.9,4,5,Placed
+Soumya.R,soumya.r@xyz.com,7.6,5,2,Not Placed
+S.Ackshaiya,s.ackshaiya@xyz.com,7.9,3,3,Not Placed
+Dhanalakshmi,dhanalakshmi@xyz.com,7.7,3,5,Placed
+N.MANI,n.mani@xyz.com,7.4,5,2,Not Placed
+Leakhaa,leakhaa@xyz.com,9.2,3,2,Not Placed
+Priyan,priyan@xyz.com,7.6,2,3,Placed
+Megha,megha@xyz.com,8.7,2,2,Not Placed
+Nishaathiry.k,nishaathiry.k@xyz.com,9.5,3,3,Not Placed
+T,t@xyz.com,6.9,3,5,Placed
+B.M.SOMESH,b.m.somesh@xyz.com,9.2,4,3,Not Placed
+Manthan,manthan@xyz.com,6.9,5,3,Not Placed
+DHIVAGAR,dhivagar@xyz.com,7.2,3,3,Not Placed
+Nupur,nupur@xyz.com,7.5,2,3,Placed
+Aishwarya,aishwarya@xyz.com,6.5,2,2,Not Placed
+Abhishek,abhishek@xyz.com,7.5,3,3,Not Placed
+Kaviya,kaviya@xyz.com,6.9,4,5,Placed
+Dhivyaprabha,dhivyaprabha@xyz.com,7.6,3,3,Not Placed
+R.Roshiny,r.roshiny@xyz.com,6.5,2,3,Placed
+K.HEMA,k.hema@xyz.com,7.3,4,2,Not Placed
+Shubham,shubham@xyz.com,6.7,5,3,Not Placed
+NAVEENKUMAR.P,naveenkumar.p@xyz.com,8.7,5,3,Not Placed
+RifaSherin,rifasherin@xyz.com,6.7,2,5,Placed
+Arya,arya@xyz.com,9.0,5,5,Placed
+Het,het@xyz.com,7.2,3,2,Not Placed
+KEERTHANA,keerthana@xyz.com,8.5,4,3,Not Placed
+Prachi,prachi@xyz.com,6.5,4,5,Placed
+Aditi,aditi@xyz.com,6.6,5,5,Placed
+SINDHU,sindhu@xyz.com,9.5,5,5,Placed
+NUPUR,nupur@xyz.com,8.1,5,2,Not Placed
+Siva,siva@xyz.com,9.7,2,3,Placed
+Sahil,sahil@xyz.com,9.3,5,2,Not Placed
+Ayush,ayush@xyz.com,9.1,5,3,Not Placed
+Mantu,mantu@xyz.com,7.6,3,2,Not Placed
+Lakshmanan,lakshmanan@xyz.com,7.8,3,2,Not Placed
+VELLIANGIRY,velliangiry@xyz.com,7.9,2,3,Placed
+Snehal,snehal@xyz.com,8.5,5,5,Placed
+Mayur,mayur@xyz.com,8.7,3,2,Not Placed
+kshitij,kshitij@xyz.com,8.3,4,5,Placed
+Ekta,ekta@xyz.com,9.4,4,3,Not Placed
+Savinay,savinay@xyz.com,8.6,3,5,Placed
+vivek,vivek@xyz.com,8.5,4,3,Not Placed
+Sanjay,sanjay@xyz.com,9.1,4,2,Not Placed
+Aishwarya,aishwarya@xyz.com,7.7,5,3,Not Placed
+Yogesh,yogesh@xyz.com,7.5,4,3,Not Placed
+Parth,parth@xyz.com,7.2,5,2,Not Placed
+Nikita,nikita@xyz.com,7.6,4,3,Not Placed
+Rutika,rutika@xyz.com,7.3,4,3,Not Placed
+Abhilasha,abhilasha@xyz.com,7.3,3,3,Not Placed
+Nishant,nishant@xyz.com,9.4,3,3,Not Placed
+Anmol,anmol@xyz.com,6.6,2,3,Placed
+RAHUL,rahul@xyz.com,6.6,3,3,Not Placed
+Nakum,nakum@xyz.com,8.5,2,2,Not Placed
+SIVAPRAKASH.B,sivaprakash.b@xyz.com,7.7,4,3,Not Placed
+Karuna,karuna@xyz.com,8.1,5,3,Not Placed
+Tanmay,tanmay@xyz.com,7.9,5,5,Placed
+Priyanka,priyanka@xyz.com,7.1,5,3,Not Placed
+Rutika,rutika@xyz.com,8.3,5,2,Not Placed
+SAMARTH,samarth@xyz.com,7.7,4,5,Placed
+DIGVIJAYSINH,digvijaysinh@xyz.com,8.0,2,3,Placed
+Chovatiya,chovatiya@xyz.com,6.5,3,3,Not Placed
+Charmi,charmi@xyz.com,9.4,2,2,Not Placed
+BANDARU VENKATA,bandaruvenkata@xyz.com,6.8,5,5,Placed
+Bhagya,bhagya@xyz.com,6.7,2,2,Not Placed
+NIKHEEL,nikheel@xyz.com,7.9,2,2,Not Placed
+ashish,ashish@xyz.com,9.3,4,4,Placed
+SHUBHAM,shubham@xyz.com,6.9,4,4,Placed
+Patel,patel@xyz.com,8.9,5,5,Placed
+Haiya,haiya@xyz.com,8.3,4,4,Placed
+Patel,patel@xyz.com,7.2,3,3,Not Placed
+RANA,rana@xyz.com,8.1,2,2,Not Placed
+Patel,patel@xyz.com,9.5,4,4,Placed
+Rangrez,rangrez@xyz.com,9.6,3,3,Not Placed
+Jay,jay@xyz.com,7.5,2,2,Not Placed
+KASUNDRA,kasundra@xyz.com,7.9,4,4,Placed
+Utkarsh,utkarsh@xyz.com,9.3,2,2,Not Placed
+Saurabh,saurabh@xyz.com,9.6,2,2,Not Placed
+Meet,meet@xyz.com,9.1,3,3,Not Placed
+Kamlesh,kamlesh@xyz.com,7.3,3,3,Not Placed
+Prajapati,prajapati@xyz.com,7.5,5,5,Placed
+Manav,manav@xyz.com,7.6,2,2,Not Placed
+Vraj,vraj@xyz.com,8.0,5,5,Placed
+Om,om@xyz.com,7.2,4,4,Placed
+Patel,patel@xyz.com,9.1,5,5,Placed
+RANA,rana@xyz.com,6.7,3,3,Not Placed
+PATEL,patel@xyz.com,7.1,5,5,Placed
+JAINISH,jainish@xyz.com,7.1,5,5,Placed
+Meghkumar,meghkumar@xyz.com,9.5,4,4,Placed
+Patel,patel@xyz.com,9.2,5,5,Placed
+SRUJAL,srujal@xyz.com,7.9,5,5,Placed
+PATEL,patel@xyz.com,7.3,3,3,Not Placed
+PATEL,patel@xyz.com,7.3,4,4,Placed
+Pethani,pethani@xyz.com,7.8,3,3,Not Placed
+RANPURA,ranpura@xyz.com,9.1,3,3,Not Placed
+Harshil,harshil@xyz.com,6.9,4,4,Placed
+Patel,patel@xyz.com,8.4,4,4,Placed
+Kalpesh,kalpesh@xyz.com,6.7,4,4,Placed
+SUMIT,sumit@xyz.com,9.2,4,4,Placed
+Meet,meet@xyz.com,7.3,3,3,Not Placed
+Patel,patel@xyz.com,7.9,5,5,Placed
+PATEL,patel@xyz.com,9.9,3,3,Not Placed
+Badal,badal@xyz.com,7.6,3,3,Not Placed
+UJJAWAL,ujjawal@xyz.com,9.3,2,2,Not Placed
+Pipalva,pipalva@xyz.com,6.4,4,4,Placed
+Prajapati Ankit,prajapatiankit@xyz.com,8.4,2,2,Not Placed
+Patel Niraj,patelniraj@xyz.com,6.6,5,5,Placed
+Rana,rana@xyz.com,7.8,3,3,Not Placed
+Patel,patel@xyz.com,8.7,2,2,Not Placed
+PATEL,patel@xyz.com,7.2,5,5,Placed
+Patel,patel@xyz.com,7.1,3,3,Not Placed
+Rathod,rathod@xyz.com,8.0,2,2,Not Placed
+patel,patel@xyz.com,8.5,4,4,Placed
+Patel,patel@xyz.com,8.5,3,3,Not Placed
+patel,patel@xyz.com,9.1,4,4,Placed
+Adhvika.v,adhvika.v@xyz.com,9.7,2,2,Not Placed
+PRAJAPATI,prajapati@xyz.com,8.7,4,4,Placed
+Patel,patel@xyz.com,6.5,4,4,Placed
+Santhana,santhana@xyz.com,8.8,4,4,Placed
+Patel,patel@xyz.com,9.3,3,3,Not Placed
+KENIL,kenil@xyz.com,7.6,5,5,Placed
+Yash,yash@xyz.com,6.5,2,2,Not Placed
+Anghan,anghan@xyz.com,8.7,5,5,Placed
+Rupapara,rupapara@xyz.com,9.1,2,2,Not Placed
+Garala,garala@xyz.com,9.2,3,3,Not Placed
+AARAV,aarav@xyz.com,7.3,2,2,Not Placed
+Harshil,harshil@xyz.com,7.6,3,3,Not Placed
+Taksh,taksh@xyz.com,7.1,5,5,Placed
+KALKANI,kalkani@xyz.com,8.3,2,2,Not Placed
+Patel,patel@xyz.com,9.2,3,3,Not Placed
+SAWAN,sawan@xyz.com,9.9,5,5,Placed
+Sahil,sahil@xyz.com,9.3,4,4,Placed
+Akshita,akshita@xyz.com,7.1,3,3,Not Placed
+Dharti,dharti@xyz.com,7.5,2,2,Not Placed
+Yash,yash@xyz.com,7.3,2,2,Not Placed
+Sujal,sujal@xyz.com,7.4,5,5,Placed
+Ayush,ayush@xyz.com,8.3,2,2,Not Placed
+Vasava,vasava@xyz.com,7.4,3,3,Not Placed
+AJINKYA,ajinkya@xyz.com,6.7,5,5,Placed
+Patel neel,patelneel@xyz.com,7.3,4,4,Placed
+BHAVANI,bhavani@xyz.com,9.7,5,5,Placed
+PATEL,patel@xyz.com,7.9,2,2,Not Placed
+Rony,rony@xyz.com,7.2,3,3,Not Placed
+Patel,patel@xyz.com,7.1,5,5,Placed
+DARJI,darji@xyz.com,8.7,5,5,Placed
+Patel,patel@xyz.com,8.7,3,3,Not Placed
+Vishnu,vishnu@xyz.com,8.2,4,4,Placed
+ROHITH,rohith@xyz.com,6.8,3,3,Not Placed
+BHUVANAGIRI,bhuvanagiri@xyz.com,7.1,2,2,Not Placed
+Venkata,venkata@xyz.com,8.5,4,4,Placed
+Rohit,rohit@xyz.com,9.1,4,4,Placed
+KRUNAL NIMESH,krunalnimesh@xyz.com,9.5,2,2,Not Placed
+Patel,patel@xyz.com,6.7,2,2,Not Placed
+Yash,yash@xyz.com,6.7,5,5,Placed
+Dhyey,dhyey@xyz.com,8.2,3,3,Not Placed
+Adityakumar,adityakumar@xyz.com,6.5,5,5,Placed
+PATEL,patel@xyz.com,8.7,2,2,Not Placed
+Shreyash,shreyash@xyz.com,9.1,4,4,Placed
+PATEL,patel@xyz.com,8.9,5,5,Placed
+NEEL,neel@xyz.com,7.4,3,3,Not Placed
+Prathmesh,prathmesh@xyz.com,7.3,2,2,Not Placed
+PATEL,patel@xyz.com,8.6,5,5,Placed
+RATHOD,rathod@xyz.com,9.2,3,3,Not Placed
+RATHOD,rathod@xyz.com,7.8,4,4,Placed
+Devang,devang@xyz.com,7.9,2,2,Not Placed
+Patel,patel@xyz.com,9.9,4,4,Placed
+Patel,patel@xyz.com,8.1,4,4,Placed
+Meet,meet@xyz.com,9.5,5,5,Placed
+Dharmin,dharmin@xyz.com,9.8,4,4,Placed
+Dev,dev@xyz.com,9.6,4,4,Placed
+Patel,patel@xyz.com,9.6,4,4,Placed
+Darsh,darsh@xyz.com,6.2,4,4,Placed
+RITIK,ritik@xyz.com,9.1,5,5,Placed
+Tanya,tanya@xyz.com,7.2,2,2,Not Placed
+Heetkumar,heetkumar@xyz.com,9.5,4,4,Placed
+Ayush,ayush@xyz.com,6.8,5,5,Placed
+Pal,pal@xyz.com,8.4,2,2,Not Placed
+Sonani,sonani@xyz.com,9.9,2,2,Not Placed
+Ashlesha,ashlesha@xyz.com,6.6,4,4,Placed
+BIJAY,bijay@xyz.com,6.7,2,2,Not Placed
+Zainab,zainab@xyz.com,7.6,4,4,Placed
+RAMANI,ramani@xyz.com,8.3,5,5,Placed
+Nil,nil@xyz.com,6.3,3,3,Not Placed
+Kaushani,kaushani@xyz.com,8.9,3,3,Not Placed
+Dnyaneshwar,dnyaneshwar@xyz.com,9.5,4,4,Placed
+Yukta,yukta@xyz.com,8.5,3,2,Not Placed
+PREM,prem@xyz.com,8.5,2,5,Placed
+Sejal,sejal@xyz.com,8.8,4,2,Not Placed
+C,c@xyz.com,7.9,5,2,Not Placed
+BEDANGA,bedanga@xyz.com,7.5,4,4,Placed
+Aswini,aswini@xyz.com,8.3,4,4,Placed
+ALLEN,allen@xyz.com,6.4,2,5,Placed
+Harshini,harshini@xyz.com,7.5,4,4,Placed
+Rathod,rathod@xyz.com,7.7,3,3,Not Placed
+SOURABH,sourabh@xyz.com,9.9,5,2,Not Placed
+Nihar,nihar@xyz.com,7.6,5,4,Not Placed
+JAYSHREE,jayshree@xyz.com,7.9,2,3,Placed
+Mansi,mansi@xyz.com,7.7,4,2,Not Placed
+OAD,oad@xyz.com,7.4,5,4,Not Placed
+Rakhi,rakhi@xyz.com,9.2,5,2,Not Placed
+Ankita,ankita@xyz.com,7.6,5,2,Not Placed
+Sudheer Chandra,sudheerchandra@xyz.com,8.7,2,3,Placed
+Mugdal,mugdal@xyz.com,9.5,3,3,Not Placed
+Ch.manikantareddy,ch.manikantareddy@xyz.com,6.9,2,5,Placed
+Bujunuru Sai,bujunurusai@xyz.com,9.2,4,2,Not Placed
+CHINNI,chinni@xyz.com,6.9,2,5,Placed
+Indrasenareddy,indrasenareddy@xyz.com,7.2,2,4,Placed
+Piyush,piyush@xyz.com,7.5,4,5,Placed
+Surya,surya@xyz.com,6.5,5,3,Not Placed
+Adarsh,adarsh@xyz.com,7.5,2,5,Placed
+ADITI,aditi@xyz.com,6.9,5,5,Placed
+Yekanthavasan,yekanthavasan@xyz.com,7.6,4,4,Placed
+Prajapat,prajapat@xyz.com,6.5,5,5,Placed
+TADHANI,tadhani@xyz.com,7.3,4,5,Placed
+Patel,patel@xyz.com,6.7,2,3,Placed
+Darshan,darshan@xyz.com,8.7,3,4,Placed
+Aghera,aghera@xyz.com,6.7,4,3,Not Placed
+MD.,md.@xyz.com,9.0,2,3,Placed
+ZEEL,zeel@xyz.com,7.2,4,4,Placed
+MIROLIYA,miroliya@xyz.com,8.5,3,4,Placed
+Samruddhi,samruddhi@xyz.com,6.5,4,4,Placed
+Sakshi,sakshi@xyz.com,6.6,4,4,Placed
+Rutuja,rutuja@xyz.com,9.5,4,3,Not Placed
+Rana,rana@xyz.com,8.1,3,5,Placed
+Shreya,shreya@xyz.com,9.7,2,3,Placed
+Hrishikesh,hrishikesh@xyz.com,9.3,4,3,Not Placed
+Dev,dev@xyz.com,9.1,3,2,Not Placed
+Harshal,harshal@xyz.com,7.6,5,4,Not Placed
+Bhumik,bhumik@xyz.com,7.8,4,2,Not Placed
+Preksha,preksha@xyz.com,7.9,2,2,Not Placed
+Vedant,vedant@xyz.com,8.5,5,5,Placed
+GANGINENI VENKATA,ganginenivenkata@xyz.com,8.7,3,3,Not Placed
+Patel,patel@xyz.com,8.3,4,4,Placed
+Lukman,lukman@xyz.com,9.4,5,5,Placed
+Rohit,rohit@xyz.com,8.6,4,4,Placed
+ANJANA,anjana@xyz.com,8.5,4,4,Placed
+Gajrotar,gajrotar@xyz.com,9.1,4,4,Placed
+Patel,patel@xyz.com,7.7,3,3,Not Placed
+Nihal,nihal@xyz.com,7.5,3,3,Not Placed
+Patel,patel@xyz.com,7.2,5,5,Placed
+Jaykumar,jaykumar@xyz.com,7.6,5,5,Placed
+Vipul,vipul@xyz.com,7.3,5,5,Placed
+Jaiswal,jaiswal@xyz.com,7.3,4,4,Placed
+Akshinsinh,akshinsinh@xyz.com,9.4,2,2,Not Placed
+Charmi,charmi@xyz.com,6.6,3,3,Not Placed
+Tushar,tushar@xyz.com,6.6,2,2,Not Placed
+aastha,aastha@xyz.com,8.5,3,3,Not Placed
+Prasad,prasad@xyz.com,7.7,3,3,Not Placed
+vraj,vraj@xyz.com,8.1,3,3,Not Placed
+Raj,raj@xyz.com,7.9,4,4,Placed
+Sharma,sharma@xyz.com,7.1,4,4,Placed
+Kevin,kevin@xyz.com,8.3,3,3,Not Placed
+Esha,esha@xyz.com,7.7,2,2,Not Placed
+Hemil,hemil@xyz.com,8.0,2,2,Not Placed
+Shitij,shitij@xyz.com,6.5,4,4,Placed
+Sahil,sahil@xyz.com,9.4,4,4,Placed
+dirgh,dirgh@xyz.com,6.8,5,5,Placed
+Sandeep,sandeep@xyz.com,6.7,4,4,Placed
+UTkarsha,utkarsha@xyz.com,7.9,3,3,Not Placed
+Sanjay,sanjay@xyz.com,9.3,4,4,Placed
+PRAJWAL,prajwal@xyz.com,6.9,4,4,Placed
+Pranjal,pranjal@xyz.com,8.9,2,2,Not Placed
+Nikhil,nikhil@xyz.com,8.3,4,4,Placed
+Aakanksha,aakanksha@xyz.com,7.2,3,3,Not Placed
+Jyoti,jyoti@xyz.com,8.1,4,4,Placed
+Darshana,darshana@xyz.com,9.5,2,2,Not Placed
+Gayatri,gayatri@xyz.com,9.6,4,4,Placed
+Shubham,shubham@xyz.com,7.5,5,5,Placed
+Rushikesh,rushikesh@xyz.com,7.9,5,5,Placed
+Shubham,shubham@xyz.com,9.3,5,5,Placed
+Krishan,krishan@xyz.com,9.6,4,4,Placed
+Hemant ,hemant@xyz.com,9.1,4,4,Placed
+Ajay,ajay@xyz.com,7.3,3,3,Not Placed
+Anmol,anmol@xyz.com,7.5,4,4,Placed
+Himani,himani@xyz.com,7.6,4,4,Placed
+Samidha,samidha@xyz.com,8.0,4,4,Placed
+Ghanshyam,ghanshyam@xyz.com,7.2,2,2,Not Placed
+Shriram,shriram@xyz.com,9.1,3,3,Not Placed
+Veena ,veena@xyz.com,6.7,4,4,Placed
+Tushar,tushar@xyz.com,7.1,5,5,Placed
+Abdul,abdul@xyz.com,7.1,5,5,Placed
+Yash,yash@xyz.com,9.5,3,3,Not Placed
+Anghan,anghan@xyz.com,9.2,2,2,Not Placed
+Rupapara,rupapara@xyz.com,7.9,2,2,Not Placed
+Garala,garala@xyz.com,7.3,2,2,Not Placed
+AARAV,aarav@xyz.com,7.3,2,2,Not Placed
+Harshil,harshil@xyz.com,7.8,4,4,Placed
+Taksh,taksh@xyz.com,9.1,2,2,Not Placed
+Vikranth,vikranth@xyz.com,6.9,4,4,Placed
+Dhanashree,dhanashree@xyz.com,8.4,3,3,Not Placed
+Swapnali ,swapnali@xyz.com,6.7,4,4,Placed
+Mihir,mihir@xyz.com,9.2,2,2,Not Placed
+Omkar,omkar@xyz.com,7.3,2,2,Not Placed
+Sonu,sonu@xyz.com,7.9,5,5,Placed
+Aniket,aniket@xyz.com,9.9,2,2,Not Placed
+Abhishek,abhishek@xyz.com,7.6,5,5,Placed
+Pratik ,pratik@xyz.com,9.3,2,2,Not Placed
+Nikita,nikita@xyz.com,6.4,2,2,Not Placed
+Ashwini ,ashwini@xyz.com,8.4,3,3,Not Placed
+Jheanna Mae,jheannamae@xyz.com,6.6,5,5,Placed
+Krishna,krishna@xyz.com,7.8,2,2,Not Placed
+Aniket,aniket@xyz.com,8.7,4,4,Placed
+VIDIT,vidit@xyz.com,7.2,2,2,Not Placed
+Pratiksha,pratiksha@xyz.com,7.1,3,3,Not Placed
+Suryaprakash,suryaprakash@xyz.com,8.0,3,3,Not Placed
+Chetan,chetan@xyz.com,8.5,5,5,Placed
+Rishika,rishika@xyz.com,8.5,5,5,Placed
+Kiran,kiran@xyz.com,9.1,5,5,Placed
+Abhishek,abhishek@xyz.com,9.7,3,3,Not Placed
+Neeraj,neeraj@xyz.com,8.7,5,5,Placed
+Akshay,akshay@xyz.com,6.5,2,2,Not Placed
+Saif ali,saifali@xyz.com,8.8,3,3,Not Placed
+Lankesh,lankesh@xyz.com,9.3,4,4,Placed
+Sanjay,sanjay@xyz.com,7.6,3,3,Not Placed
+Sushmita,sushmita@xyz.com,6.5,4,4,Placed
+Vipul,vipul@xyz.com,8.7,3,3,Not Placed
+MD.,md.@xyz.com,9.1,2,2,Not Placed
+ZEEL,zeel@xyz.com,9.2,5,5,Placed
+MIROLIYA,miroliya@xyz.com,7.3,5,5,Placed
+Samruddhi,samruddhi@xyz.com,7.6,2,2,Not Placed
+Sakshi,sakshi@xyz.com,7.1,4,4,Placed
+Rutuja,rutuja@xyz.com,8.3,2,2,Not Placed
+Rana,rana@xyz.com,9.2,2,2,Not Placed
+Shreya,shreya@xyz.com,9.9,5,5,Placed
+Hrishikesh,hrishikesh@xyz.com,9.3,5,5,Placed
+Dev,dev@xyz.com,7.1,5,5,Placed
+Harshal,harshal@xyz.com,7.5,2,2,Not Placed
+Bhumik,bhumik@xyz.com,7.3,4,4,Placed
+Preksha,preksha@xyz.com,7.4,5,5,Placed
+Vedant,vedant@xyz.com,8.3,5,5,Placed
+GANGINENI VENKATA,ganginenivenkata@xyz.com,7.4,5,5,Placed
+Patel,patel@xyz.com,6.7,2,2,Not Placed
+Lukman,lukman@xyz.com,7.3,2,2,Not Placed
+Rohit,rohit@xyz.com,9.7,2,2,Not Placed
+ANJANA,anjana@xyz.com,7.9,2,2,Not Placed
+Gajrotar,gajrotar@xyz.com,7.2,3,3,Not Placed
+Patel,patel@xyz.com,7.1,4,4,Placed
+Nihal,nihal@xyz.com,8.7,2,2,Not Placed
+Patel,patel@xyz.com,8.7,2,2,Not Placed
+Jaykumar,jaykumar@xyz.com,8.2,4,4,Placed
+Vipul,vipul@xyz.com,6.8,2,2,Not Placed
+Jaiswal,jaiswal@xyz.com,7.1,2,2,Not Placed
+Akshinsinh,akshinsinh@xyz.com,8.5,5,5,Placed
+Charmi,charmi@xyz.com,9.1,4,4,Placed
+Tushar,tushar@xyz.com,9.5,4,5,Placed
+aastha,aastha@xyz.com,6.7,3,2,Not Placed
+Prasad,prasad@xyz.com,6.7,5,3,Not Placed
+vraj,vraj@xyz.com,8.2,5,5,Placed
+Raj,raj@xyz.com,6.5,5,5,Placed
+Sharma,sharma@xyz.com,8.7,4,3,Not Placed
+Kevin,kevin@xyz.com,9.1,5,4,Not Placed
+Esha,esha@xyz.com,8.9,2,3,Placed
+Hemil,hemil@xyz.com,7.4,3,2,Not Placed
+Shitij,shitij@xyz.com,7.3,4,4,Placed
+Sahil,sahil@xyz.com,8.6,4,4,Placed
+dirgh,dirgh@xyz.com,9.2,4,2,Not Placed
+Sandeep,sandeep@xyz.com,7.8,5,2,Not Placed
+UTkarsha,utkarsha@xyz.com,7.9,2,5,Placed
+Sanjay,sanjay@xyz.com,9.9,5,3,Not Placed
+PRAJWAL,prajwal@xyz.com,8.1,2,5,Placed
+Pranjal,pranjal@xyz.com,9.5,3,2,Not Placed
+Nikhil,nikhil@xyz.com,9.8,3,4,Placed
+Aakanksha,aakanksha@xyz.com,9.6,4,5,Placed
+Jyoti,jyoti@xyz.com,9.6,5,3,Not Placed
+Darshana,darshana@xyz.com,6.2,5,2,Not Placed
+Gayatri,gayatri@xyz.com,9.1,5,5,Placed
+Shubham,shubham@xyz.com,7.2,5,3,Not Placed
+Rushikesh,rushikesh@xyz.com,9.5,5,4,Not Placed
+Shubham,shubham@xyz.com,6.8,3,2,Not Placed
+Krishan,krishan@xyz.com,8.4,4,4,Placed
+Hemant ,hemant@xyz.com,9.9,4,4,Placed
+Ajay,ajay@xyz.com,6.6,4,5,Placed
+Anmol,anmol@xyz.com,6.7,4,4,Placed
+Himani,himani@xyz.com,7.6,2,4,Placed
+Samidha,samidha@xyz.com,8.3,3,4,Placed
+Ghanshyam,ghanshyam@xyz.com,6.3,5,4,Not Placed
+Shriram,shriram@xyz.com,8.9,2,5,Placed
+Veena ,veena@xyz.com,9.5,3,2,Not Placed
+Tushar,tushar@xyz.com,8.5,4,4,Placed
+Abdul,abdul@xyz.com,8.5,4,5,Placed
+Yash,yash@xyz.com,8.8,3,2,Not Placed
+Anghan,anghan@xyz.com,7.9,2,2,Not Placed
+Rupapara,rupapara@xyz.com,7.5,2,4,Placed
+Garala,garala@xyz.com,8.3,2,2,Not Placed
+AARAV,aarav@xyz.com,6.4,2,4,Placed
+Harshil,harshil@xyz.com,7.5,4,5,Placed
+Taksh,taksh@xyz.com,7.7,5,3,Not Placed
+Vikranth,vikranth@xyz.com,9.9,4,3,Not Placed
+Dhanashree,dhanashree@xyz.com,7.6,2,4,Placed
+Swapnali ,swapnali@xyz.com,7.9,3,3,Not Placed
+Mihir,mihir@xyz.com,7.7,3,2,Not Placed
+Omkar,omkar@xyz.com,7.4,5,4,Not Placed
+Sonu,sonu@xyz.com,9.2,5,5,Placed
+Aniket,aniket@xyz.com,7.6,3,4,Placed
+Abhishek,abhishek@xyz.com,8.7,4,4,Placed
+Pratik ,pratik@xyz.com,9.5,5,2,Not Placed
+Nikita,nikita@xyz.com,6.9,5,4,Not Placed
+Ashwini ,ashwini@xyz.com,9.2,2,2,Not Placed
+Jheanna Mae,jheannamae@xyz.com,6.9,3,3,Not Placed
+Krishna,krishna@xyz.com,7.2,4,4,Placed
+Aniket,aniket@xyz.com,7.5,3,3,Not Placed
+VIDIT,vidit@xyz.com,6.5,2,2,Not Placed
+Pratiksha,pratiksha@xyz.com,7.5,4,4,Placed
+Suryaprakash,suryaprakash@xyz.com,6.9,5,5,Placed
+Chetan,chetan@xyz.com,7.6,2,2,Not Placed
+Rishika,rishika@xyz.com,6.5,5,5,Placed
+Kiran,kiran@xyz.com,7.3,2,2,Not Placed
+Abhishek,abhishek@xyz.com,6.7,4,4,Placed
+Neeraj,neeraj@xyz.com,8.7,4,4,Placed
+Akshay,akshay@xyz.com,6.7,3,4,Placed
+Saif ali,saifali@xyz.com,9.0,3,2,Not Placed
+Lankesh,lankesh@xyz.com,7.2,4,3,Not Placed
+Sanjay,sanjay@xyz.com,8.5,2,3,Placed
+Sushmita,sushmita@xyz.com,6.5,5,5,Placed
+Vipul,vipul@xyz.com,6.6,4,5,Placed
